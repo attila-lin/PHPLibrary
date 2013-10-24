@@ -55,19 +55,23 @@ for i in range(1,3):
     j = jsonstring[8:jsonstring.find(');nav(')-1]
     
     # 我要学正则
+    # 使之符合json标准
     j = j.replace("{",'{"')
     j = j.replace(":{",'":{')
     j = j.replace("b:",'b":')
     j = j.replace("t:",'"t":')
     j = j.replace('"},','"},"')
     j = j+"}"
+
+
+    # 使用simplejson解析
     ddata = simplejson.loads( j )
     # print ddata
     # print type(ddata)
     for book in ddata:
         ID = book
         titleandauthor = ddata[book]['t']
-        title = titleandauthor[:titleandauthor.find(' /')]
+        title = titleandauthor[:titleandauthor.find('(作者：')]
         author = titleandauthor[titleandauthor.find('作者：') + 3 : titleandauthor.find(')')]
-        print title
-        print author
+        print "title  :" + title
+        print "author :" + author
