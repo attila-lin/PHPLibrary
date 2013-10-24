@@ -1,8 +1,8 @@
 status: 200
-content-length: 130334
+content-length: 126575
 content-location: http://book.douban.com/subject/25731751/
 set-cookie: viewed="25731751_20374758_1468997"; path=/; domain=.douban.com;
- expires=Fri, 24-Oct-2014 13:03:10 GMT
+ expires=Fri, 24-Oct-2014 15:20:54 GMT
 expires: Sun, 1 Jan 2006 01:00:00 GMT
 keep-alive: timeout=10
 server: nginx
@@ -10,7 +10,7 @@ connection: keep-alive
 -content-encoding: gzip
 pragma: no-cache
 cache-control: must-revalidate, no-cache, private
-date: Thu, 24 Oct 2013 13:03:10 GMT
+date: Thu, 24 Oct 2013 15:20:54 GMT
 x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
  checknow.COMM_CG, sns.search_suggest
 content-type: text/html; charset=utf-8
@@ -816,28 +816,28 @@ content-type: text/html; charset=utf-8
   
 
   <h2>
-    <span class="">豆瓣成员常用的标签(共95个)</span>
+    <span class="">豆瓣成员常用的标签(共96个)</span>
       &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
 
   </h2>
 
 
   <div class="indent">    <span class="">
-        <a class=" " href="http://book.douban.com/tag/%E8%81%8C%E5%9C%BA">职场</a>(<span class="">488</span>) &nbsp;    </span>
+        <a class=" " href="http://book.douban.com/tag/%E8%81%8C%E5%9C%BA">职场</a>(<span class="">490</span>) &nbsp;    </span>
     <span class="">
-        <a class=" " href="http://book.douban.com/tag/%E6%88%90%E9%95%BF">成长</a>(<span class="">175</span>) &nbsp;    </span>
+        <a class=" " href="http://book.douban.com/tag/%E6%88%90%E9%95%BF">成长</a>(<span class="">176</span>) &nbsp;    </span>
     <span class="">
         <a class=" " href="http://book.douban.com/tag/%E7%AE%A1%E7%90%86">管理</a>(<span class="">113</span>) &nbsp;    </span>
     <span class="">
-        <a class=" " href="http://book.douban.com/tag/%E5%AD%A6%E4%B9%A0">学习</a>(<span class="">105</span>) &nbsp;    </span>
+        <a class=" " href="http://book.douban.com/tag/%E5%AD%A6%E4%B9%A0">学习</a>(<span class="">106</span>) &nbsp;    </span>
     <span class="">
-        <a class=" " href="http://book.douban.com/tag/%E6%97%A5%E6%9C%AC">日本</a>(<span class="">78</span>) &nbsp;    </span>
+        <a class=" " href="http://book.douban.com/tag/%E6%97%A5%E6%9C%AC">日本</a>(<span class="">79</span>) &nbsp;    </span>
     <span class="">
         <a class=" " href="http://book.douban.com/tag/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0">终身学习</a>(<span class="">50</span>) &nbsp;    </span>
     <span class="">
         <a class=" " href="http://book.douban.com/tag/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86">个人管理</a>(<span class="">48</span>) &nbsp;    </span>
     <span class="">
-        <a class=" " href="http://book.douban.com/tag/%E6%80%9D%E7%BB%B4">思维</a>(<span class="">41</span>) &nbsp;    </span>
+        <a class=" " href="http://book.douban.com/tag/%E6%80%9D%E7%BB%B4">思维</a>(<span class="">42</span>) &nbsp;    </span>
   </div>
 </div>
 
@@ -850,121 +850,6 @@ content-type: text/html; charset=utf-8
 
 
 
-
-
-
-
-
-
-<div id="rec-ebook-section" class="block5 subject_show">
-  
-
-  
-  
-
-  <h2>
-    <span class="">喜欢读&#34;99%的新人，没用心做好的50件事&#34;的人也喜欢的电子书</span>
-      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
-
-  </h2>
-
-
-  <div class="tips-mod">
-    支持 Web、iPhone、iPad、Android 阅读器
-  </div>
-  <div class="content clearfix">
-      
-      <dl>
-        <dt>
-          <a href="http://read.douban.com/ebook/316702/?dcs=subject-rec&amp;dcm=douban&amp;dct=25731751" target="_blank">
-            <span class="cover-outer">
-              <img width="67px" height="100px" src="http://img3.douban.com/view/ark_article_cover/cut/public/316702.jpg?v=1348796519.0">
-            </span>
-          </a>
-        </dt>
-        <dd>
-          <div class="title">
-              <a href="http://read.douban.com/ebook/316702/" target="_blank">论文艺女青年如何培养女王气场·节选</a>
-          </div>
-          <div class="price">
-              1.99元
-          </div>
-        </dd>
-      </dl>
-      
-      <dl>
-        <dt>
-          <a href="http://read.douban.com/ebook/912704/?dcs=subject-rec&amp;dcm=douban&amp;dct=25731751" target="_blank">
-            <span class="cover-outer">
-              <img width="67px" height="100px" src="http://img3.douban.com/view/ark_article_cover/cut/public/912704.jpg?v=1369018941.0">
-            </span>
-          </a>
-        </dt>
-        <dd>
-          <div class="title">
-              <a href="http://read.douban.com/ebook/912704/" target="_blank">30岁前的每一天</a>
-          </div>
-          <div class="price">
-              11.00元
-          </div>
-        </dd>
-      </dl>
-      
-      <dl>
-        <dt>
-          <a href="http://read.douban.com/ebook/393187/?dcs=subject-rec&amp;dcm=douban&amp;dct=25731751" target="_blank">
-            <span class="cover-outer">
-              <img width="67px" height="100px" src="http://img3.douban.com/view/ark_article_cover/cut/public/393187.jpg?v=1355890608.0">
-            </span>
-          </a>
-        </dt>
-        <dd>
-          <div class="title">
-              <a href="http://read.douban.com/ebook/393187/" target="_blank">7天治愈拖延症</a>
-          </div>
-          <div class="price">
-              5.00元
-          </div>
-        </dd>
-      </dl>
-      
-      <dl>
-        <dt>
-          <a href="http://read.douban.com/ebook/1126615/?dcs=subject-rec&amp;dcm=douban&amp;dct=25731751" target="_blank">
-            <span class="cover-outer">
-              <img width="67px" height="100px" src="http://img3.douban.com/view/ark_article_cover/cut/public/1126615.jpg?v=1373263631.0">
-            </span>
-          </a>
-        </dt>
-        <dd>
-          <div class="title">
-              <a href="http://read.douban.com/ebook/1126615/" target="_blank">爱的基本语法</a>
-          </div>
-          <div class="price">
-              9.90元
-          </div>
-        </dd>
-      </dl>
-      
-      <dl>
-        <dt>
-          <a href="http://read.douban.com/ebook/911899/?dcs=subject-rec&amp;dcm=douban&amp;dct=25731751" target="_blank">
-            <span class="cover-outer">
-              <img width="67px" height="100px" src="http://img3.douban.com/view/ark_article_cover/cut/public/911899.jpg?v=1368609767.0">
-            </span>
-          </a>
-        </dt>
-        <dd>
-          <div class="title">
-              <a href="http://read.douban.com/ebook/911899/" target="_blank">挺住，意味着一切</a>
-          </div>
-          <div class="price">
-              10.00元
-          </div>
-        </dd>
-      </dl>
-  </div>
-</div>
 
 
   
@@ -2710,9 +2595,9 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
 
 <div class="">
     
-    <div class="ll"><a href="http://book.douban.com/people/32591878/"><img src="http://img3.douban.com/icon/u32591878-12.jpg" class="pil" alt="B7617" /></a></div>
-    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/32591878/">B7617</a><br/>
-      <div class="pl ll">          今天下午          想读      </div>
+    <div class="ll"><a href="http://book.douban.com/people/48188249/"><img src="http://img3.douban.com/icon/u48188249-3.jpg" class="pil" alt="三分拍" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/48188249/">三分拍</a><br/>
+      <div class="pl ll">          6分钟前          想读      </div>
 
       <br/>
 
@@ -2723,23 +2608,9 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
 </div>
 <div class="">
     
-    <div class="ll"><a href="http://book.douban.com/people/64009135/"><img src="http://img3.douban.com/icon/u64009135-2.jpg" class="pil" alt="无敌蒋小欣" /></a></div>
-    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/64009135/">无敌蒋小欣</a><br/>
-      <div class="pl ll">          今天下午          想读      </div>
-
-      <br/>
-
-      <span class="pl">tags:职场</span><br />
-
-    </div>
-    <div class="clear"></div><br/>
-    <div class="ul" style="margin-bottom:12px;"></div>
-</div>
-<div class="">
-    
-    <div class="ll"><a href="http://book.douban.com/people/simon_chong/"><img src="http://img3.douban.com/icon/u1890470-97.jpg" class="pil" alt="露西" /></a></div>
-    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/simon_chong/">露西</a><br/>
-      <div class="pl ll">          今天下午          在读      </div>
+    <div class="ll"><a href="http://book.douban.com/people/14249877/"><img src="http://img3.douban.com/icon/u14249877-3.jpg" class="pil" alt="mika" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/14249877/">mika</a><br/>
+      <div class="pl ll">          9分钟前          想读      </div>
 
       <br/>
 
@@ -2750,13 +2621,25 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
 </div>
 <div class="">
     
-    <div class="ll"><a href="http://book.douban.com/people/74815377/"><img src="http://img3.douban.com/icon/u74815377-1.jpg" class="pil" alt="欧阳宇航1999" /></a></div>
-    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/74815377/">欧阳宇航1999</a><br/>
-      <div class="pl ll">          今天下午          想读      </div>
+    <div class="ll"><a href="http://book.douban.com/people/59412655/"><img src="http://img3.douban.com/icon/u59412655-4.jpg" class="pil" alt="Esmile" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/59412655/">Esmile</a><br/>
+      <div class="pl ll">          19分钟前          想读      </div>
 
       <br/>
 
-      <span class="pl">tags:职场</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/Euthanazia/"><img src="http://img3.douban.com/icon/u58204430-5.jpg" class="pil" alt="切里チェリー" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/Euthanazia/">切里チェリー</a><br/>
+      <div class="pl ll">          21分钟前          想读      </div>
+
+      <br/>
+
 
     </div>
     <div class="clear"></div><br/>
@@ -2766,7 +2649,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
 
         <p class="pl">&gt; <a href="http://book.douban.com/subject/25731751/doings">33人在读</a></p>
         <p class="pl">&gt; <a href="http://book.douban.com/subject/25731751/collections">40人读过</a></p>
-        <p class="pl">&gt; <a href="http://book.douban.com/subject/25731751/wishes">2581人想读</a></p>
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/25731751/wishes">2592人想读</a></p>
 
   </div>
 
@@ -2810,7 +2693,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
     <li class="">
           <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
 
-        有2581人想读,手里有一本闲着?
+        有2592人想读,手里有一本闲着?
       </li>
     </ul>
   </div>
@@ -2885,7 +2768,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
             adSource = 'http://erebor.douban.com/',
             userId = '',
             browserId = 'YPFCwQ3tMM8',
-            ipAddress = '218.109.101.238',
+            ipAddress = '219.82.62.91',
             criteria = '3:/subject/25731751/',
             preview = '',
             debug = false,
@@ -2987,7 +2870,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-    <!-- dis8-->
+    <!-- dis10-->
 
 
 <script>var _check_hijack = function () {

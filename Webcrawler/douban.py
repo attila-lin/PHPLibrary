@@ -30,10 +30,11 @@ headers = {
 
 baseurl = 'http://book.douban.com/subject/'
 # 遍历
-for i in range(25731751,25731752):
+# First time   20000000 20001000
+for i in range(20000000,20001000):
     try:
         url = baseurl + str(i) +'/'
-        print url
+        # print url
         # page = urllib2.urlopen(url)
         response, content = http.request(url, 'GET', headers=headers)
         # soup = BeautifulSoup(page)
@@ -74,6 +75,9 @@ for i in range(25731751,25731752):
             #     print next
 
             # print info
+            print "{{{"
+            print "id:",
+            print i
             if info != None:
                 for inf in info.findAll('span'):
                     if inf.string == ' 作者':
@@ -109,16 +113,23 @@ for i in range(25731751,25731752):
                 print "评分:",
                 print str(soup.find('strong',{'class':'ll rating_num '}).string).replace(" ","").replace("\n",'').replace("\t","")
 
+            if soup.find('span',{'property':'v:votes'}) != None:
+                print "评价人数:",
+                print soup.find('span',{'property':'v:votes'}).string
+
             if soup.find('div',{'id':'db-tags-section'}) != None:
                 print "标签:",
                 lable = soup.find('div',{'id':'db-tags-section'})
                 for a in lable.findAll('a'):
                     print a.string,
+            print "}}}"
 
     except urllib2.HTTPError, e:
-        print "Not Found"
+        # print "Not Found"
+        pass
     except httplib2.RedirectLimit, e:
-        print "RedirectLimit"
+        # print "RedirectLimit"
+        pass
     else:
         pass
     finally:
