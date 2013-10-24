@@ -25,11 +25,14 @@ for DataBase's homework and Recommend System
 + 4. 书籍标签
 
 
-# Recommend System :
+### Recommend System :
 
 used [python-recsys](https://github.com/ocelma/python-recsys)
-*Author*: Oscar Celma (ocelma __at__ gmail __dot__ com), http://ocelma.net
 
-*NOTE*
+*Author*: 
+	
+Oscar Celma (ocelma __at__ gmail __dot__ com), http://ocelma.net
+
+*NOTE*:
 
 for [QuickStart](http://ocelma.net/software/python-recsys/build/html/quickstart.html)

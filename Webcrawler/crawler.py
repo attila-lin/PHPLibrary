@@ -40,7 +40,9 @@ sys.setdefaultencoding('utf-8')
 
 # url部分
 booksurl = "http://webpac.zju.edu.cn/cgi-bin/newbook.cgi?total=38857&base=ALL&date=180&cls=ALL&page="
-thisbookurl = "http://webpac.zju.edu.cn/F/QJBLP34LMP2IAKIPDVD8P9TGKCMAQSGAC7XBJLBEJQ6FQ1GDXN-21216?func=find-b&find_code=SYS&local_base=ZJU09&request="
+thisbookurl = "http://webpac.zju.edu.cn:80/F/D9T3PSJ15J8BN87MS6NLYLTJSFCVMG76MAQHPKCTRHKGN3B8LS-40389?func=find-b&find_code=SYS&local_base=ZJU01&request="
+
+http://webpac.zju.edu.cn/F/D9T3PSJ15J8BN87MS6NLYLTJSFCVMG76MAQHPKCTRHKGN3B8LS?func=find-b&find_code=SYS&request=302408
 
 # 遍历
 for i in range(1,3):
@@ -75,3 +77,9 @@ for i in range(1,3):
         author = titleandauthor[titleandauthor.find('作者：') + 3 : titleandauthor.find(')')]
         print "title  :" + title
         print "author :" + author
+        detailpage = urllib2.urlopen(thisbookurl + str(i))
+        detailsoup = BeautifulSoup(detailpage)
+        print detailsoup
+        break
+    break
+
