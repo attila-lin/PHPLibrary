@@ -3,9 +3,9 @@ PHPLibrary
 
 for DataBase's homework and Recommend System
 
-# 功能描述：
+## 功能描述：
 
-## 基本功能：
+### 基本功能：
 
 + 1. 管理员登陆
 + 2. 图书入库
@@ -13,7 +13,7 @@ for DataBase's homework and Recommend System
 + 4. 借书
 + 5. 借书证管理
 
-## 特别功能：
+### 特别功能：
 
 
 + 1. 借书排序
