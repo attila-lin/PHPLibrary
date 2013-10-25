@@ -39,3 +39,8 @@ Oscar Celma (ocelma __at__ gmail __dot__ com), http://ocelma.net
 *NOTE*:
 
 for [QuickStart](http://ocelma.net/software/python-recsys/build/html/quickstart.html)
+
+
+### Search System :
+
+used [Sphinxs]()

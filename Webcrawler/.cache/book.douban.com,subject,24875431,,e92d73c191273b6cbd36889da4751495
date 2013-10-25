@@ -1,0 +1,1588 @@
+status: 200
+content-length: 52120
+content-location: http://book.douban.com/subject/24875431/
+set-cookie: viewed="24875431_25731751_20374758_1468997"; path=/;
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:22:27 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Fri, 25 Oct 2013 07:22:27 GMT
+x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
+ sns.search_suggest
+content-type: text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff24 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>写给大忙人的教子枕边书 (豆瓣)</title>
+  
+
+
+  
+<script>!function(f){var h=function(o,n,m){var k=new Date(),j,l;n=n||30;m=m||"/";k.setTime(k.getTime()+(n*24*60*60*1000));j="; expires="+k.toGMTString();for(l in o){f.cookie=l+"="+o[l]+j+"; path="+m}},d=function(m){var l=m+"=",o,n,j,k=f.cookie.split(";");for(n=0,j=k.length;n<j;n++){o=k[n].replace(/^\s+|\s+$/g,"");if(o.indexOf(l)==0){return o.substring(l.length,o.length).replace(/\"/g,"")}}return null},e=f.write,b={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},a=function(l,k){var j=new Image();j.onload=function(){};j.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(l)+"&environment="+encodeURIComponent(k)},i=function(k){try{e.call(f,k)}catch(j){e(k)}},c=/<script.*?src\=["']?([^"'\s>]+)/ig,g=/http:\/\/(.+?)\.([^\/]+).+/i;f.writeln=f.write=function(k){var j=c.exec(k),l;if(!j){i(k);return}l=g.exec(j[1]);if(!l){i(k);return}if(b[l[2]]){i(k);return}if(d("hj")==="tqs"){return}a(j[1],location.href);h({hj:"tqs"},1);setTimeout(function(){location.replace(location.href)},50)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/book/subject/24875431/">
+<meta name="keywords" content="写给大忙人的教子枕边书,鲁鹏程,企业管理出版社,2013-8-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书写给大忙人的教子枕边书 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
+  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
+  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
+  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+    <link rel="alternate" href="http://book.douban.com/feed/subject/24875431/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+
+  <script>  </script>
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/5dc929cd686bc5ea.css">
+
+  <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+  
+  
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login?source=book" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register?source=book">注册</a>
+</div>
+
+
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://book.douban.com/">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    
+                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-logo">
+        <a href="http://book.douban.com">豆瓣读书</a>
+      </div>
+      <div class="nav-search">
+        <form action="http://book.douban.com/subject_search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">书名、作者、ISBN</label>
+            <div class="inp">
+              <input id="inp-query" name="search_text" size="22" maxlength="60"
+                value="">
+            </div>
+            <div class="inp-btn">
+              <input type="submit" value="搜索">
+            </div>
+            <input type="hidden" name="cat" value="1001">
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="nav-secondary">
+    <ul class="nav-items">
+      <li
+        class="nav-item-first"
+      ><a href="http://book.douban.com/tag/">分类浏览</a></li>
+      
+      <li class="book-cart"><a href="http://book.douban.com/cart">购书单</a></li>
+      <li>
+        <a href="http://read.douban.com/ebooks/?dcs=book-nav&amp;dcm=douban" target="_blank">电子图书</a>
+        <sup class="icon-new"></sup>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <script type="text/template" id="suggest-item">
+    <li class="item"><a href="#">{{= item}}</a></li>
+  </script>
+  
+  
+
+
+
+    <div id="wrapper">
+        
+<h1>
+    <span property="v:itemreviewed">写给大忙人的教子枕边书</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg" 
+      href="http://img3.douban.com/lpic/s26863774.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24875431, ), title: 写给大忙人的教子枕边书, uid: 7516404225, cat_id: 1001&gt;&gt;">
+    <img src="http://img3.douban.com/mpic/s26863774.jpg" title="点击看大图" alt="写给大忙人的教子枕边书" rel="v:photo">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>: 
+        
+        <a class="" href="/search/%E9%B2%81%E9%B9%8F%E7%A8%8B">鲁鹏程</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 企业管理出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-8-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 256<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 32.80元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787516404225<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap" rel="v:rating">
+    <p class="rating_self clearfix" typeof="v:Rating">
+      <span class="ll bigstar00"></span>
+
+
+      <strong class="ll rating_num " property="v:average">
+      
+      </strong>
+
+      <span property="v:best" content="10.0"></span>
+    </p>
+    <p class="rating_self font_normal clearbox">
+    (
+    <span class="">
+      <a href="collections">少于10人评价</a>
+    </span>
+    )
+  </p>
+    
+    
+<span class="stars5 starstop" title="力荐"></span>
+
+    
+<div class="power" style="width:45px"></div>
+
+    75.0%<br>
+    
+    
+<span class="stars4 starstop" title="推荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars3 starstop" title="还行"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars2 starstop" title="较差"></span>
+
+    
+<div class="power" style="width:15px"></div>
+
+    25.0%<br>
+    
+    
+<span class="stars1 starstop" title="很差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+</div>
+</div>
+
+
+  </div>
+  
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="http://www.douban.com/register?reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875431-wish">
+          <span>想读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectdo&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875431-do">
+          <span>在读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875431-collect">
+          <span>读过</span>
+        </a>
+      <div class="ll j a_stars">
+        
+
+<span class="j a_stars">
+  <span class="rate_stars">
+    评价: 
+    <span id="rating">
+      <span id="stars"><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875431-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875431-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875431-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875431-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875431-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5" /></a>      </span>
+      <span id="rateword" class="pl"></span>
+      <input id="n_rating" type="hidden" value=""
+          />
+    </span>
+  </span>
+</span>
+
+
+
+
+
+
+      </div>
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+      <li>
+        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+      </li>
+
+        <li>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+        </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="http://img3.douban.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="http://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-24875431">
+        <a href= "#" data-url="http://book.douban.com/subject/24875431/" data-desc="" data-title="书籍《写给大忙人的教子枕边书》 (来自豆瓣) " data-pic="http://img3.douban.com/lpic/s26863774.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var cache_url = cache_url || {};
+    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_24875431"></div>
+<div class="related_info">
+  
+  
+  
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent" id="link-report">
+  
+    <div class="">
+      <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>《好妈妈不吼不叫教育男孩100招》作者鲁鹏程最新力作</p>    <p>抓住9个关键方面，父母即使再忙，也能把孩子教育好</p>    <p>一流的父母造就一流的孩子，要让孩子进“一流”幼儿园和“一流”学校，但更重要的是使孩子在“一流”家庭里接受熏陶。</p>    <p>本书是大忙人（职业父母）必修的10堂教子课，全书开篇即指明，大忙人一定要做孩子人生的导师，继而告诉大忙人，要培养孩子的好品格、好习惯、健康心理，教孩子学习、应对挫折、交往、自我管理，培养孩子的好性格以及生存能力等9方面的内容。其实，教育孩子只要抓住这些关键的点，并身体力行地去实践，大忙人即使再忙，也能把孩子培养好，教育成才。</p></div>
+
+    </div>
+  
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "http://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("http://book.douban.com/book/subject/24875431/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>鲁鹏程，资深家庭教育研究者，家庭教育畅销书作者，中国教育出版网、家庭顾问网、好家长网、棒棒糖亲子社区等国内多家知名教育网特约家庭教育专家。在全国多地举办过家庭教育专题讲座、读者见面会。已出版家庭教育著作多部，其中《好妈妈不吼不叫教育男孩100招》、《最彻底的家庭教育方法：&lt;弟子规&gt;里的教育智慧》、《别以爱的名义伤害孩子》、《好妈妈不宠不娇教育女孩100招》、《抓住儿童敏感期，你的教育就对了》等作品深受广大读者好评。另外，《让孩子吃点苦吧》（青岛出版社）入选“2011—2012年中国十大家庭教育图书”。2012年9月，被评为机械工业信息研究院、机械工业出版社60周年“最具影响力作者”。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_24875431_short">
+        第一章<br/>
+        大忙人再忙，也要做孩子的导师，引领他的幸福人生<br/>
+        是大忙人，但更是父母。天下的每一位父母都希望子女成龙成凤，而孩子的成长也需要父母责无旁贷的教育，期待父母有一个指导的声音。每一位身兼大忙人与父母角色的人都应该明白，自己是孩子的第一任老师，也是终身之师，所以一定要胜任这一角色。在这个教育孩子成才、成功比以往任何时候都迫切的时代，每一位父母都应该立志做孩子最优秀的导师，这是今天这个时代的要求。父母要做孩子的榜样，要做孩子的知心人……<br/>
+        1.人不学，不知道——要做学习型父母 /<br/>
+        2.己身正，不令而行——凡事要率先垂范 /<br/>
+        3.与孩子分享快乐——做孩子的知心人 /<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_24875431_short').hide();$('#dir_24875431_full').show();$.get('/j/subject/j_dir_count',{id:24875431});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_24875431_full" style="display:none">
+        第一章<br/>
+        大忙人再忙，也要做孩子的导师，引领他的幸福人生<br/>
+        是大忙人，但更是父母。天下的每一位父母都希望子女成龙成凤，而孩子的成长也需要父母责无旁贷的教育，期待父母有一个指导的声音。每一位身兼大忙人与父母角色的人都应该明白，自己是孩子的第一任老师，也是终身之师，所以一定要胜任这一角色。在这个教育孩子成才、成功比以往任何时候都迫切的时代，每一位父母都应该立志做孩子最优秀的导师，这是今天这个时代的要求。父母要做孩子的榜样，要做孩子的知心人……<br/>
+        1.人不学，不知道——要做学习型父母 /<br/>
+        2.己身正，不令而行——凡事要率先垂范 /<br/>
+        3.与孩子分享快乐——做孩子的知心人 /<br/>
+        4.启发比打骂更有效——学会正确引导孩子 /<br/>
+        5.把孩子培养成才——做人、做事与学习 /<br/>
+        第二章<br/>
+        大忙人再忙，也要让孩子拥有良好的品格，人品第一<br/>
+        对孩子来说，品格的塑造远远比知识的获得更重要，因为品格是孩子一生成功的基础。英国著名哲学家培根曾说：“对一个人的评价，不可视其财富出身，更不可视其学问的高下，而是要看他的真实的品格。”成功的人都具有良好的品格，如孝道、诚信、爱心、谦虚、感恩、正直等，这些品格是知识不能替代的。<br/>
+        6.百善孝为先——给孩子种下孝心的种子 /<br/>
+        7.人无信不立——诚信是做人的第一准则 /<br/>
+        8.大爱无疆——让孩子从小怀有一颗爱心 /<br/>
+        9.德乃大，必有容——培养孩子宽广的心胸 /<br/>
+        10.满招损，谦受益——谦虚让孩子受益一生 /<br/>
+        11.好心态，好人生——培养孩子的乐观心态 /<br/>
+        12.滴水之恩，当涌泉相报——培养孩子的感恩心 /<br/>
+        13.独乐乐，不如众乐乐——教孩子乐于与分享 /<br/>
+        14.己不正，何以正人——教孩子做正直的人 /<br/>
+        第三章<br/>
+        大忙人再忙，也要培养孩子的好习惯，成就他一生<br/>
+        著名教育家叶圣陶曾说：“教育就是培养好习惯。”好的习惯不仅会影响孩子的学习、生活、性格、行为等，而且会影响他一生的前程。培养孩子的好习惯，一定要讲求方法，何种方法培养孩子的何种习惯，也就是说，一定要抓住培养的关键时期。<br/>
+        15.培养孩子的自信心——让孩子给自己鼓劲 /<br/>
+        16.人要有志向——鼓励孩子追求人生目标 /<br/>
+        17.天下兴亡，匹夫有责——培养孩子的责任感 /<br/>
+        18.行有不得，反求诸己——教孩子自我反省 /<br/>
+        19.习劳知感恩——培养孩子热爱劳动的习惯 /<br/>
+        20.凡事预则立，不预则废——教孩子做事有计划 /<br/>
+        21.细节决定成败——不让孩子忽视任何细节 /<br/>
+        22.你不理财，财不理你——教孩子学会理财 /<br/>
+        第四章<br/>
+        大忙人再忙，也要与孩子做心灵的沟通，亲子无隔阂<br/>
+        要有点童心、童趣，要了解孩子的心思，如果两代人之间找不到共同的爱好和语言，就难以真挚地交流思想和感情。<br/>
+        23.孩子在想什么——了解孩子的心思 /<br/>
+        24.一起摔摔泥巴——要多一点童心童趣 /<br/>
+        25.孩子，你说吧，我听着呢——懂得倾听孩子 /<br/>
+        26.从内心接纳孩子——学会理解孩子 /<br/>
+        27.放下家长的架子——认识孩子的平等需求 /<br/>
+        28.孩子是独立的个体——要学会尊重孩子 /<br/>
+        29.成就自由心灵——给孩子一个成长的空间 /<br/>
+        30.我“爱心无限”——别剥夺孩子的成长体验 /<br/>
+        31.体壮曰健——锻炼孩子的体质 /<br/>
+        32.心怡曰康——给孩子一颗健康的心 /<br/>
+        第五章<br/>
+        大忙人再忙，也要教孩子学会学习，提升学习力<br/>
+        今天，学习已经不是一种活动，而应该是一种能力。要让孩子学会学习，让他具备学习力，因为学习力就是竞争力。<br/>
+        33.潜能是无限的——激发孩子的智力潜能 /<br/>
+        34.兴趣是最好的老师——培养孩子的兴趣爱好 /<br/>
+        35.想象力比知识更重要——发挥孩子的想象力 /<br/>
+        36.用眼睛捕捉信息——培养孩子的观察力 /<br/>
+        37.学贵有疑——教孩子敢于大胆质疑 /<br/>
+        38.学而不思则罔——提高孩子的思考力 /<br/>
+        39.集聚精力于一点——培养孩子的专注精神 /<br/>
+        40.感悟读书的乐趣——教孩子学会阅读 /<br/>
+        41.记忆是智力活动的基础——帮孩子提高记忆力 /<br/>
+        42.有突破才会有创新——教孩子学会创新 /<br/>
+        第六章<br/>
+        大忙人再忙，也要教孩子在逆境中成长，超越自我<br/>
+        给孩子提供适度的挫折情境，增强他的耐挫力，提高他的心理承受能力。艰辛的童年并不一定是坏事，相反，可能会成就孩子。培养良好的积极向上的心态和心理承受能力，将使他一生受益无穷。<br/>
+        43.你要体验真正的人生——不帮孩子逃避生活的磨难 /<br/>
+        44.孩子，别被困难吓倒——教孩子从容面对逆境 /<br/>
+        45.孩子，相约成功吧——要孩子学会战胜失败 /<br/>
+        46.孩子，要激励自己向前行——教孩子学会超越自我 /<br/>
+        47.要明了事实的真相——教孩子在逆境中体悟 /<br/>
+        48.有毅力者成，反是者败——培养孩子的坚强毅力 /<br/>
+        第七章<br/>
+        大忙人再忙，也要培养孩子的交往能力，让他融入群体<br/>
+        学会表达自我，学会与人合作就是让孩子成功社交的第一步和前提条件，良好的人际交往能力是孩子适应性强的表现。<br/>
+        49.大胆地走出去吧——教孩子突破自我封闭 /<br/>
+        50.赞美发自内心——教孩子学会赞美他人  /<br/>
+        51.不学礼，无以立——让孩子懂得基本的礼仪 /<br/>
+        52.集体力量大——培养孩子与人合作的能力 /<br/>
+        53.善表达，不吹嘘——教孩子学会表达自我 /<br/>
+        54.给孩子一双倾听的耳朵——增强沟通效力 /<br/>
+        第八章<br/>
+        大忙人再忙，也要教孩子学会自我管理，从容安排生活<br/>
+        全球多所商学院访问教授帕瑞克博士曾经说：“除非你能管理‘自我’，否则你不能管理任何人或任何东西。”对孩子来说，自我管理同样非常重要。<br/>
+        55.学会控制自己——培养孩子的自制力 /<br/>
+        56.成功需要激励——让孩子学会自我激励 /<br/>
+        57.不拖延，要行动——加强孩子的执行力 /<br/>
+        58.惜时如命、如金——教孩子学会管理时间 /<br/>
+        59.做自己的主人——孩子要学会自主选择 /<br/>
+        第九章<br/>
+        大忙人再忙，也要重视孩子性格的培养，性格决定命运<br/>
+        孩子的性格跟后天的培养有很大关系，只要大忙人父母能够选对正确的培养方法，就一定能够让孩子拥有健康良好的性格。在培养的过程中，父母一定要多尊重、鼓励和赞赏孩子，让他逐渐养成完美的性格。<br/>
+        60.不可任意而为——坚决杜绝孩子任性 /<br/>
+        61.天下没有笨孩子——不要让孩子自卑 /<br/>
+        62.坚强再坚强——教孩子摒弃薄弱意志 /<br/>
+        63.给孩子“打打气”——增强孩子的勇气 /<br/>
+        64.消极要不得——教孩子做事一定要积极 /<br/>
+        65.千万不要犹豫不决——教孩子果断做事 /<br/>
+        第十章<br/>
+        大忙人再忙，也要培养孩子的生存力，让他在社会立足<br/>
+        孩子只有掌握了生存能力，他才能“滴自己的汗，吃自己的饭，自己的事自己干”，才能创造更多的财富。<br/>
+        66.不服输不娇气——教孩子学会自立 /<br/>
+        67.培养适应力——孩子要能适应环境 /<br/>
+        68.机不可失，时不再来——教孩子把握机遇 /<br/>
+        69.变压力为动力——教孩子缓解压力 /<br/>
+        70.防患于未然——教孩子学会保护自己 /<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_24875431_full').hide();$('#dir_24875431_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共4个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E7%95%85%E9%94%80%E4%B9%A6%E4%BD%9C%E8%80%85">畅销书作者</a>(<span class="">2</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2">家庭教育</a>(<span class="">2</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E4%B8%AD%E5%9B%BD">中国</a>(<span class="">2</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E8%BF%99%E6%9C%AC%E4%B9%A6%E5%BE%88%E7%BB%99%E5%8A%9B%EF%BC%8C%E6%8A%8A%E6%95%99%E8%82%B2%E5%AD%A9%E5%AD%90%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AF%B4%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95">这本书很给力，把教育孩子这件事说得很彻底</a>(<span class="">1</span>) &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <div id="reviews" class="ugc-mod">
+        <h2 class="clearfix">
+          书评&nbsp;&nbsp;· · · · · ·&nbsp;
+        </h2>
+        
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这本书</span></a>
+
+
+      <ul id="comment_tab" class="inline-tabs">
+        <li id="t_0" class="on">
+          <a href="javascript:void(0)" onclick="return switch_tab('t_0')">热门评论</a>
+        </li>
+        <li id="t_1">
+          <a href="javascript:void(0)" onclick="return switch_tab('t_1')">最新评论</a>
+        </li>
+      </ul>
+
+      
+
+      <div id="wt_0" class="">
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/76100730/" title="wuwang844"><img class="pil" src="http://img3.douban.com/icon/u76100730-7.jpg" alt="wuwang844"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6249552" class="rr"><a id="af-6249552" href="http://book.douban.com/review/6249552/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6249552" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="再忙也不能忽略孩子" class="" href="http://book.douban.com/review/6249552/">再忙也不能忽略孩子</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/76100730/" class=" ">wuwang844</a>                    (书评专用，闲人勿扰！)&nbsp;                </span>
+                <span class="allstar50" title="力荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6249552_short' class="review-short">
+                    <span class="">现在的父母似乎对孩子的教育和养育都越来越少了，小孩子从生下来就是爷爷奶奶或者姥姥姥爷在重点看护，父母反倒是成了配角。归根结底是父母们都太忙了，一天工作的劳累，回家的琐事，在现今社会是需要自己的空闲时间去休息，去调整，而这就占用了与孩子相处的时间。这本书的作者正是发现了这一普遍的社会现状，特地从十个方面入手，进行详细的讲解，最终即便是父母在忙，也能把孩子教育好！第一部分：大忙人再忙，也要做孩子......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-08-27 16:25</span> &nbsp; &nbsp;
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6249552_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+
+      </div>
+
+      <div id="wt_1" class="hidden">
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/76100730/" title="wuwang844"><img class="pil" src="http://img3.douban.com/icon/u76100730-7.jpg" alt="wuwang844"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6249552" class="rr"><a id="af-6249552" href="http://book.douban.com/review/6249552/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6249552" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="再忙也不能忽略孩子" class="" href="http://book.douban.com/review/6249552/">再忙也不能忽略孩子</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/76100730/" class=" ">wuwang844</a>                    (书评专用，闲人勿扰！)&nbsp;                </span>
+                <span class="allstar50" title="力荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6249552_short' class="review-short">
+                    <span class="">现在的父母似乎对孩子的教育和养育都越来越少了，小孩子从生下来就是爷爷奶奶或者姥姥姥爷在重点看护，父母反倒是成了配角。归根结底是父母们都太忙了，一天工作的劳累，回家的琐事，在现今社会是需要自己的空闲时间去休息，去调整，而这就占用了与孩子相处的时间。这本书的作者正是发现了这一普遍的社会现状，特地从十个方面入手，进行详细的讲解，最终即便是父母在忙，也能把孩子教育好！第一部分：大忙人再忙，也要做孩子......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-08-27 16:25</span> &nbsp; &nbsp;
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6249552_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+
+      </div>
+
+      <script type="text/javascript">
+          function switch_tab(tab_id){
+              hide_tab_id = $("#comment_tab .on")[0].id;
+              if (hide_tab_id==tab_id) {
+                  return false;
+              }
+              $("#"+tab_id).addClass("on");
+              $("#"+hide_tab_id).removeClass("on");
+              $("#w"+hide_tab_id).hide();
+              $("#w"+tab_id).show();
+          }
+
+        $('.ctsh').delegate('.clst', 'hover', function(e) {
+          $(this).find('.report')[e.type === 'mouseenter' ? 'show' : 'hide']()
+        })
+      </script>
+  </div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+  </div>
+  
+
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{line-height:24px;vertical-align:bottom}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad .ebook-tag{margin-left:8px;padding:0 6px;line-height:20px;font-size:11px;border:1px solid #e6e6e2;background:#f1f1ed;display:inline-block;*display:inline;*zoom:1;vertical-align:top}
+</style>
+
+
+<div class="gray_ad" id="buyinfo">
+
+    <div id="buyinfo-printed">
+      <h2 class="">
+        在哪儿买这本书?
+      </h2>
+      <ul class="bs noline more-after ">
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=joyo&amp;price=1639&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=1&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.amazon.cn%2Fmn%2FdetailApp%2Fref%3Dasc_df_B00ESZQHGE775522%2F%3Fasin%3DB00ESZQHGE%26tag%3Ddouban-23%26creative%3D2384%26creativeASIN%3DB00ESZQHGE%26linkCode%3Dasn&amp;link2key=c6e0097e7f" class="">
+              <span class="">亚马逊</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 16.40</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=jingdong&amp;price=2600&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=2&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Fclick.union.jd.com%2FJdClick%2F%3FunionId%3D15055%26t%3D4%26to%3Dhttp%3A%2F%2Fwww.jd.com%2Fproduct%2F11308381.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">京东商城</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 26.00</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=wenxuan&amp;price=2530&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=3&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Funion.winxuan.com%2FTracker%2FTracker.html%3FcustomerID%3D625%26url%3Dhttp%253A%252F%252Fwww.winxuan.com%252Fproduct%252F1200737428&amp;link2key=c6e0097e7f" class="">
+              <span class="">文轩网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 25.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=beifa&amp;price=2300&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=4&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Fbook.beifabook.com%2FProduct%2FBookDetail.aspx%3FPlucode%3D751640422%26extra%3D0_s24875431&amp;link2key=c6e0097e7f" class="">
+              <span class="">北发图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 23.00</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=dangdang&amp;price=2260&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=5&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s24875431%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23294267&amp;link2key=c6e0097e7f" class="">
+              <span class="">当当网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 22.60</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875431&amp;vendor=bookschina&amp;price=2590&amp;lowest=1639&amp;pre=0&amp;cntvendor=7&amp;pos=6&amp;srcsubj=24875431&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6296516.htm&amp;link2key=c6e0097e7f" class="">
+              <span class="">中国图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 25.90</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+
+        <li>
+            <a href="http://book.douban.com/subject/24875431/buylinks">查看7家网店价格
+                ( RMB 16.40 起 )
+            </a>
+        </li>
+      </ul>
+    </div>
+    
+  <div class="add2cartContainer ft
+    ">
+    
+  <span class="add2cartWidget rr">
+      <a class="j colbutt add2cart a_show_login" href="http://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>加入购书单</span></a>
+  </span>
+  
+
+    <span class="pl add2cartTip">多本比价，批量购买</span>
+  </div>
+
+</div>
+
+<style class="text/css">
+  .presale-indicator{display:inline-block;*display:inline;*zoom:1;width:24px;height:15px;line-height:15px;background:url(http://img3.douban.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;text-indent:-9999px;vertical-align:middle;*vertical-align:0;_vertical-align:2px;margin-left:.5em}
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/76100730/"><img src="http://img3.douban.com/icon/u76100730-7.jpg" class="pil" alt="wuwang844" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/76100730/">wuwang844</a><br/>
+      <div class="pl ll">          8月27日          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/Crein/"><img src="http://img3.douban.com/icon/u2387281-7.jpg" class="pil" alt="艇飞林柏齐" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/Crein/">艇飞林柏齐</a><br/>
+      <div class="pl ll">          8月12日          读过      </div>
+
+        <span class="allstar20" title="较差"></span>
+      <br/>
+
+      <span class="pl">tags:中国</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/46490033/"><img src="http://img3.douban.com/icon/u46490033-2.jpg" class="pil" alt="天之可汗" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/46490033/">天之可汗</a><br/>
+      <div class="pl ll">          7月29日          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+      <span class="pl">tags:家庭教育 畅销书作者</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875431/collections">4人读过</a></p>
+
+  </div>
+
+
+
+
+
+    
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于写给大忙人的教子枕边书的评论: <br/><span class="feed">
+    <a href="http://book.douban.com/feed/subject/24875431/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2013 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://book.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="http://www.douban.com/mobile/read">手机读书</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/d948688e7abe87f.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = 'http://erebor.douban.com/',
+            userId = '',
+            browserId = 'YPFCwQ3tMM8',
+            ipAddress = '218.108.223.92',
+            criteria = '3:/subject/24875431/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, ip: ipAddress, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dis10-->
+
+
+<script>var _check_hijack = function () {
+    var _sig = "YPFCwQ3t", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

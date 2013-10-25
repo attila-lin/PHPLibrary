@@ -1,8 +1,8 @@
 status: 200
-content-length: 25038
+content-length: 25041
 content-location: http://book.douban.com/subject/20000000/
 set-cookie: viewed="20000000_25731751_20374758_1468997"; path=/;
- domain=.douban.com; expires=Fri, 24-Oct-2014 15:24:36 GMT
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:14:33 GMT
 expires: Sun, 1 Jan 2006 01:00:00 GMT
 keep-alive: timeout=10
 server: nginx
@@ -10,9 +10,9 @@ connection: keep-alive
 -content-encoding: gzip
 pragma: no-cache
 cache-control: must-revalidate, no-cache, private
-date: Thu, 24 Oct 2013 15:24:37 GMT
+date: Fri, 25 Oct 2013 07:14:33 GMT
 x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
- checknow.COMM_CG, sns.search_suggest
+ sns.search_suggest
 content-type: text/html; charset=utf-8
 
 
@@ -967,7 +967,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
             adSource = 'http://erebor.douban.com/',
             userId = '',
             browserId = 'YPFCwQ3tMM8',
-            ipAddress = '219.82.62.91',
+            ipAddress = '218.108.223.92',
             criteria = '3:/subject/20000000/',
             preview = '',
             debug = false,
@@ -1069,7 +1069,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-    <!-- dis7-->
+    <!-- dis10-->
 
 
 <script>var _check_hijack = function () {

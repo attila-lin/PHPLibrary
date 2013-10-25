@@ -30,8 +30,9 @@ headers = {
 
 baseurl = 'http://book.douban.com/subject/'
 # 遍历
-# First time   20000000 20001000
-for i in range(20000000,20001000):
+# First time   20000000 20001000 deleted
+# Secode       24875416 24875917
+for i in range(24875416,24875417):
     try:
         url = baseurl + str(i) +'/'
         # print url
@@ -107,6 +108,22 @@ for i in range(20000000,20001000):
                     if inf.string == 'ISBN:':
                         print "ISBN:",
                         print str(inf.next_element.next_element).replace(" ","")
+
+            # 缩略图
+            if soup.find('img',{"title":"点击看大图"}) != None:
+                print "图片:",
+                print soup.find('img',{"title":"点击看大图"})['src']
+
+            # 评论
+            if soup.find("div",{"class":"intro"}) != None:
+                print "简介: [",
+                briefintro = ""
+                for p in soup.find("div",{"class":"intro"}).findAll('p'):
+                    briefintro += p.string
+                    briefintro += '\n'
+                briefintro = briefintro.replace("(展开全部)","")
+                print briefintro
+                print "]"
 
             # 评分
             if soup.find('strong',{'class':'ll rating_num '}) != None:
