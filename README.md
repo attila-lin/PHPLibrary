@@ -43,4 +43,6 @@ for [QuickStart](http://ocelma.net/software/python-recsys/build/html/quickstart.
 
 ### Search System :
 
-used [Sphinxs]()
+used [Coreseek](http://www.coreseek.com/)
+
+for [QuickStart](http://www.coreseek.cn/products/products-install/install_on_bsd_linux/)
