@@ -46,3 +46,7 @@ for [QuickStart](http://ocelma.net/software/python-recsys/build/html/quickstart.
 used [Coreseek](http://www.coreseek.com/)
 
 for [QuickStart](http://www.coreseek.cn/products/products-install/install_on_bsd_linux/)
+
+### QuickSkin :
+
+used [QuickSkin](http://quickskin.worxware.com/)

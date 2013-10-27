@@ -19,7 +19,7 @@ $cl->SetServer ( '127.0.0.1', 9312);
 $cl->SetConnectTimeout ( 3 );
 $cl->SetArrayResult ( true );
 $cl->SetMatchMode ( SPH_MATCH_ANY );
-$res = $cl->Query ( '赵', "mysql" );
+$res = $cl->Query ( '老王', "mysql" );
 // print_r($cl);
 // print_r($res);
 // print_r($res["matches"]);
