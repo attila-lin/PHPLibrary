@@ -1,7 +1,0 @@
-mysql -u root -p test < documents.sql 
-
-cd testpack
-
-/usr/local/coreseek/bin/indexer -c etc/csft_mysql.conf --all
-/usr/local/coreseek/bin/search -c etc/csft_mysql.conf XX
-/usr/local/coreseek/bin/searchd -c etc/csft_mysql.conf 
