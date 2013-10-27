@@ -1,0 +1,2745 @@
+status: 200
+content-length: 116354
+content-location: http://book.douban.com/subject/24875705/
+set-cookie: viewed="24875705_25731751_20374758_1468997"; path=/;
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:23:58 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Fri, 25 Oct 2013 07:23:58 GMT
+x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
+ sns.search_suggest
+content-type: text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff24 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>假如我的青春在哈佛 (豆瓣)</title>
+  
+
+
+  
+<script>!function(f){var h=function(o,n,m){var k=new Date(),j,l;n=n||30;m=m||"/";k.setTime(k.getTime()+(n*24*60*60*1000));j="; expires="+k.toGMTString();for(l in o){f.cookie=l+"="+o[l]+j+"; path="+m}},d=function(m){var l=m+"=",o,n,j,k=f.cookie.split(";");for(n=0,j=k.length;n<j;n++){o=k[n].replace(/^\s+|\s+$/g,"");if(o.indexOf(l)==0){return o.substring(l.length,o.length).replace(/\"/g,"")}}return null},e=f.write,b={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},a=function(l,k){var j=new Image();j.onload=function(){};j.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(l)+"&environment="+encodeURIComponent(k)},i=function(k){try{e.call(f,k)}catch(j){e(k)}},c=/<script.*?src\=["']?([^"'\s>]+)/ig,g=/http:\/\/(.+?)\.([^\/]+).+/i;f.writeln=f.write=function(k){var j=c.exec(k),l;if(!j){i(k);return}l=g.exec(j[1]);if(!l){i(k);return}if(b[l[2]]){i(k);return}if(d("hj")==="tqs"){return}a(j[1],location.href);h({hj:"tqs"},1);setTimeout(function(){location.replace(location.href)},50)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/book/subject/24875705/">
+<meta name="keywords" content="假如我的青春在哈佛,[韩]姜仁仙,广西科学技术出版社,2013-8,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书假如我的青春在哈佛 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
+  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
+  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
+  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+    <link rel="alternate" href="http://book.douban.com/feed/subject/24875705/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+
+  <script>  </script>
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/5dc929cd686bc5ea.css">
+
+  <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+  
+  
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login?source=book" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register?source=book">注册</a>
+</div>
+
+
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://book.douban.com/">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    
+                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-logo">
+        <a href="http://book.douban.com">豆瓣读书</a>
+      </div>
+      <div class="nav-search">
+        <form action="http://book.douban.com/subject_search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">书名、作者、ISBN</label>
+            <div class="inp">
+              <input id="inp-query" name="search_text" size="22" maxlength="60"
+                value="">
+            </div>
+            <div class="inp-btn">
+              <input type="submit" value="搜索">
+            </div>
+            <input type="hidden" name="cat" value="1001">
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="nav-secondary">
+    <ul class="nav-items">
+      <li
+        class="nav-item-first"
+      ><a href="http://book.douban.com/tag/">分类浏览</a></li>
+      
+      <li class="book-cart"><a href="http://book.douban.com/cart">购书单</a></li>
+      <li>
+        <a href="http://read.douban.com/ebooks/?dcs=book-nav&amp;dcm=douban" target="_blank">电子图书</a>
+        <sup class="icon-new"></sup>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <script type="text/template" id="suggest-item">
+    <li class="item"><a href="#">{{= item}}</a></li>
+  </script>
+  
+  
+
+
+
+    <div id="wrapper">
+        
+<h1>
+    <span property="v:itemreviewed">假如我的青春在哈佛</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg" 
+      href="http://img3.douban.com/lpic/s27051400.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24875705, ), title: 假如我的青春在哈佛, uid: 755510007X, cat_id: 1001&gt;&gt;">
+    <img src="http://img3.douban.com/mpic/s27051400.jpg" title="点击看大图" alt="假如我的青春在哈佛" rel="v:photo">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>: 
+        
+        <a class="" href="/search/%5B%E9%9F%A9%5D%E5%A7%9C%E4%BB%81%E4%BB%99">[韩]姜仁仙</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 广西科学技术出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 哈佛凌晨四点半亲眼见证<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> HARVARD STYLE<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>: 
+        
+        <a class="" href="/search/%E4%B9%94%E6%9C%A8%E6%A5%A0">乔木楠</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-8<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 248<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 32.00<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787555100072<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap" rel="v:rating">
+    <p class="rating_self clearfix" typeof="v:Rating">
+      <span class="ll bigstar35"></span>
+
+
+      <strong class="ll rating_num " property="v:average">
+      7.2
+      </strong>
+
+      <span property="v:best" content="10.0"></span>
+    </p>
+    <p class="rating_self font_normal clearbox">
+    (
+    <span class="">
+      <a href="collections"><span property="v:votes">23</span>人评价</a>
+    </span>
+    )
+  </p>
+    
+    
+<span class="stars5 starstop" title="力荐"></span>
+
+    
+<div class="power" style="width:42px"></div>
+
+    30.4%<br>
+    
+    
+<span class="stars4 starstop" title="推荐"></span>
+
+    
+<div class="power" style="width:54px"></div>
+
+    39.1%<br>
+    
+    
+<span class="stars3 starstop" title="还行"></span>
+
+    
+<div class="power" style="width:24px"></div>
+
+    17.4%<br>
+    
+    
+<span class="stars2 starstop" title="较差"></span>
+
+    
+<div class="power" style="width:12px"></div>
+
+    8.7%<br>
+    
+    
+<span class="stars1 starstop" title="很差"></span>
+
+    
+<div class="power" style="width:6px"></div>
+
+    4.3%<br>
+</div>
+</div>
+
+
+  </div>
+  
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="http://www.douban.com/register?reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875705-wish">
+          <span>想读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectdo&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875705-do">
+          <span>在读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875705-collect">
+          <span>读过</span>
+        </a>
+      <div class="ll j a_stars">
+        
+
+<span class="j a_stars">
+  <span class="rate_stars">
+    评价: 
+    <span id="rating">
+      <span id="stars"><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875705-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875705-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875705-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875705-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875705-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5" /></a>      </span>
+      <span id="rateword" class="pl"></span>
+      <input id="n_rating" type="hidden" value=""
+          />
+    </span>
+  </span>
+</span>
+
+
+
+
+
+
+      </div>
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+      <li>
+        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+      </li>
+
+        <li>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+        </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="http://img3.douban.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="http://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-24875705">
+        <a href= "#" data-url="http://book.douban.com/subject/24875705/" data-desc="" data-title="书籍《假如我的青春在哈佛》 (来自豆瓣) " data-pic="http://img3.douban.com/lpic/s27051400.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var cache_url = cache_url || {};
+    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_24875705"></div>
+<div class="related_info">
+  
+  
+  
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent" id="link-report">
+  
+    <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>★ 99.99%的人此生与哈佛无关，当这0.01%的机会来临时,你怎样用它逆转人生?</p>    <p>★和厄瓜多尔总统同堂上课，听诺贝尔获奖者的公开课，听商学院老教授霍华德剖析商业秘密，叼着三明治听国际名流演讲，然后和比尔•盖茨一起毕业……这听起来简直在 做梦，本书作者姜仁仙刚到哈佛 时也庆幸自己太幸运了！</p>    <p>可是，事实哪有那么简单,哈佛其实是有着天堂口碑的炼狱场。</p>    <p>黎明读书凌晨睡，公寓不过是可以躺着看书的图书馆，哈佛校园里随处可见睡觉的人。三个小时的午休时间,白日做梦，看不完的书，写不完的报告，让人忙到恨不得有三头六臂。</p>    <p>不过，很奇怪，在炼狱哈佛，她没时间痛苦；走出哈佛，她的人生价值百万。</p>    <p>改变和区别到底在哪里? 730天, 能让人生蜕变吗？</p>    <p>答案是yes!</p>    <p>如果说阿仙同学在哈佛的730天学到了一件东西，那就是——</p>    <p>每个人都有能力复制的人生最好教育——哈佛模式。</p>    <p>★...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+     </span>
+    <span class="all hidden">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>★ 99.99%的人此生与哈佛无关，当这0.01%的机会来临时,你怎样用它逆转人生?</p>    <p>★和厄瓜多尔总统同堂上课，听诺贝尔获奖者的公开课，听商学院老教授霍华德剖析商业秘密，叼着三明治听国际名流演讲，然后和比尔•盖茨一起毕业……这听起来简直在 做梦，本书作者姜仁仙刚到哈佛 时也庆幸自己太幸运了！</p>    <p>可是，事实哪有那么简单,哈佛其实是有着天堂口碑的炼狱场。</p>    <p>黎明读书凌晨睡，公寓不过是可以躺着看书的图书馆，哈佛校园里随处可见睡觉的人。三个小时的午休时间,白日做梦，看不完的书，写不完的报告，让人忙到恨不得有三头六臂。</p>    <p>不过，很奇怪，在炼狱哈佛，她没时间痛苦；走出哈佛，她的人生价值百万。</p>    <p>改变和区别到底在哪里? 730天, 能让人生蜕变吗？</p>    <p>答案是yes!</p>    <p>如果说阿仙同学在哈佛的730天学到了一件东西，那就是——</p>    <p>每个人都有能力复制的人生最好教育——哈佛模式。</p>    <p>★一流赢在态度，二流输在方法，优秀来自严格自控的自我管理。这就是哈佛模式。</p>    <p>不管你是不是哈佛学生，也不管你的人生会不会与哈佛某种联系。但是，如若能掌握“哈佛模式”，那它将是你生平维持自我竞争力的最佳资产。如果没有，那这就是你和哈佛牛人的差距，同时也是哈佛学生之所以一流、哈佛模式之所以神奇的原因。</p>    <p>★不是任何人的青春都迷茫。即使你不在哈佛，也可以通过阅读这本书借鉴哈佛模式。</p>    <p>——哈佛的牛人有哪些高效能优秀习惯？</p>    <p>——哈佛最受欢迎的幸福课、公开课到底要怎么样听？</p>    <p>——哈佛人说,最好的教育,不是读书?</p>    <p>★眼不见不为实，亲身经历才是最靠谱的回答。</p>    <p>文艺范儿犀利女记者，哈佛回炉深造，零距离感受哈佛教育，全情讲述最真实的哈佛大学。</p>    <p>给你与我这样的普通人,一次能复制的人生最好教育。</p></div>
+
+    </span>
+  
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "http://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("http://book.douban.com/book/subject/24875705/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>【韩】姜仁仙（Kang In-Sun）</p>    <p>毕业十年的小记者一枚，有点资历，有点能力，获得的新闻、传媒奖一双手都数不过来，有点神经质的小工作狂、傻大姐。一天，被幸运的石头突然砸到脑袋的她，被公司选派去哈佛深造两年,</p>    <p>直至来到哈佛，她才发现自己不曾真正为自己学习过。在哈佛读书的她好似在读幼儿园。好的习惯完全没有培养起来，可哈佛的学生早已习惯了优秀。因此，她的哈佛不浪漫，不蓬勃，甚至疲惫不堪。</p>    <p>哈佛的两年是最糟糕的两年，也是最珍贵的两年。</p>    <p>“在哈佛求学，改变了我读书学习的态度。”甚至改变了她的人生态度和际遇。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_24875705_short">
+        编者序 趁一切还来得及<br/>
+        自  序  改变来得迟了些，但还不晚<br/>
+        1 哈佛模式,改变世界的秘密<br/>
+        如果不能独占鳌头，便是失败<br/>
+        哈佛这条大河，所有人都在自学游泳<br/>
+        别让哈佛成为你人生中绝无仅有的巅峰<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_24875705_short').hide();$('#dir_24875705_full').show();$.get('/j/subject/j_dir_count',{id:24875705});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_24875705_full" style="display:none">
+        编者序 趁一切还来得及<br/>
+        自  序  改变来得迟了些，但还不晚<br/>
+        1 哈佛模式,改变世界的秘密<br/>
+        如果不能独占鳌头，便是失败<br/>
+        哈佛这条大河，所有人都在自学游泳<br/>
+        别让哈佛成为你人生中绝无仅有的巅峰<br/>
+        哈佛投资你的未来<br/>
+        世代相传的哈佛狂热症<br/>
+        只要录取，学费减免！<br/>
+        当百万富翁，还是当总统？<br/>
+        金色名片——哈佛毕业证<br/>
+        2 读书模式  思想自由，生活严谨<br/>
+        学会快乐地学习吧！学习是自己的事<br/>
+        不敢停下来歇一歇<br/>
+        哈佛最重要的一课：规划时间<br/>
+        找一件“非你不可”的事<br/>
+        二流永远只是二流<br/>
+        用自己的声音说出梦想<br/>
+        哈佛人的大学生活法则<br/>
+        3 上课模式  对手，让我学得更带劲<br/>
+        哈佛为什么为你亮灯<br/>
+        个案研究：把知识留在脑袋里<br/>
+        耶鲁大学，永远的对手<br/>
+        我在哈佛读幼儿园<br/>
+        领导才能，比知识更重要<br/>
+        “他人指向”VS“做自己”<br/>
+        人生，要用自己的力量奔跑<br/>
+        4 生活模式  人生就像吃到饱餐厅<br/>
+        Shopping week：试听免费，不考试<br/>
+        英语成绩好，就能说英语？错<br/>
+        无法克服，原地踏步<br/>
+        想做的事，立刻做<br/>
+        在哈佛发烧，三十六度半<br/>
+        选择的乐趣——哈佛大学图书馆<br/>
+        睡袋+披萨=哈佛学生集会<br/>
+        开始的仪式——哈佛毕业典礼<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_24875705_full').hide();$('#dir_24875705_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;假如我的青春在哈佛&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>  
+
+                                                      ★★★
+
+
+   提到哈佛你会想到什么？
+  厉害的高材生！“豪小子”林书豪，四肢发达，头脑不简单，智商和身高成正比——不是盖的；盛产总统、精英、国际名人！8位总统，30多位普利策获奖人，40多位诺贝尔奖得主，不知道多少的一把手；辍学的世界首富！前有比尔•盖茨改变世界，后有扎克伯格影响时代。在校的，不在校的...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="http://book.douban.com/reading/28217083/">编者序 趁一切还来得及</a>
+</li>
+
+<li>
+    <a href="http://book.douban.com/reading/28217433/">自 序  改变来得迟了些，但还不晚</a>
+</li>
+
+<li>
+    <a href="http://book.douban.com/reading/28217536/">学会快乐地学习吧！学习是自己的事</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="http://book.douban.com/subject/24875705/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共29个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%88%90%E9%95%BF%E5%8A%B1%E5%BF%97">成长励志</a>(<span class="">22</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%93%88%E4%BD%9B">哈佛</a>(<span class="">19</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%83%B3%E5%B0%9D%E8%AF%95%E4%B8%8B%E8%A5%BF%E6%96%B9%E7%9A%84%E6%95%99%E8%82%B2%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%9A%84%E5%A1%AB%E9%B8%AD%E6%95%99%E8%82%B2%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86">想尝试下西方的教育，中国式的填鸭教育要结束了</a>(<span class="">9</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%AD%A3%E8%83%BD%E9%87%8F">正能量</a>(<span class="">7</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E7%94%9F%E6%B4%BB%E6%80%81%E5%BA%A6">生活态度</a>(<span class="">6</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%88%90%E9%95%BF">成长</a>(<span class="">6</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%8A%B1%E5%BF%97">励志</a>(<span class="">6</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E8%A5%BF%E6%96%B9%E6%95%99%E8%82%B2">西方教育</a>(<span class="">5</span>) &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <div id="reviews" class="ugc-mod">
+        <h2 class="clearfix">
+          书评&nbsp;&nbsp;· · · · · ·&nbsp;
+        </h2>
+        
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这本书</span></a>
+
+
+      <ul id="comment_tab" class="inline-tabs">
+        <li id="t_0" class="on">
+          <a href="javascript:void(0)" onclick="return switch_tab('t_0')">热门评论</a>
+        </li>
+        <li id="t_1">
+          <a href="javascript:void(0)" onclick="return switch_tab('t_1')">最新评论</a>
+        </li>
+      </ul>
+
+      
+
+      <div id="wt_0" class="">
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/yanshudetudou/" title="鼹鼠的土豆"><img class="pil" src="http://img3.douban.com/icon/u4555019-30.jpg" alt="鼹鼠的土豆"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6301868" class="rr"><a id="af-6301868" href="http://book.douban.com/review/6301868/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6301868" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="思维模式决定态度" class="" href="http://book.douban.com/review/6301868/">思维模式决定态度</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/yanshudetudou/" class=" ">鼹鼠的土豆</a>                    (父母在，不按揭)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6301868_short' class="review-short">
+                    <span class="">这应该算本励志书，副标题是《哈佛凌晨四点半亲眼见证》写的是哈佛的学生多努力，他们的学习态度，生活态度，学习习惯，生活习惯。
+
+作者的自序题目是《趁一切还来得及》，序里面讲了上《非诚勿扰》的两种态度，让我很诧异韩国人也看《非诚勿扰》。其实我不是特别赞同作者觉得大家应该很努力，很拼命的看法。不过作者觉得生活态度觉得生活的观点，我是非常赞同的。
+
+很大程度，我们的态度会影响我们的选择，选择又大大影......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/6301868/">(<span class="">3回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-09-26 14:57</span> &nbsp; &nbsp;
+                        <span class="">11/11有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6301868_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/43777677/" title="辰几"><img class="pil" src="http://img3.douban.com/icon/u43777677-4.jpg" alt="辰几"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6333508" class="rr"><a id="af-6333508" href="http://book.douban.com/review/6333508/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6333508" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="励志来源于新鲜的动力" class="" href="http://book.douban.com/review/6333508/">励志来源于新鲜的动力</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/43777677/" class=" ">辰几</a>                    ((￣ε(#￣)☆╰╮o(￣▽￣///))&nbsp;                </span>
+                <span class="allstar30" title="还行"></span>
+            </span>
+            <br /><br />
+            <div id='review_6333508_short' class="review-short">
+                    <span class="">这本书是意外之得,选择它的原因,一是封面的设计,二是内容的介绍。
+作为一本励志类的书，我觉得内容还是不错的。
+现在平平淡淡的生活确实缺少一种可以激励自身的精神动力。
+就像是一汪死水总是希望能被注入一些清新的东西。
+哈佛四点半的传说在江湖已经流传很久，虽然自己总是苦笑觉得超人的水准才能保持那么高强度的训练，但是对于哈佛的学习生活仍然是有一丝好奇和向往的。而目前的自己，同样是面临着职场和学业的考虑......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/6333508/">(<span class="">1回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-10-17 18:25</span> &nbsp; &nbsp;
+                        <span class="">3/3有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6333508_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/2407300/" title="小偷爱女警"><img class="pil" src="http://img3.douban.com/icon/u2407300-6.jpg" alt="小偷爱女警"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6335713" class="rr"><a id="af-6335713" href="http://book.douban.com/review/6335713/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6335713" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="顶尖思维" class="" href="http://book.douban.com/review/6335713/">顶尖思维</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/2407300/" class=" ">小偷爱女警</a>                    (痴傻苶呆彪唬犟蛮倔驴)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6335713_short' class="review-short">
+                    <span class="">顶尖思维
+
+偷爱警/文
+
+   书封上有这样一句话“我最后悔的不是没有像哈佛学生一样有计划地认真读书，而是我不曾在年轻时挑战自己的极限。”姜仁仙，韩国记者，得到公司补助的研习机会，进入到哈佛肯尼迪学院深造。
+    
+哈佛带给更众人，是高不可攀，世界名校，金字塔顶的光环。对于光环下的学生，哈佛意味着仕途坦荡，意味着进入五角大楼的概率，正在向自己靠拢，意味着未来的商业精英，企业领袖会在校友中诞生，还有......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-10-18 16:56</span> &nbsp; &nbsp;
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6335713_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/59195980/" title="喵星人在红塔山"><img class="pil" src="http://img3.douban.com/icon/u59195980-6.jpg" alt="喵星人在红塔山"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6303287" class="rr"><a id="af-6303287" href="http://book.douban.com/review/6303287/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6303287" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="大学生真的上过大学吗？还是被大学给上了？" class="" href="http://book.douban.com/review/6303287/">大学生真的上过大学吗？还是被大学给上了？</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/59195980/" class=" ">喵星人在红塔山</a>                    (想去云南散步，去成都喝酒)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6303287_short' class="review-short">
+                    <span class="">
+
+“长的好看的人才有青春，像我们这样的人只有大学。”——看完《假如我的青春在哈佛》，我的脑海中首先闪现这句话。
+可是大学生真的上过大学吗？还是被大学给上了？
+别笑，我是在很严肃地说这件事，虽然后半句带点颜色。工作几年后，偶尔会想起大学时来不及做的事情（准确地说是大学时发懒，想做却没能做成的事），心口会有如重石压迫。诗人说：“想起一生后悔的事，梅花变落了下来。”落红无数，却不曾有哪一多能重新......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-09-27 14:10</span> &nbsp; &nbsp;
+                        <span class="">1/1有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6303287_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/kit07/" title="陈文杰 Vincent"><img class="pil" src="http://img3.douban.com/icon/u45836979-12.jpg" alt="陈文杰 Vincent"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-4805985" class="rr"><a id="af-4805985" href="http://book.douban.com/review/4805985/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-4805985" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="《上哈佛真正学到的事》（又名《哈佛毕业典礼没有雨》）读后感" class="" href="http://book.douban.com/review/4805985/">《上哈佛真正学到的事》（又名《哈佛毕业典礼没有雨》）...</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/kit07/" class=" ">陈文杰 Vincent</a>                    (扩大Comfort Zone)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_4805985_short' class="review-short">
+                    <span class="">哈佛拥有来自世界各地的优质生源，可仅仅如此就能够成就现在的哈佛吗？拥有同等财产的暴发户和贵族区别不在财富上，而在礼仪、人际网络上，当然更体现在无价的文化和历史底蕴上。哈佛就忠实维护“哈佛”这一个品牌。任何人、任何公司非法使用“哈佛”这个品牌都会遭到来自哈佛本校律师的阻击。哈佛从学生进校就将哈佛这个品牌移植到学生心中，让学生自主的维护哈佛的声誉。教授灌输“因为你是哈佛学生”的观念，旁人听到“来......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/4805985/">(<span class="">3回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2011-03-10 13:38</span> &nbsp; &nbsp;
+                        <span class="">4/4有用</span>
+                    </span>
+                    
+                    <span class="works-link">来自&nbsp;<a onclick="moreurl(this, {from:'works'})" href="http://book.douban.com/subject/3140795/">先覺出版股份有限公司2008版</a></span>
+
+                    </div>
+            </div>
+            <div id="review_4805985_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+
+      </div>
+
+      <div id="wt_1" class="hidden">
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/2407300/" title="小偷爱女警"><img class="pil" src="http://img3.douban.com/icon/u2407300-6.jpg" alt="小偷爱女警"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6335713" class="rr"><a id="af-6335713" href="http://book.douban.com/review/6335713/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6335713" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="顶尖思维" class="" href="http://book.douban.com/review/6335713/">顶尖思维</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/2407300/" class=" ">小偷爱女警</a>                    (痴傻苶呆彪唬犟蛮倔驴)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6335713_short' class="review-short">
+                    <span class="">顶尖思维
+
+偷爱警/文
+
+   书封上有这样一句话“我最后悔的不是没有像哈佛学生一样有计划地认真读书，而是我不曾在年轻时挑战自己的极限。”姜仁仙，韩国记者，得到公司补助的研习机会，进入到哈佛肯尼迪学院深造。
+    
+哈佛带给更众人，是高不可攀，世界名校，金字塔顶的光环。对于光环下的学生，哈佛意味着仕途坦荡，意味着进入五角大楼的概率，正在向自己靠拢，意味着未来的商业精英，企业领袖会在校友中诞生，还有......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-10-18 16:56</span> &nbsp; &nbsp;
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6335713_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/43777677/" title="辰几"><img class="pil" src="http://img3.douban.com/icon/u43777677-4.jpg" alt="辰几"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6333508" class="rr"><a id="af-6333508" href="http://book.douban.com/review/6333508/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6333508" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="励志来源于新鲜的动力" class="" href="http://book.douban.com/review/6333508/">励志来源于新鲜的动力</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/43777677/" class=" ">辰几</a>                    ((￣ε(#￣)☆╰╮o(￣▽￣///))&nbsp;                </span>
+                <span class="allstar30" title="还行"></span>
+            </span>
+            <br /><br />
+            <div id='review_6333508_short' class="review-short">
+                    <span class="">这本书是意外之得,选择它的原因,一是封面的设计,二是内容的介绍。
+作为一本励志类的书，我觉得内容还是不错的。
+现在平平淡淡的生活确实缺少一种可以激励自身的精神动力。
+就像是一汪死水总是希望能被注入一些清新的东西。
+哈佛四点半的传说在江湖已经流传很久，虽然自己总是苦笑觉得超人的水准才能保持那么高强度的训练，但是对于哈佛的学习生活仍然是有一丝好奇和向往的。而目前的自己，同样是面临着职场和学业的考虑......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/6333508/">(<span class="">1回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-10-17 18:25</span> &nbsp; &nbsp;
+                        <span class="">3/3有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6333508_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/59195980/" title="喵星人在红塔山"><img class="pil" src="http://img3.douban.com/icon/u59195980-6.jpg" alt="喵星人在红塔山"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6303287" class="rr"><a id="af-6303287" href="http://book.douban.com/review/6303287/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6303287" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="大学生真的上过大学吗？还是被大学给上了？" class="" href="http://book.douban.com/review/6303287/">大学生真的上过大学吗？还是被大学给上了？</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/59195980/" class=" ">喵星人在红塔山</a>                    (想去云南散步，去成都喝酒)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6303287_short' class="review-short">
+                    <span class="">
+
+“长的好看的人才有青春，像我们这样的人只有大学。”——看完《假如我的青春在哈佛》，我的脑海中首先闪现这句话。
+可是大学生真的上过大学吗？还是被大学给上了？
+别笑，我是在很严肃地说这件事，虽然后半句带点颜色。工作几年后，偶尔会想起大学时来不及做的事情（准确地说是大学时发懒，想做却没能做成的事），心口会有如重石压迫。诗人说：“想起一生后悔的事，梅花变落了下来。”落红无数，却不曾有哪一多能重新......</span>
+
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-09-27 14:10</span> &nbsp; &nbsp;
+                        <span class="">1/1有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6303287_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/yanshudetudou/" title="鼹鼠的土豆"><img class="pil" src="http://img3.douban.com/icon/u4555019-30.jpg" alt="鼹鼠的土豆"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-6301868" class="rr"><a id="af-6301868" href="http://book.douban.com/review/6301868/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-6301868" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="思维模式决定态度" class="" href="http://book.douban.com/review/6301868/">思维模式决定态度</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/yanshudetudou/" class=" ">鼹鼠的土豆</a>                    (父母在，不按揭)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_6301868_short' class="review-short">
+                    <span class="">这应该算本励志书，副标题是《哈佛凌晨四点半亲眼见证》写的是哈佛的学生多努力，他们的学习态度，生活态度，学习习惯，生活习惯。
+
+作者的自序题目是《趁一切还来得及》，序里面讲了上《非诚勿扰》的两种态度，让我很诧异韩国人也看《非诚勿扰》。其实我不是特别赞同作者觉得大家应该很努力，很拼命的看法。不过作者觉得生活态度觉得生活的观点，我是非常赞同的。
+
+很大程度，我们的态度会影响我们的选择，选择又大大影......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/6301868/">(<span class="">3回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2013-09-26 14:57</span> &nbsp; &nbsp;
+                        <span class="">11/11有用</span>
+                    </span>
+
+                    </div>
+            </div>
+            <div id="review_6301868_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+          
+    
+        <div class='ctsh'>
+    <div class="tlst">
+        <div class="ilst">
+                
+    <a href="http://book.douban.com/people/kit07/" title="陈文杰 Vincent"><img class="pil" src="http://img3.douban.com/icon/u45836979-12.jpg" alt="陈文杰 Vincent"/></a>
+
+        </div>
+        <div class="nlst"><h3>
+            <div id="tb-4805985" class="rr"><a id="af-4805985" href="http://book.douban.com/review/4805985/" class="j a_unfolder" style="background:none;">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&gt;" title="展开全文"/></a>
+            <a id="au-4805985" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+            <img src="http://img3.douban.com/pics/blank.gif" class="bn-arrow" width="48" height="19" alt="&lt;" title="缩进全文"/></a>
+            </div>
+            <a title="《上哈佛真正学到的事》（又名《哈佛毕业典礼没有雨》）读后感" class="" href="http://book.douban.com/review/4805985/">《上哈佛真正学到的事》（又名《哈佛毕业典礼没有雨》）...</a>
+        </h3></div>
+        <div class="clst">
+            <span class="ll user">
+                <span class="starb">                    <a href="http://book.douban.com/people/kit07/" class=" ">陈文杰 Vincent</a>                    (扩大Comfort Zone)&nbsp;                </span>
+                <span class="allstar40" title="推荐"></span>
+            </span>
+            <br /><br />
+            <div id='review_4805985_short' class="review-short">
+                    <span class="">哈佛拥有来自世界各地的优质生源，可仅仅如此就能够成就现在的哈佛吗？拥有同等财产的暴发户和贵族区别不在财富上，而在礼仪、人际网络上，当然更体现在无价的文化和历史底蕴上。哈佛就忠实维护“哈佛”这一个品牌。任何人、任何公司非法使用“哈佛”这个品牌都会遭到来自哈佛本校律师的阻击。哈佛从学生进校就将哈佛这个品牌移植到学生心中，让学生自主的维护哈佛的声誉。教授灌输“因为你是哈佛学生”的观念，旁人听到“来......</span>
+
+                    <a class="pl" href="http://book.douban.com/review/4805985/">(<span class="">3回应</span>)</a>
+                    <br/><br/><div class="pl clearfix">
+                    <span class="fleft">
+                        <span class="">2011-03-10 13:38</span> &nbsp; &nbsp;
+                        <span class="">4/4有用</span>
+                    </span>
+                    
+                    <span class="works-link">来自&nbsp;<a onclick="moreurl(this, {from:'works'})" href="http://book.douban.com/subject/3140795/">先覺出版股份有限公司2008版</a></span>
+
+                    </div>
+            </div>
+            <div id="review_4805985_full" style="display:none"></div>
+        </div>
+    </div>
+        </div>
+    <div class="clear"></div>
+    
+
+
+      </div>
+
+      <script type="text/javascript">
+          function switch_tab(tab_id){
+              hide_tab_id = $("#comment_tab .on")[0].id;
+              if (hide_tab_id==tab_id) {
+                  return false;
+              }
+              $("#"+tab_id).addClass("on");
+              $("#"+hide_tab_id).removeClass("on");
+              $("#w"+hide_tab_id).hide();
+              $("#w"+tab_id).show();
+          }
+
+        $('.ctsh').delegate('.clst', 'hover', function(e) {
+          $(this).find('.report')[e.type === 'mouseenter' ? 'show' : 'hide']()
+        })
+      </script>
+  </div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+      
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="28728174">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/rainysky/"><img src="http://img3.douban.com/icon/u3049310-31.jpg" alt="Ningyo" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28728174/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28728174/" class="">第92页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/rainysky/" class=" " title="Ningyo">Ningyo</a>
+                (阿司匹林后遗症)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28728174">
+              <div class="short">
+                
+                  <span class="">进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。
+章节:哈佛最重要的一课：规划时间
+</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:55</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。<div style="padding-bottom:1em;"></div>章节:哈佛最重要的一课：规划时间
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28728174" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28728174/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727985">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/43466817/"><img src="http://img3.douban.com/icon/u43466817-10.jpg" alt="芦拉拉" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727985/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727985/" class="">第34页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/43466817/" class=" " title="芦拉拉">芦拉拉</a>
+                (深夜发痴兴趣小组)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727985">
+              <div class="short">
+                
+                  <span class="">形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。
+仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:41</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。<div style="padding-bottom:1em;"></div>仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个数字）的图书馆、自由且充满热忱的学术研究气氛、遍布海内外的强大人脉、从世界各地涌入的精英留学生……这一切都让哈佛之所以成为哈佛的资源。<div style="padding-bottom:1em;"></div>但是资源利用不好等于没利用，甚至可以说是浪费。哈佛固然是股强大的水流可以带你去远方，但是你自己不会游泳，或游泳姿势不对，“生还”的几率依旧很低。在哈佛这条大河里，学会游泳，找到属于自己的那种游泳姿势，才能如鱼得水，畅快淋漓。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727985" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727985/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:41
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727878">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/59195980/"><img src="http://img3.douban.com/icon/u59195980-6.jpg" alt="喵星人在红塔山" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727878/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727878/" class="">第13页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/59195980/" class=" " title="喵星人在红塔山">喵星人在红塔山</a>
+                (想去云南散步，去成都喝酒)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727878">
+              <div class="short">
+                
+                  <span class="">要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。
+作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:36</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。<div style="padding-bottom:1em;"></div>作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多，一不小心就会垫底；要读的书太多，一天不读书，落人千日；忙到没时间吃午饭，叼着三明治听演讲……见证，讲述，薄薄的一本书，不只是在说哈佛如何一流，更主要的，她在诉说人生。时间不容倒带，假如易成谶语。不可能每个人都在哈佛，但是每个人都可以利用哈佛模式，像一流人才那样思考，满身正能量地努力，养成优秀的习惯。<div style="padding-bottom:1em;"></div>趁着青春还在，有时间，有精力，有梦，找到自己真心喜欢的，无论是恋人还是工作，全力以赴。别等老了再感慨，除非你像王石王总那样有钱，或者你像作者这样走运，可以砸钱在哈佛缅怀青春。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727878" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727878/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727849">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/63431348/"><img src="http://img3.douban.com/icon/u63431348-3.jpg" alt="slayer133" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727849/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727849/" class="">第105页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/63431348/" class=" " title="slayer133">slayer133</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727849">
+              <div class="short">
+                
+                  <span class="">哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:34</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前进，并且及时进行调整，以免方向错误。<div style="padding-bottom:1em;"></div>哈佛神话只流传在哈佛的校园之外，哈佛校园里没有神话，只有真枪实弹的竞争，严格的自我管理。求学的成败多半取决于自我的管理。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727849" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727849/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="28727878">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/59195980/"><img src="http://img3.douban.com/icon/u59195980-6.jpg" alt="喵星人在红塔山" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727878/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727878/" class="">第13页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/59195980/" class=" " title="喵星人在红塔山">喵星人在红塔山</a>
+                (想去云南散步，去成都喝酒)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727878">
+              <div class="short">
+                
+                  <span class="">要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。
+作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:36</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。<div style="padding-bottom:1em;"></div>作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多，一不小心就会垫底；要读的书太多，一天不读书，落人千日；忙到没时间吃午饭，叼着三明治听演讲……见证，讲述，薄薄的一本书，不只是在说哈佛如何一流，更主要的，她在诉说人生。时间不容倒带，假如易成谶语。不可能每个人都在哈佛，但是每个人都可以利用哈佛模式，像一流人才那样思考，满身正能量地努力，养成优秀的习惯。<div style="padding-bottom:1em;"></div>趁着青春还在，有时间，有精力，有梦，找到自己真心喜欢的，无论是恋人还是工作，全力以赴。别等老了再感慨，除非你像王石王总那样有钱，或者你像作者这样走运，可以砸钱在哈佛缅怀青春。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727878" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727878/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727985">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/43466817/"><img src="http://img3.douban.com/icon/u43466817-10.jpg" alt="芦拉拉" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727985/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727985/" class="">第34页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/43466817/" class=" " title="芦拉拉">芦拉拉</a>
+                (深夜发痴兴趣小组)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727985">
+              <div class="short">
+                
+                  <span class="">形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。
+仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:41</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。<div style="padding-bottom:1em;"></div>仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个数字）的图书馆、自由且充满热忱的学术研究气氛、遍布海内外的强大人脉、从世界各地涌入的精英留学生……这一切都让哈佛之所以成为哈佛的资源。<div style="padding-bottom:1em;"></div>但是资源利用不好等于没利用，甚至可以说是浪费。哈佛固然是股强大的水流可以带你去远方，但是你自己不会游泳，或游泳姿势不对，“生还”的几率依旧很低。在哈佛这条大河里，学会游泳，找到属于自己的那种游泳姿势，才能如鱼得水，畅快淋漓。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727985" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727985/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:41
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28728174">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/rainysky/"><img src="http://img3.douban.com/icon/u3049310-31.jpg" alt="Ningyo" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28728174/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28728174/" class="">第92页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/rainysky/" class=" " title="Ningyo">Ningyo</a>
+                (阿司匹林后遗症)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28728174">
+              <div class="short">
+                
+                  <span class="">进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。
+章节:哈佛最重要的一课：规划时间
+</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:55</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。<div style="padding-bottom:1em;"></div>章节:哈佛最重要的一课：规划时间
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28728174" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28728174/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727849">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/63431348/"><img src="http://img3.douban.com/icon/u63431348-3.jpg" alt="slayer133" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727849/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727849/" class="">第105页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/63431348/" class=" " title="slayer133">slayer133</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727849">
+              <div class="short">
+                
+                  <span class="">哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:34</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前进，并且及时进行调整，以免方向错误。<div style="padding-bottom:1em;"></div>哈佛神话只流传在哈佛的校园之外，哈佛校园里没有神话，只有真枪实弹的竞争，严格的自我管理。求学的成败多半取决于自我的管理。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727849" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727849/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="28728174">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/rainysky/"><img src="http://img3.douban.com/icon/u3049310-31.jpg" alt="Ningyo" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28728174/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28728174/" class="">第92页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/rainysky/" class=" " title="Ningyo">Ningyo</a>
+                (阿司匹林后遗症)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28728174">
+              <div class="short">
+                
+                  <span class="">进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。
+章节:哈佛最重要的一课：规划时间
+</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:55</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                进入哈佛后，人会不自觉地居安思危，恨不得时时刻刻发愤图强，每个人都会竭尽所能地找事情来做。不过对哈佛一年级的学生来说，最重要的还是尽快摆脱高中生的状态，赶紧学会怎么合理安排时间，分清楚轻重缓急，把“想做的”和“必做的”安排好。<div style="padding-bottom:1em;"></div>章节:哈佛最重要的一课：规划时间
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28728174" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28728174/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727849">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/63431348/"><img src="http://img3.douban.com/icon/u63431348-3.jpg" alt="slayer133" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727849/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727849/" class="">第105页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/63431348/" class=" " title="slayer133">slayer133</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727849">
+              <div class="short">
+                
+                  <span class="">哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:34</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                哈佛是世界最高学府，这里的学生十八九岁时离开父母，进入这个既是对手，也是朋友的同侪世界。在众多国际知名的教授门下，他们与各自身怀绝技的同学们竞争，大家一起生活，互相影响，从而完成自我的塑造——哈佛不仅是提供机会和梦想的地方，也是个刺激学习的园地。在观察哈佛学生读书和生活的习惯之后，我可以肯定地说，哈佛学生的杰出表现决不是偶然，几乎所有的哈佛学生都会先给自己设定目标，然后开始脚踏实地地朝着这个目标前进，并且及时进行调整，以免方向错误。<div style="padding-bottom:1em;"></div>哈佛神话只流传在哈佛的校园之外，哈佛校园里没有神话，只有真枪实弹的竞争，严格的自我管理。求学的成败多半取决于自我的管理。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727849" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727849/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727985">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/43466817/"><img src="http://img3.douban.com/icon/u43466817-10.jpg" alt="芦拉拉" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727985/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727985/" class="">第34页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/43466817/" class=" " title="芦拉拉">芦拉拉</a>
+                (深夜发痴兴趣小组)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727985">
+              <div class="short">
+                
+                  <span class="">形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。
+仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:41</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                形容哈佛，什么词都不为过，它在知识界就是恐龙，既巨大又稀有。不过，我更愿意将它比作一条大河。这个比喻是一个朋友告诉我的。他从哈佛毕业后，继续在哈佛攻读博士。他说，哈佛这条河，资源丰富，奔流不息。在这条河里，所有人都在自学游泳，摸索着适合自己的游泳姿势。<div style="padding-bottom:1em;"></div>仔细想来，这个说法还真是贴切。庞大杰出的学者阵容、从激烈竞争中脱颖而出的优秀学生、巨额的校务基金、高精尖的研究设施、1550万卷蔵书（现在肯定不止这个数字）的图书馆、自由且充满热忱的学术研究气氛、遍布海内外的强大人脉、从世界各地涌入的精英留学生……这一切都让哈佛之所以成为哈佛的资源。<div style="padding-bottom:1em;"></div>但是资源利用不好等于没利用，甚至可以说是浪费。哈佛固然是股强大的水流可以带你去远方，但是你自己不会游泳，或游泳姿势不对，“生还”的几率依旧很低。在哈佛这条大河里，学会游泳，找到属于自己的那种游泳姿势，才能如鱼得水，畅快淋漓。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727985" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727985/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:41
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28727878">
+        <div class="ilst">
+          <a href="http://book.douban.com/people/59195980/"><img src="http://img3.douban.com/icon/u59195980-6.jpg" alt="喵星人在红塔山" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="http://book.douban.com/annotation/28727878/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="http://book.douban.com/annotation/28727878/" class="">第13页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="http://book.douban.com/people/59195980/" class=" " title="喵星人在红塔山">喵星人在红塔山</a>
+                (想去云南散步，去成都喝酒)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28727878">
+              <div class="short">
+                
+                  <span class="">要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。
+作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多...</span>
+                <p class="pl">
+                  <span class="">2013-09-26 16:36</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                要说哈佛这样的一流大学与其他学校有什么不同的话，那就是二流大学教你是什么，一流大学引导你探索为什么、怎么办。二流大学给你鱼，一流大学给你鱼竿。同样的四年大学，有些大学可能会是慢慢升温直到烫死你的水，让你变成青蛙；哈佛大学是让你有溺死危险的大河，把你培养成游泳健将。正是因为这样，在哈佛求学注定是苦的。<div style="padding-bottom:1em;"></div>作者客居哈佛两年，兼职学生、记者，揭开哈佛光环的一角，看见一个让她悔恨、汗颜的哈佛：努力的天才太多，一不小心就会垫底；要读的书太多，一天不读书，落人千日；忙到没时间吃午饭，叼着三明治听演讲……见证，讲述，薄薄的一本书，不只是在说哈佛如何一流，更主要的，她在诉说人生。时间不容倒带，假如易成谶语。不可能每个人都在哈佛，但是每个人都可以利用哈佛模式，像一流人才那样思考，满身正能量地努力，养成优秀的习惯。<div style="padding-bottom:1em;"></div>趁着青春还在，有时间，有精力，有梦，找到自己真心喜欢的，无论是恋人还是工作，全力以赴。别等老了再感慨，除非你像王石王总那样有钱，或者你像作者这样走运，可以砸钱在哈佛缅怀青春。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                      <a href="javascript:;" id="n-28727878" class="j a_show_login colbutt ll add-col"><span>收藏</span></a>
+                  </div>
+                <div class="pl col-time">
+                  <a href="http://book.douban.com/annotation/28727878/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-26 16:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{line-height:24px;vertical-align:bottom}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad .ebook-tag{margin-left:8px;padding:0 6px;line-height:20px;font-size:11px;border:1px solid #e6e6e2;background:#f1f1ed;display:inline-block;*display:inline;*zoom:1;vertical-align:top}
+</style>
+
+
+<div class="gray_ad" id="buyinfo">
+
+    <div id="buyinfo-printed">
+      <h2 class="">
+        在哪儿买这本书?
+      </h2>
+      <ul class="bs noline more-after ">
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875705&amp;vendor=joyo&amp;price=2100&amp;lowest=2100&amp;pre=0&amp;cntvendor=5&amp;pos=1&amp;srcsubj=24875705&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.amazon.cn%2Fmn%2FdetailApp%2Fref%3Dasc_df_B00EHAAKLS775520%2F%3Fasin%3DB00EHAAKLS%26tag%3Ddouban-23%26creative%3D2384%26creativeASIN%3DB00EHAAKLS%26linkCode%3Dasn&amp;link2key=c6e0097e7f" class="">
+              <span class="">亚马逊</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 21.00</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875705&amp;vendor=jingdong&amp;price=2340&amp;lowest=2100&amp;pre=0&amp;cntvendor=5&amp;pos=2&amp;srcsubj=24875705&amp;srcpage=subject&amp;url=http%3A%2F%2Fclick.union.jd.com%2FJdClick%2F%3FunionId%3D15055%26t%3D4%26to%3Dhttp%3A%2F%2Fwww.jd.com%2Fproduct%2F11299743.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">京东商城</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 23.40</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875705&amp;vendor=beifa&amp;price=2210&amp;lowest=2100&amp;pre=0&amp;cntvendor=5&amp;pos=3&amp;srcsubj=24875705&amp;srcpage=subject&amp;url=http%3A%2F%2Fbook.beifabook.com%2FProduct%2FBookDetail.aspx%3FPlucode%3D755510007%26extra%3D0_s24875705&amp;link2key=c6e0097e7f" class="">
+              <span class="">北发图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 22.10</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875705&amp;vendor=dangdang&amp;price=2210&amp;lowest=2100&amp;pre=0&amp;cntvendor=5&amp;pos=4&amp;srcsubj=24875705&amp;srcpage=subject&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s24875705%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23315509&amp;link2key=c6e0097e7f" class="">
+              <span class="">当当网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 22.10</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875705&amp;vendor=taoshu&amp;price=2500&amp;lowest=2100&amp;pre=0&amp;cntvendor=5&amp;pos=5&amp;srcsubj=24875705&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.taoshu.com%2Funion%2Ftransfer.aspx%3Ffrom%3D2112%26url%3Dhttp%3A%2F%2Fwww.taoshu.com%2F2009307.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">淘书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 25.00</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+
+        <li>
+            <a href="http://book.douban.com/subject/24875705/buylinks">查看5家网店价格
+                ( RMB 21.00 起 )
+            </a>
+        </li>
+      </ul>
+    </div>
+    
+  <div class="add2cartContainer ft
+    ">
+    
+  <span class="add2cartWidget rr">
+      <a class="j colbutt add2cart a_show_login" href="http://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>加入购书单</span></a>
+  </span>
+  
+
+    <span class="pl add2cartTip">多本比价，批量购买</span>
+  </div>
+
+</div>
+
+<style class="text/css">
+  .presale-indicator{display:inline-block;*display:inline;*zoom:1;width:24px;height:15px;line-height:15px;background:url(http://img3.douban.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;text-indent:-9999px;vertical-align:middle;*vertical-align:0;_vertical-align:2px;margin-left:.5em}
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="http://book.douban.com/works/1023042">全部3</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="http://book.douban.com/subject/3140795/">先覺出版股份有限公司版</a>
+          2008.2.29 / 15人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="http://book.douban.com/subject/1393221/">民族出版社版</a>
+          2005-05 / 18人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="http://book.douban.com/subject/24875705/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="http://book.douban.com/doulist/2754356/">心灵励志成长</a>
+                <span class="pl">(阳光秀美)</span>
+            </li>
+          <li class=""><a class="" href="http://book.douban.com/doulist/2646597/">励志</a>
+                <span class="pl">(石粽子)</span>
+            </li>
+      </ul>
+    </div>
+
+
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/67100749/"><img src="http://img3.douban.com/icon/u67100749-2.jpg" class="pil" alt="简单生活" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/67100749/">简单生活</a><br/>
+      <div class="pl ll">          今天上午          在读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/50142365/"><img src="http://img3.douban.com/icon/u50142365-10.jpg" class="pil" alt="菩璞" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/50142365/">菩璞</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/49004585/"><img src="http://img3.douban.com/icon/u49004585-3.jpg" class="pil" alt="空&amp;想" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/49004585/">空&amp;想</a><br/>
+      <div class="pl ll">          昨天          在读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/may-juuni/"><img src="http://img3.douban.com/icon/u54707494-37.jpg" class="pil" alt="凛" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/may-juuni/">凛</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+      <br/>
+
+
+          <span class="">亚马逊赠书[人人说读书有用，而我也不过是想看看如果认真读书后，我会成为怎样的一个人。]</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875705/doings">12人在读</a></p>
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875705/collections">19人读过</a></p>
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875705/wishes">122人想读</a></p>
+
+  </div>
+
+
+
+
+
+    
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有122人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于假如我的青春在哈佛的评论: <br/><span class="feed">
+    <a href="http://book.douban.com/feed/subject/24875705/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2013 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://book.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="http://www.douban.com/mobile/read">手机读书</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/2cc140419c670237.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = 'http://erebor.douban.com/',
+            userId = '',
+            browserId = 'YPFCwQ3tMM8',
+            ipAddress = '218.108.223.92',
+            criteria = '3:/subject/24875705/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, ip: ipAddress, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dis8-->
+
+
+<script>var _check_hijack = function () {
+    var _sig = "YPFCwQ3t", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

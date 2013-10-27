@@ -1,0 +1,9 @@
+[Sun Oct 27 18:05:19.027 2013] [ 3486] accepting connections
+[Sun Oct 27 18:39:04.927 2013] [ 3486] caught SIGTERM, shutting down
+[Sun Oct 27 18:39:04.927 2013] [ 3486] shutdown complete
+[Sun Oct 27 18:39:07.364 2013] [ 5726] accepting connections
+[Sun Oct 27 18:39:49.994 2013] [ 5726] caught SIGTERM, shutting down
+[Sun Oct 27 18:39:49.994 2013] [ 5726] shutdown complete
+[Sun Oct 27 18:39:52.257 2013] [ 5741] accepting connections
+[Sun Oct 27 20:06:14.774 2013] [ 5741] caught SIGTERM, shutting down
+[Sun Oct 27 20:06:14.823 2013] [ 5741] shutdown complete

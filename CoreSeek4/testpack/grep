@@ -1,0 +1,51 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:9306            0.0.0.0:*               LISTEN      10343/searchd   
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2529/dropbox    
+tcp        0      0 0.0.0.0:9312            0.0.0.0:*               LISTEN      10343/searchd   
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN      22973/mysqld    
+tcp        0      0 127.0.0.1:5037          0.0.0.0:*               LISTEN      6018/adb        
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      1361/dnsmasq    
+tcp        0      0 127.0.0.1:8086          0.0.0.0:*               LISTEN      8061/python     
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      944/cupsd       
+tcp        0      0 127.0.0.1:8087          0.0.0.0:*               LISTEN      8061/python     
+tcp6       0      0 :::80                   :::*                    LISTEN      1451/apache2    
+tcp6       0      0 ::1:631                 :::*                    LISTEN      944/cupsd       
+udp        0      0 0.0.0.0:41370           0.0.0.0:*                           925/avahi-daemon: r
+udp        0      0 0.0.0.0:2705            0.0.0.0:*                           10673/dhclient  
+udp        0      0 0.0.0.0:17500           0.0.0.0:*                           2529/dropbox    
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           925/avahi-daemon: r
+udp        0      0 0.0.0.0:1701            0.0.0.0:*                           1446/xl2tpd     
+udp        0      0 127.0.1.1:53            0.0.0.0:*                           1361/dnsmasq    
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           10673/dhclient  
+udp6       0      0 :::5353                 :::*                                925/avahi-daemon: r
+udp6       0      0 :::38754                :::*                                10673/dhclient  
+udp6       0      0 :::36940                :::*                                925/avahi-daemon: r
+Active UNIX domain sockets (only servers)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name    Path
+unix  2      [ ACC ]     STREAM     LISTENING     11007    916/bluetoothd      /var/run/sdp
+unix  2      [ ACC ]     STREAM     LISTENING     12712    1145/X              /tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     13698    2407/ssh-agent      /tmp/ssh-vQEzdsdMqU73/agent.2365
+unix  2      [ ACC ]     STREAM     LISTENING     16435    2365/gnome-session  /tmp/.ICE-unix/2365
+unix  2      [ ACC ]     STREAM     LISTENING     14065    2545/fcitx          /tmp/fcitx-socket-:0
+unix  2      [ ACC ]     STREAM     LISTENING     14152    2492/chromium-brows /tmp/.org.chromium.Chromium.tC8BIk/SingletonSocket
+unix  2      [ ACC ]     STREAM     LISTENING     13703    2411/dbus-daemon    @/tmp/dbus-fuj7btUEd2
+unix  2      [ ACC ]     STREAM     LISTENING     11046    925/avahi-daemon: r /var/run/avahi-daemon/socket
+unix  2      [ ACC ]     STREAM     LISTENING     7148     1/init              @/com/ubuntu/upstart
+unix  2      [ ACC ]     STREAM     LISTENING     1537856  944/cupsd           /var/run/cups/cups.sock
+unix  2      [ ACC ]     STREAM     LISTENING     14702    2529/dropbox        /home/whatever/.dropbox/iface_socket
+unix  2      [ ACC ]     SEQPACKET  LISTENING     9281     396/udevd           /run/udev/control
+unix  2      [ ACC ]     STREAM     LISTENING     14040    2600/dbus-daemon    @/tmp/dbus-F5AL3Esc9s
+unix  2      [ ACC ]     STREAM     LISTENING     12641    1092/acpid          /var/run/acpid.socket
+unix  2      [ ACC ]     STREAM     LISTENING     12711    1145/X              @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     16513    2443/pulseaudio     /run/user/whatever/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     16426    2417/dbus-daemon    @/tmp/dbus-HlQ9orIrIM
+unix  2      [ ACC ]     STREAM     LISTENING     13586    2248/speech-dispatc /var/lib/lightdm/.speech-dispatcher/speechd.sock
+unix  2      [ ACC ]     STREAM     LISTENING     16153    2529/dropbox        /home/whatever/.dropbox/command_socket
+unix  2      [ ACC ]     STREAM     LISTENING     945620   22973/mysqld        /var/run/mysqld/mysqld.sock
+unix  2      [ ACC ]     STREAM     LISTENING     13783    2354/gnome-keyring- /run/user/whatever/keyring-Dq3qWa/gpg
+unix  2      [ ACC ]     STREAM     LISTENING     13785    2354/gnome-keyring- /run/user/whatever/keyring-Dq3qWa/ssh
+unix  2      [ ACC ]     STREAM     LISTENING     13787    2354/gnome-keyring- /run/user/whatever/keyring-Dq3qWa/pkcs11
+unix  2      [ ACC ]     STREAM     LISTENING     10981    902/dbus-daemon     /var/run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     LISTENING     12264    2354/gnome-keyring- /run/user/whatever/keyring-Dq3qWa/control
+unix  2      [ ACC ]     STREAM     LISTENING     16434    2365/gnome-session  @/tmp/.ICE-unix/2365

@@ -1,0 +1,2321 @@
+status: 200
+content-length: 97513
+content-location: http://book.douban.com/subject/24875440/
+set-cookie: viewed="24875440_25731751_20374758_1468997"; path=/;
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:22:30 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Fri, 25 Oct 2013 07:22:30 GMT
+x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
+ sns.search_suggest
+content-type: text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff24 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>电动工具使用与维修960问 (豆瓣)</title>
+  
+
+
+  
+<script>!function(f){var h=function(o,n,m){var k=new Date(),j,l;n=n||30;m=m||"/";k.setTime(k.getTime()+(n*24*60*60*1000));j="; expires="+k.toGMTString();for(l in o){f.cookie=l+"="+o[l]+j+"; path="+m}},d=function(m){var l=m+"=",o,n,j,k=f.cookie.split(";");for(n=0,j=k.length;n<j;n++){o=k[n].replace(/^\s+|\s+$/g,"");if(o.indexOf(l)==0){return o.substring(l.length,o.length).replace(/\"/g,"")}}return null},e=f.write,b={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},a=function(l,k){var j=new Image();j.onload=function(){};j.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(l)+"&environment="+encodeURIComponent(k)},i=function(k){try{e.call(f,k)}catch(j){e(k)}},c=/<script.*?src\=["']?([^"'\s>]+)/ig,g=/http:\/\/(.+?)\.([^\/]+).+/i;f.writeln=f.write=function(k){var j=c.exec(k),l;if(!j){i(k);return}l=g.exec(j[1]);if(!l){i(k);return}if(b[l[2]]){i(k);return}if(d("hj")==="tqs"){return}a(j[1],location.href);h({hj:"tqs"},1);setTimeout(function(){location.replace(location.href)},50)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/book/subject/24875440/">
+<meta name="keywords" content="电动工具使用与维修960问,阳鸿钧,机械工业出版社,2013-7,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书电动工具使用与维修960问 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
+  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
+  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
+  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+    <link rel="alternate" href="http://book.douban.com/feed/subject/24875440/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+
+  <script>  </script>
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/348428d787d1fc9f.css">
+
+  <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+  
+  
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login?source=book" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register?source=book">注册</a>
+</div>
+
+
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://book.douban.com/">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    
+                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-logo">
+        <a href="http://book.douban.com">豆瓣读书</a>
+      </div>
+      <div class="nav-search">
+        <form action="http://book.douban.com/subject_search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">书名、作者、ISBN</label>
+            <div class="inp">
+              <input id="inp-query" name="search_text" size="22" maxlength="60"
+                value="">
+            </div>
+            <div class="inp-btn">
+              <input type="submit" value="搜索">
+            </div>
+            <input type="hidden" name="cat" value="1001">
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="nav-secondary">
+    <ul class="nav-items">
+      <li
+        class="nav-item-first"
+      ><a href="http://book.douban.com/tag/">分类浏览</a></li>
+      
+      <li class="book-cart"><a href="http://book.douban.com/cart">购书单</a></li>
+      <li>
+        <a href="http://read.douban.com/ebooks/?dcs=book-nav&amp;dcm=douban" target="_blank">电子图书</a>
+        <sup class="icon-new"></sup>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <script type="text/template" id="suggest-item">
+    <li class="item"><a href="#">{{= item}}</a></li>
+  </script>
+  
+  
+
+
+
+    <div id="wrapper">
+        
+<h1>
+    <span property="v:itemreviewed">电动工具使用与维修960问</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg" 
+      href="http://img3.douban.com/lpic/s26863780.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24875440, ), title: 电动工具使用与维修960问, uid: 7111422996, cat_id: 1001&gt;&gt;">
+    <img src="http://img3.douban.com/mpic/s26863780.jpg" title="点击看大图" alt="电动工具使用与维修960问" rel="v:photo">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>: 
+        
+        <a class="" href="/search/%E9%98%B3%E9%B8%BF%E9%92%A7">阳鸿钧</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 机械工业出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-7<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 437<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 69.80元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787111422990<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap" rel="v:rating">
+    <p class="rating_self clearfix" typeof="v:Rating">
+      <span class="ll bigstar00"></span>
+
+
+      <strong class="ll rating_num " property="v:average">
+      
+      </strong>
+
+      <span property="v:best" content="10.0"></span>
+    </p>
+    <p class="rating_self font_normal clearbox">
+    (
+    <span class="">
+      <span class="color_gray">目前无人评价</span>
+    </span>
+    )
+  </p>
+    
+    
+<span class="stars5 starstop" title="力荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars4 starstop" title="推荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars3 starstop" title="还行"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars2 starstop" title="较差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars1 starstop" title="很差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+</div>
+</div>
+
+
+  </div>
+  
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="http://www.douban.com/register?reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875440-wish">
+          <span>想读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectdo&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875440-do">
+          <span>在读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875440-collect">
+          <span>读过</span>
+        </a>
+      <div class="ll j a_stars">
+        
+
+<span class="j a_stars">
+  <span class="rate_stars">
+    评价: 
+    <span id="rating">
+      <span id="stars"><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875440-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875440-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875440-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875440-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875440-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5" /></a>      </span>
+      <span id="rateword" class="pl"></span>
+      <input id="n_rating" type="hidden" value=""
+          />
+    </span>
+  </span>
+</span>
+
+
+
+
+
+
+      </div>
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+      <li>
+        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+      </li>
+
+        <li>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+        </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="http://img3.douban.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="http://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-24875440">
+        <a href= "#" data-url="http://book.douban.com/subject/24875440/" data-desc="" data-title="书籍《电动工具使用与维修960问》 (来自豆瓣) " data-pic="http://img3.douban.com/lpic/s26863780.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var cache_url = cache_url || {};
+    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_24875440"></div>
+<div class="related_info">
+  
+  
+  
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent" id="link-report">
+  
+    <div class="">
+      <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>本书针对电动工具在使用、维护维修、销售选购、管理制造等领域遇到的有关疑问进行解答，内容涉及电动工具的基础知识、实战应用技巧、选择要点、维护维修技术、速查资料等知识与技能。本书解答深入浅出，言简意赅，针对性强，实用性强，是读者朋友答疑解惑的知音。</p>    <p>本书适合工具维修人员、家电维修人员、机电维修人员、电器维修人员、广大电工与电气人员阅读，也可供大中专院校、培训班相关师生参考使用。</p></div>
+
+    </div>
+  
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "http://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("http://book.douban.com/book/subject/24875440/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_24875440_short">
+        前言<br/>
+        第1章概述1<br/>
+        1.1基本概念1<br/>
+        问1什么是电动工具？1<br/>
+        问2什么是手持式电动工具？1<br/>
+        问3什么是可移式电动工具，它们的特征是怎样的？1<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_24875440_short').hide();$('#dir_24875440_full').show();$.get('/j/subject/j_dir_count',{id:24875440});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_24875440_full" style="display:none">
+        前言<br/>
+        第1章概述1<br/>
+        1.1基本概念1<br/>
+        问1什么是电动工具？1<br/>
+        问2什么是手持式电动工具？1<br/>
+        问3什么是可移式电动工具，它们的特征是怎样的？1<br/>
+        问4电动工具的分类与特点是怎样的？1<br/>
+        问5金属切削工具有哪些？2<br/>
+        问6砂磨工具有哪些？2<br/>
+        问7装配作业工具有哪些？2<br/>
+        问8林木工具有哪些？2<br/>
+        问9园林工具有哪些？2<br/>
+        问10建筑、道路工具有哪些？3<br/>
+        问11矿山工具有哪些？3<br/>
+        问12什么是作业工具？3<br/>
+        问13什么是电动工具的Ⅱ类结构？3<br/>
+        问14什么是电动工具的Ⅲ类结构？3<br/>
+        问15什么是Ⅲ类器具？3<br/>
+        问16什么是电动工具的易触及零件或易触及表面？3<br/>
+        问17什么是电动工具的不可拆卸的零件？3<br/>
+        问18什么是不可拆线软电缆或软线？3<br/>
+        问19什么是电动工具的可拆卸的零件？3<br/>
+        问20什么是可拆卸的软电缆或导线？4<br/>
+        问21电源连接方式有哪几种？4<br/>
+        问22什么是电源软线？4<br/>
+        问23什么是内接线?4<br/>
+        问24什么是互联导线？4<br/>
+        问25电源电路、控制电路和电子电路的概念是怎样的？4<br/>
+        问26什么是夹持机构？4<br/>
+        问27什么是工程塑料？5<br/>
+        问28什么是内应力？5<br/>
+        问29什么是应力开裂？5<br/>
+        问30绝缘的类型有哪些？5<br/>
+        问31什么是附件与配件？5<br/>
+        问32什么是电动工具的正常使用？6<br/>
+        问33什么是带电部分？6<br/>
+        问34什么是全极断开？6<br/>
+        问35什么是爬电距离？6<br/>
+        问36什么是电气间隙？6<br/>
+        问37什么是绝缘穿通距离？6<br/>
+        问38什么是特低电压？6<br/>
+        问39什么是安全特低电压？6<br/>
+        问40什么是安全隔离变压器？6<br/>
+        问41什么是保护阻抗？6<br/>
+        问42什么是接地装置？7<br/>
+        问43什么是保护装置？7<br/>
+        问44什么是控温器？7<br/>
+        问45什么是热断路器？7<br/>
+        问46什么是自复位热断路器？7<br/>
+        问47什么是非自复位热断路器？7<br/>
+        问48什么是热熔丝？7<br/>
+        问49什么是控制器件？7<br/>
+        问50什么是剩余电流动作保护器？7<br/>
+        问51什么是防护器件？7<br/>
+        问52什么是正反转装置？8<br/>
+        问53什么是电磁兼容性？8<br/>
+        问54什么是电磁骚扰？8<br/>
+        问55什么是连续骚扰？8<br/>
+        问56什么是骚扰功率限值？8<br/>
+        问57什么是谐波电流限值？8<br/>
+        问58什么是电压波动和闪烁限值？8<br/>
+        问59什么是抗扰度电平？8<br/>
+        问60什么是抗扰度限值？8<br/>
+        问61什么是电磁干扰？8<br/>
+        问62什么是电磁发射？9<br/>
+        问63什么是发射限值？9<br/>
+        问64什么是无线电与电视干扰抑制器？9<br/>
+        问65什么是端子电压限值？9<br/>
+        问66什么是端子电压测量法？9<br/>
+        问67什么是污染？9<br/>
+        问68什么是微小环境？9<br/>
+        问69微小环境中的状态有哪几种？9<br/>
+        问70什么是离合？9<br/>
+        1.2规格与参数10<br/>
+        问71工具有哪些类型？10<br/>
+        问72电动工具的种类有哪些？10<br/>
+        问73气动工具与电动工具的对比是怎样的？11<br/>
+        问74电动工具型号的组成是怎样的？12<br/>
+        问75博世电动工具型号的含义是怎样的？12<br/>
+        问76电动工具组件的组成是怎样的？14<br/>
+        问77电动工具的额定值与参数有哪些？15<br/>
+        问78电动工具常见的基本参数有哪些？16<br/>
+        问79工具额定输入功率的偏差有规定吗？16<br/>
+        问80工具额定电流与额定电压有规定吗？16<br/>
+        问81工具的绝缘电阻有规定吗？16<br/>
+        问82工具的测试电压与测试点有规定吗？16<br/>
+        1.3认证与标志17<br/>
+        问83常见的认证标志有哪些？17<br/>
+        问84什么是CCC认证？18<br/>
+        问85工具的标志有哪些规定？18<br/>
+        问86工具标志使用的符号有哪些规定？19<br/>
+        问87工具上的调节装置、开关的位置有哪些规定？20<br/>
+        问88怎样检测工具上的标志？20<br/>
+        1.4使用与要求20<br/>
+        问89电动工具需要满足的要求有哪些？20<br/>
+        问90使用电动工具有哪些电气安全要求？21<br/>
+        问91使用电动工具对环境条件有什么要求？21<br/>
+        问92电动工具工作使用场地有哪些要求？21<br/>
+        问93使用电动工具有哪些人身安全要求？21<br/>
+        问94怎样合理选择工具的电气安全防护？22<br/>
+        问95手电钻、冲击钻、电锤、电镐的区别与用途、选择是怎样的？22<br/>
+        问96怎样选购电动工具？22<br/>
+        问97使用电动工具的一些注意事项有哪些？23<br/>
+        问98电动工具作业前需要检查哪些项目？25<br/>
+        问99怎样保管电动工具？25<br/>
+        问100怎样维护与维修电动工具？26<br/>
+        问101一些电动工具还具有怎样的特殊效能？26<br/>
+        问102安装在机器上的工具容易被夹住的常见原因有哪些？27<br/>
+        问103电动工具主要防护有哪些？27<br/>
+        问104什么是反弹,如何防止反弹？27<br/>
+        1.5其他27<br/>
+        问105常见的劳动保护用品有哪些？27<br/>
+        问106什么是电子速度控制？27<br/>
+        问107使用工具发生电击事故的主要原因有哪些？27<br/>
+        问108电动工具有关中英文对照是怎样的？28<br/>
+        第2章配件与附件29<br/>
+        2.1导线与插头、接线端子29<br/>
+        问1软电缆或软线的安全有哪些要求？29<br/>
+        问2一般电动工具电源连接方式的特点是怎样的？29<br/>
+        问3电动工具电源线有什么要求与特点？29<br/>
+        问4电动工具电源线截面积有什么要求？30<br/>
+        问5导线的种类与标识是怎样的？31<br/>
+        问6电动工具用电源橡胶线有哪些特点？31<br/>
+        问7怎样选择电动工具电源线的颜色？31<br/>
+        问8怎样选择电动工具内导线的颜色？31<br/>
+        问9电动工具常用软电缆规格是怎样的？32<br/>
+        问10什么情况下电动工具上不选择PVC导线？32<br/>
+        问11电动工具导线护套的材料与要求是怎样的？32<br/>
+        问12一些电动工具所用的电源线规格是多少？32<br/>
+        问13对电动工具插头、插座有哪些安全要求？33<br/>
+        问14电动工具电源线插头的类型有哪些？33<br/>
+        问15怎样根据电源线插座判断相线、零线、地线？34<br/>
+        问16怎样检查电源线的好坏？35<br/>
+        问17电动工具电源线护套的特点与规格是怎样的？35<br/>
+        问18电动工具内部布线的特点与要求是怎样的？36<br/>
+        问19X型连接的接线端子连接导线的截面积有哪些要求？37<br/>
+        问20柱型接线端子的尺寸规格是怎样的？37<br/>
+        问21螺孔型接线端子的尺寸规格是怎样的？37<br/>
+        问22螺栓接线端子的尺寸规格是怎样的？38<br/>
+        2.2紧固件38<br/>
+        问23常见的长度计量单位有哪些，它们的换算是怎样的？38<br/>
+        问24什么是标准件，什么是紧固件？38<br/>
+        问25有关紧固件的一些名词、术语、概念是怎样的？38<br/>
+        问26螺纹分为哪几类？40<br/>
+        问27螺纹有哪些要素？40<br/>
+        问28几种螺纹的特征代号及用途是怎样的？41<br/>
+        问29一些紧固件的标注是怎样的？41<br/>
+        问30螺纹紧固件头部的形式有哪些？42<br/>
+        问31螺纹末端的结构形式有哪几种？43<br/>
+        问32常见的牙距是多少？43<br/>
+        问33有关标准公制螺母有什么差异？44<br/>
+        问34螺母螺纹常见的种类有哪些？44<br/>
+        问35电动工具常见的螺母有哪些？44<br/>
+        问36电动工具常见的螺钉有哪些？44<br/>
+        问37电动工具半圆头螺钉在工具中应用速查是怎样的？45<br/>
+        问38电动工具自攻螺钉在工具中应用速查是怎样的？46<br/>
+        问39电动工具螺栓在工具中应用速查是怎样的？47<br/>
+        问40常见的电动工具圈有哪些？49<br/>
+        问41常见的电动工具垫圈有哪些？49<br/>
+        问42电动工具挡圈在工具中应用速查是怎样的？49<br/>
+        2.3塑料51<br/>
+        问43一些塑料的缩略符号与名称对照是怎样的？51<br/>
+        问44塑料的一些名词是怎样的？52<br/>
+        2.4电动机55<br/>
+        问45一些电动机的特点是怎样的？55<br/>
+        问46什么是电容式单相电动机，它的特点是怎样的？56<br/>
+        问47单相异步电容式电动机的种类有哪些？56<br/>
+        问48怎样判断三端出线单相电容式电动机主绕组、副绕组？56<br/>
+        问49怎样判断一般单相电容起动电动机主绕组、副绕组？57<br/>
+        问50工具电动机怎样冷却？57<br/>
+        问51串励电动机的种类有哪些,它们的特点是怎样的？57<br/>
+        问52串励电动机的工作原理是怎样的？57<br/>
+        问53串励电动机的主要特征有哪些？57<br/>
+        问54单相串励电动机的基本结构是怎样的？58<br/>
+        问55串励电动机各个部分的作用与特点是怎样的？58<br/>
+        问56励磁绕组与电枢绕组的串联方式有哪几种？58<br/>
+        问57怎样实现单相串励电动机的反转？58<br/>
+        问58单相串励电动机不允许空载起动与运行，为什么电动工具却可以？59<br/>
+        问59单相串励电动机的调速种类有哪些？59<br/>
+        问60怎样检修单相串励电动机定子绕组与电枢绕组？60<br/>
+        问61怎样检查单相串励电动机定子线圈断路？60<br/>
+        问62怎样维修单相串励电动机定子线圈断路？60<br/>
+        问63怎样检查单相串励电动机定子线圈短路？60<br/>
+        问64怎样检查单相串励电动机定子线圈接地？61<br/>
+        问65怎样检查电枢绕组断路？61<br/>
+        问66怎样维修电枢绕组断路？61<br/>
+        问67怎样找出短路线圈所接的换向器铜片？61<br/>
+        问68怎样维修电枢绕组短路？62<br/>
+        问69单相串励电动机常见故障与检修方法是怎样的？62<br/>
+        问70串励电动机常见不良的原因有哪些？64<br/>
+        问71怎样判断单相串励电动机火花等级？64<br/>
+        问72使用不良的钢片的缺点是怎样的？64<br/>
+        问73怎样判断钢片的优劣？64<br/>
+        问74转子内部绕的铜线多好还是少好？64<br/>
+        问75电动机的损耗有哪些？64<br/>
+        问76电动机有关功率等式是怎样的？65<br/>
+        问77怎样校正弯曲的电容式电动机转子轴？65<br/>
+        问78怎样整理电动机电枢？65<br/>
+        问79怎样维修电动机转子轴松动？66<br/>
+        问80怎样检查电动机是否漏电？66<br/>
+        问81转子绕组短路的主要原因有哪些？66<br/>
+        问82怎样判断转子绕组的短路处？66<br/>
+        问83电动机绕组结构有哪几种？66<br/>
+        问84什么是绕组的展开图？66<br/>
+        问85绕组展开图的作用有哪些？66<br/>
+        问86什么是极距,什么是节距？67<br/>
+        问87单相电动机电容接线的方式有哪几种？67<br/>
+        问88奇力速电动螺丝刀电动机零件搭配是怎样的？68<br/>
+        2.5齿轮68<br/>
+        问89齿轮有什么作用？68<br/>
+        问90齿轮常用的材料有哪些？68<br/>
+        问91齿轮分为哪些类型,电动工具常见的齿轮有哪些？69<br/>
+        问92齿轮的硬度有哪些要求？69<br/>
+        2.6电刷与换向器69<br/>
+        2.6.1电刷69<br/>
+        问93碳有哪些性质？69<br/>
+        问94什么是电刷？69<br/>
+        问95电刷有什么作用？70<br/>
+        问96电刷的结构是怎样的？70<br/>
+        问97电刷有关性能与参数有哪些？70<br/>
+        问98电刷的主要物理参数对性能有什么影响？71<br/>
+        问99电刷对弹簧有什么要求？71<br/>
+        问100电刷对换向器有什么要求？71<br/>
+        问101电刷弹簧配合压强是多少？72<br/>
+        问102电刷与刷架的配合间隙要求是多少？72<br/>
+        问103换向器皮膜的特点与要求是怎样的？72<br/>
+        问104电刷有哪几种类型？72<br/>
+        问105不同电刷的特点是怎样的？73<br/>
+        问106安全电刷的工作机理是怎样的？73<br/>
+        问107电动工具电动机用主要电刷材料物理参数是怎样的？73<br/>
+        问108EMI与电刷的关系是怎样的？74<br/>
+        问109EMI与电刷后处理的关系是怎样的？74<br/>
+        问110EMI与其他相关零部件的关系是怎样的？75<br/>
+        问111怎样判断电刷的优劣？75<br/>
+        问112电刷安装需要注意哪些事项？75<br/>
+        问113电刷使用性能良好标志的特征是怎样的？75<br/>
+        问114使用电刷前需要注意哪些事项？76<br/>
+        问115怎样检查电刷？76<br/>
+        问116怎样更换电刷？76<br/>
+        问117摩根电刷新老电刷对照是怎样的？76<br/>
+        问118一些电刷的应用特点是怎样的？77<br/>
+        问119一些电刷的外形特征是怎样的？77<br/>
+        问120奇力速电动螺丝刀电刷的应用速查是怎样的？78<br/>
+        问121一些电刷在电动工具中的应用速查是怎样的？79<br/>
+        问122什么是电刷架？83<br/>
+        问123电刷架的结构是怎样的？83<br/>
+        问124对电刷架有哪些要求？84<br/>
+        问125电动工具电刷握的应用速查是怎样的？84<br/>
+        问126电动工具电刷盖的应用速查是怎样的？85<br/>
+        问127奇力速电动螺丝刀电刷座的应用是怎样的？86<br/>
+        问128电刷颤振的原因与处理方法是怎样的？86<br/>
+        问129电刷磨损不均匀的原因与处理方法是怎样的？87<br/>
+        问130怎样检修单相串励电动机有关的电刷故障？87<br/>
+        2.6.2换向器87<br/>
+        问131什么是换向器？87<br/>
+        问132电动工具换向器的结构是怎样的？88<br/>
+        问133换向器的工作原理是怎样的？88<br/>
+        问134换向器的作用是怎样的？89<br/>
+        问135电动工具换向器的直径有规定吗？89<br/>
+        问136电动工具换向器的型号命名规则是怎样的？89<br/>
+        问137换向器有哪些种类？89<br/>
+        问138铜线挂钩换向器与普通压制换向器的比较有什么差异？89<br/>
+        问139对换向器有哪些要求？89<br/>
+        问140造成火花的原因有哪些？90<br/>
+        问141换向器在电动工具中的应用速查是怎样的？90<br/>
+        2.7轴承92<br/>
+        问142什么是轴承，它的作用是怎样的？92<br/>
+        问143轴承要润滑吗？92<br/>
+        问144轴承有哪些种类，它们的特点是怎样的？92<br/>
+        问145轴承零件的特点是怎样的？95<br/>
+        问146滚动轴承的密封装置有哪些？98<br/>
+        问147电动工具常用轴承型号有哪些？98<br/>
+        问148 608轴承与626轴承有什么差异？98<br/>
+        问149一些电动工具应用轴承是哪些？98<br/>
+        问150优质摆杆轴承与劣质摆杆轴承的差异表现在哪些方面？102<br/>
+        问151安装轴承常用的工具有哪些？103<br/>
+        问152轴承常用的检测工具有哪些？103<br/>
+        问153安装轴承有哪些方法？103<br/>
+        问154使用与检修轴承有哪些注意事项？103<br/>
+        2.8开关104<br/>
+        问155开关可以分为哪几类？104<br/>
+        问156常见开关的特点是怎样的？106<br/>
+        问157开关接线端子分为哪几类？107<br/>
+        问158开关有关的标志是怎样的？107<br/>
+        问159一些开关的相关概念、术语是怎样的？108<br/>
+        问160电动工具开关的主要类型有哪些？111<br/>
+        问161电动工具开关常见认证有关英文名称与术语有哪些？112<br/>
+        问162电动工具开关主要组成部件有哪些？112<br/>
+        问163跷板开关内置控制仪接线是怎样的？113<br/>
+        问1648孔开关内置控制仪接线是怎样的？113<br/>
+        问1658孔开关外置控制仪接线是怎样的？113<br/>
+        问166怎样选择电动工具开关？114<br/>
+        问167电动工具专用开关C3C的特点是怎样的？114<br/>
+        问168通断电源开关的工作原理是怎样的？114<br/>
+        问169正反转开关的主要作用是怎样的？115<br/>
+        问170怎样判断正反开关的好坏？115<br/>
+        问171电池式电动工具用直流开关的参数是多少？115<br/>
+        问172电池式电动工具用直流开关的额定电流的规格有哪些？115<br/>
+        问173电池式电动工具用直流开关的分类有哪些？116<br/>
+        问174电池式电动工具用直流开关的型号命名是怎样的？116<br/>
+        问175电池式电动工具用直流开关额定温度的表示法是怎样的？118<br/>
+        问176电池式电动工具用直流开关端子的连线与通过电流是多少？118<br/>
+        问177电池式电动工具用直流开关螺纹型接线端子的类型有哪些？119<br/>
+        问178电池式电动工具用直流开关螺钉接线端子的尺寸是多少？119<br/>
+        问179电池式电动工具用直流开关螺钉与螺栓接线端子中用的垫圈或压紧板尺寸是多少？120<br/>
+        问180电池式电动工具用直流开关柱式接线端子的尺寸是多少？120<br/>
+        问181电池式电动工具用直流开关片式接线端子尺寸是多少？121<br/>
+        问182什么是一般电动工具用电子调速开关？121<br/>
+        问183一般电动工具用电子调速开关额定数值是多少？121<br/>
+        问184非调速电源开关出现的主要故障有哪些？121<br/>
+        问185调速开关的特点是怎样的？121<br/>
+        问186调速开关的电路原理是怎样的？122<br/>
+        问187一般电动工具用电子调速开关分为哪几类？122<br/>
+        问188一般电动工具用电子调速开关的类别与规格代号是怎样的？123<br/>
+        问189调速电源开关主要故障有哪些？123<br/>
+        问190一般电动工具用电子非自动复位调速开关的断开标志是怎样的？124<br/>
+        问191怎样检测开关的好坏？124<br/>
+        问192怎样检测起动开关的好坏？124<br/>
+        问193奇力速电动螺丝刀正反开关与颜色是怎样的？125<br/>
+        问194奇力速电动螺丝刀起动开关应用是怎样的？128<br/>
+        问195一些电动工具应用开关型号速查是怎样的？128<br/>
+        2.9钻头、开孔器、夹头、批头132<br/>
+        问196什么是钻头？132<br/>
+        问197钻头有哪些种类，它们的特点是怎样的？132<br/>
+        问198工程薄壁钻头的种类与用途是怎样的？136<br/>
+        问199如何解决工程薄壁钻头开孔时受冲击？136<br/>
+        问200手工刃磨麻花钻有哪些技巧？137<br/>
+        问201怎样保养与维护冲击电钻钻头？137<br/>
+        问202电动工具钻夹头有哪些种类？138<br/>
+        问203钻夹头的基本要求是怎样的？138<br/>
+        问204什么是批头，它有哪些种类？139<br/>
+        2.10锯片139<br/>
+        问205烧结圆锯片有哪些类型？139<br/>
+        问206焊接圆锯片有哪些类型？140<br/>
+        问207金工用圆锯片有哪些类型？140<br/>
+        问208金刚石圆锯片有哪些类型？141<br/>
+        问209怎样选用金刚石锯片？141<br/>
+        问210怎样选用合金砂轮？141<br/>
+        问211不同齿形锯片的特点是怎样的？142<br/>
+        问212什么是圆锯片的动态工作稳定性？142<br/>
+        问213影响圆锯片动态工作稳定性有哪些因素？142<br/>
+        问214提高锯片动态稳定性的方法有哪些？143<br/>
+        问215怎样选择锯片？143<br/>
+        问216怎样选择40齿与60齿的硬质合金木工锯片？143<br/>
+        问21730齿与40齿的硬质合金木工锯片有什么差异？143<br/>
+        问218多齿的与少齿的割木料锯片有哪些差异？144<br/>
+        问219木材锯片的类型有哪些？144<br/>
+        问220选择合金锯片考虑的因素有哪些？144<br/>
+        问221怎样选择硬质合金的种类？145<br/>
+        问222有些金刚石切割片外边缘开有若干条槽的作用是什么？145<br/>
+        问223干式切割片与湿式切割片耐温性有差异吗？145<br/>
+        问224怎样选择硬质合金锯片的基体？145<br/>
+        问225合金锯片有哪几种类型？145<br/>
+        问226怎样选择硬质合金锯片的直径与外径？146<br/>
+        问227怎样选择硬质合金锯片的齿形？146<br/>
+        问228怎样根据被切工件材质正确选择锯片？146<br/>
+        问229锯片锯齿的角度的特点是怎样的？147<br/>
+        问230怎样鉴别硬质合金锯片？147<br/>
+        问231合金锯片为什么要开口？147<br/>
+        问232合金圆锯片磨损的种类有哪些？147<br/>
+        问233锯片常见的异常现象有哪些？148<br/>
+        问234怎样保养硬质合金锯片？148<br/>
+        问235使用合金锯片的基本要求是怎样的？148<br/>
+        问236合金锯片的安装要求是怎样的？149<br/>
+        问237合金锯片的使用要求是怎样的？149<br/>
+        2.11元器件150<br/>
+        问238电动工具电磁干扰是怎样产生的？150<br/>
+        问239怎样抑制电动工具电磁干扰？150<br/>
+        问240怎样检测熔丝的好坏？151<br/>
+        问241怎样检测固定电阻？151<br/>
+        问242怎样检测贴片电阻？152<br/>
+        问243怎样检测负温度系数热敏电阻？152<br/>
+        问244怎样检测电位器的好坏？152<br/>
+        问245怎样检测10pF以下固定电容？152<br/>
+        问246怎样检测电解电容？153<br/>
+        问247怎样检测起动电容？153<br/>
+        问248电动机配用的电容能否用电解电容代替？153<br/>
+        问249怎样检测较小容量的贴片电容？153<br/>
+        问250怎样判断容量较大贴片电解电容的好坏？154<br/>
+        问251怎样检测电感？154<br/>
+        问252怎样检测贴片电感？154<br/>
+        问253怎样判断普通二极管的正、负？154<br/>
+        问254怎样检测稳压二极管？154<br/>
+        问255怎样判断二极管的好坏？154<br/>
+        问256怎样采用万用表法检测与判断LED的好坏？155<br/>
+        问257怎样判断小功率全桥的极性？155<br/>
+        问258怎样判断桥式整流器的好坏？155<br/>
+        问259怎样判断晶体管处于放大、饱和、截止状态？155<br/>
+        问260怎样检测在线晶体管的好坏？155<br/>
+        问261怎样检测贴片晶体管的好坏？156<br/>
+        问262怎样判断单向晶闸管的性能？156<br/>
+        问263怎样判断双向晶闸管性能的好坏？156<br/>
+        问264怎样判断MOS场效应晶体管的电极？156<br/>
+        问265怎样检测场效应晶体管的好坏？156<br/>
+        问266怎样检测集成电路？157<br/>
+        问267怎样检测继电器？158<br/>
+        问268怎样鉴定电池的好坏？158<br/>
+        2.12其他159<br/>
+        问269电锤转换电钻连接杆有什么作用与特点？159<br/>
+        问270钢珠离合器的工作原理是怎样的？159<br/>
+        问271电动工具一些基本组件的特点是怎样的？160<br/>
+        问272电动工具一些基本组件的应用是怎样的？160<br/>
+        第3章充电基础知识162<br/>
+        问1什么是安培小时？162<br/>
+        问2电量与能量有区别吗？162<br/>
+        问3什么是功率？162<br/>
+        问4什么是电池的充电时间？162<br/>
+        问5什么是深度放电？162<br/>
+        问6什么是周期？162<br/>
+        问7什么是ECP、EMP？162<br/>
+        问8电池为什么会自放电？163<br/>
+        问9电动工具用电池电路板原理是怎样的？163<br/>
+        问10日立充电式电动工具电池与充电器性能参数对照是怎样的？163<br/>
+        问11日立充电式电动工具超级锂电池与充电器性能参数对照是怎样的？164<br/>
+        第4章电钻与冲击电钻165<br/>
+        4.1概述165<br/>
+        问1什么是电钻？165<br/>
+        问2一些电钻的概念是怎样的？165<br/>
+        问3什么是冲击电钻？165<br/>
+        问4一般电钻的基本参数要符合的要求是怎样的？165<br/>
+        问5电钻的工作原理是怎样的？166<br/>
+        问6电钻电动机的类型有哪几种？166<br/>
+        问7电钻手柄的特点是怎样的？166<br/>
+        问8电钻风扇的特点是怎样的？167<br/>
+        问9怎样检修散热风扇松动？167<br/>
+        问10电钻减速箱的特点是怎样的？167<br/>
+        问11电钻转速的特点是怎样的？167<br/>
+        问12电钻工作制的特点是怎样的？168<br/>
+        问13电钻定子线圈与电枢绕组的连接方法有哪几类？168<br/>
+        问14电钻常用配件有哪些？168<br/>
+        问15电钻常见型号与类型有哪些？168<br/>
+        问16电钻速度与加工材料间有何关系?169<br/>
+        问17怎样知道电钻最大钻孔直径？169<br/>
+        问18维修电钻有哪些注意点？169<br/>
+        问19怎样检查电钻机械故障？169<br/>
+        问20怎样检查电钻漏电故障？170<br/>
+        问21怎样检查电钻的电路故障？170<br/>
+        问22电钻钻削时常见的现象的原因是怎样的？170<br/>
+        问23怎样检查电钻的接地故障？170<br/>
+        问24怎样维修电钻电枢绕组短路故障？170<br/>
+        问25怎样维修单相串励电钻定子线圈绕组短路故障？171<br/>
+        问26怎样维修单相串励电钻电枢绕组短路故障？171<br/>
+        问27怎样检测电钻电枢绕组接地故障？171<br/>
+        问28怎样维修电钻电枢绕组接地故障？172<br/>
+        问29电钻刷握发生接地的现象有哪几种类型？172<br/>
+        问30怎样检查电钻内部绕组受潮？173<br/>
+        问31怎样维修电钻内部绕组受潮？173<br/>
+        问32怎样维修电钻电路是通的，但是空载时不能起动？174<br/>
+        问33怎样维修电钻电路是通的，但是负载时不能起动？174<br/>
+        问34怎样维修电钻电刷有火花？174<br/>
+        问35怎样维修电钻的换向器发生异常火花？174<br/>
+        问36怎样装配轴承？174<br/>
+        问37电钻轴承损坏的检查方法是怎样的？175<br/>
+        问38怎样维修电钻轴承？175<br/>
+        问39怎样拆卸电钻的损坏轴承？175<br/>
+        问40怎样维修电枢主轴齿轮与减速齿轮损坏故障？176<br/>
+        4.2普通电钻176<br/>
+        问41普通手电钻主要结构有哪些？176<br/>
+        问42调速带正反转的手电钻主要结构是怎样的？177<br/>
+        问43轻型电钻主要结构是怎样的？177<br/>
+        问44手电钻内部结构是怎样的？177<br/>
+        问45多功能手电钻内部结构是怎样的？179<br/>
+        问46多功能手电钻常见的附件有哪些？179<br/>
+        问47使用手电钻有哪些注意事项？179<br/>
+        问48怎样选择电钻？181<br/>
+        问49电钻可用于起螺钉吗?181<br/>
+        4.3充电电钻181<br/>
+        问50充电电钻的外形结构是怎样的？181<br/>
+        问51充电电钻内部结构是怎样的？181<br/>
+        问52充电电钻减速器、充电器有哪几种类型？182<br/>
+        问53充电电钻开关有哪几种类型？182<br/>
+        问54充电电钻有哪些特点？182<br/>
+        问55锂电池充电电钻有哪些特点？182<br/>
+        问56怎样使用充电电钻？183<br/>
+        问57怎样保养镍镉电池充电电钻？183<br/>
+        问58怎样维修电池充电电钻的故障？184<br/>
+        4.4冲击电钻184<br/>
+        问59冲击电钻在哪些领域中有应用？184<br/>
+        问60冲击电钻外部结构是怎样的？184<br/>
+        问61冲击电钻内部结构是怎样的？184<br/>
+        问62冲击电钻的可调式结构有哪些？185<br/>
+        问63冲击电钻的规格有哪些？185<br/>
+        问64冲击电钻的冲击机构有哪几类？187<br/>
+        问65齿形冲击电钻的工作原理是怎样的？187<br/>
+        问66滚珠式冲击电钻的工作原理是怎样的？187<br/>
+        问67冲击电钻与电锤有什么区别？187<br/>
+        问68冲击电钻的基本参数要求是怎样的？187<br/>
+        问69冲击电钻的最初起动电流要符合的要求是怎样的？188<br/>
+        问70怎样判断冲击电钻冲击结构的优劣？188<br/>
+        问71从哪些方面判断冲击电钻的质量？188<br/>
+        问72怎样选择冲击电钻？188<br/>
+        问73多功能冲击电钻常见的功能有哪些？189<br/>
+        问74怎样使用冲击电钻？189<br/>
+        问75多功能冲击电钻怎样使用钻头？191<br/>
+        问76怎样使用冲击电钻打瓷砖？191<br/>
+        问77使用冲击电钻需要多大的压力？191<br/>
+        问78冲击电钻钻头使用多久需要修磨？192<br/>
+        问79冲击电钻有哪些特点？192<br/>
+        问80使用冲击电钻有哪些注意事项？192<br/>
+        问81冲击电钻内部散热风扇颜色变黑怎么办？194<br/>
+        问82怎样维修冲击电钻接电后电动机不运转？194<br/>
+        问83怎样维修冲击电钻接电后，有不正常的声音，且不旋转或旋转慢？194<br/>
+        问84怎样维修冲击电钻减速箱外壳过度发热现象？194<br/>
+        问85怎样维修冲击电钻机壳表面发热？194<br/>
+        问86怎样维修冲击电钻换向器上产生环火或较大火花？195<br/>
+        4.5使用与维修速查195<br/>
+        问87日立手电钻D6SH一些零配件规格有哪些？195<br/>
+        问88日立手电钻D13VH一些零配件规格有哪些？195<br/>
+        问89日立手电钻D10VG一些零配件规格有哪些？195<br/>
+        问90日立电钻D13一些零配件规格有哪些？196<br/>
+        问91牧田6412电钻结构图是怎样的？196<br/>
+        问92牧田DP4001电钻结构图是怎样的？197<br/>
+        问93牧田DS4010电钻结构图是怎样的？197<br/>
+        问94牧田DS5000电钻结构图是怎样的？199<br/>
+        问95牧田DA3010角向电钻结构图是怎样的？199<br/>
+        第5章电锤与电镐201<br/>
+        5.1电锤201<br/>
+        问1什么是电锤？201<br/>
+        问2电锤有什么作用？201<br/>
+        问3电锤常用的配件与结构有哪些？201<br/>
+        问4电锤的过载保护装置有什么作用，有哪些类型？203<br/>
+        问5电锤安全离合器的形式与作用是怎样的203<br/>
+        问6锤钻常见的附件有哪些？203<br/>
+        问7曲柄连杆气垫式电锤的工作原理是怎样的？203<br/>
+        问8摆杆机构电锤的工作原理是怎样的？204<br/>
+        问9电锤破碎混凝土或岩石的工作特点是怎样的？204<br/>
+        问10电锤有哪些种类？204<br/>
+        问11电锤电源连接与外接软电缆、软线有什么要求？206<br/>
+        问12电锤基本参数的要求，以及电锤钻不合格的分类、分组是怎样的？206<br/>
+        问13套式电锤钻不合格分类及分组是怎样的？207<br/>
+        问14电锤与电镐主要差异是什么？207<br/>
+        问15电锤与电钻主要差异是什么？207<br/>
+        问16电锤与冲击电钻有哪些差异？208<br/>
+        问17好的电锤应具有哪些特点？208<br/>
+        问18怎样选择电锤？209<br/>
+        问19怎样安装电锤钻头？209<br/>
+        问20怎样安装电锤取心钻具？210<br/>
+        问21怎样拆卸电锤取心钻具？211<br/>
+        问22怎样用电锤钻孔？211<br/>
+        问23怎样使用电锤自钻锚栓钻孔与打入作业？211<br/>
+        问24怎样使用电锤的开关？212<br/>
+        问25怎样使用电锤辅助手柄组件？212<br/>
+        问26怎样使用电锤防尘罩？212<br/>
+        问27怎样使用电锤开槽作业？212<br/>
+        问28怎样使用电锤扩孔作业？212<br/>
+        问29怎样使用电锤在瓷砖上打孔？213<br/>
+        问30怎样使用电锤在木材上打孔？213<br/>
+        问31怎样使用双用电锤？213<br/>
+        问32怎样防止电锤过载？213<br/>
+        问33使用电锤有哪些注意事项？213<br/>
+        问34怎样维修电锤电气故障？215<br/>
+        问35怎样维修电锤机械故障？215<br/>
+        问36怎样维修电锤冲击功减小？215<br/>
+        问37怎样维修电锤异常响声？216<br/>
+        问38怎样维修电锤接电源后发生不正常的声音，且旋转很慢或不旋转？216<br/>
+        问39怎样维修电锤电源接通后电动机起动异常或不转动？216<br/>
+        问40怎样维修电锤电动机过热或出现环火？216<br/>
+        问41怎样维修电锤工具只旋转不冲击或冲击不正常？216<br/>
+        问42怎样维修电锤只冲击不旋转？217<br/>
+        问43怎样维修电锤过载保护装置打滑？217<br/>
+        问44怎样维修电锤接电源后电动机不运转？217<br/>
+        问45更换电锤滚针轴承为什么要采用质量好的？217<br/>
+        问46更换电锤零件时为什么要把故障点处理干净？217<br/>
+        问47电锤转子、定子的适配是怎样的？217<br/>
+        问48日立电锤DH30PC2零配件规格有哪些？218<br/>
+        问49日立电锤DH40MR零配件规格有哪些？218<br/>
+        问50牧田BHR200充电式电锤结构图是怎样的？218<br/>
+        5.2电镐220<br/>
+        问51什么是电镐？220<br/>
+        问52什么是枕木电镐？220<br/>
+        问53电镐有哪些种类？220<br/>
+        问54电镐与液压泵镐有差异吗？220<br/>
+        问55电镐里的气缸有什么作用？220<br/>
+        问56电镐调速器怎样适配？221<br/>
+        问57油脂润滑、机油润滑的电镐有什么区别？221<br/>
+        问58怎样添加电镐气缸的油脂？221<br/>
+        问59使用电镐有哪些注意事项？222<br/>
+        问60电镐不能达到额定输入功率怎么办？222<br/>
+        问61电镐接电后电动机不运转的原因有哪些？222<br/>
+        问62电镐接电后发生不正常的叫声，并且不旋转或转得慢的原因有哪些？223<br/>
+        问63电镐减速箱过度发热的原因有哪些？223<br/>
+        问64电镐机壳表面过度发热的原因有哪些？223<br/>
+        问65电镐换向器上产生环火或较大火花的原因有哪些？223<br/>
+        问66电镐电动机旋转而钻头不冲击或冲击力减弱的原因有哪些？223<br/>
+        问67怎样维修电镐反冲？223<br/>
+        问68牧田HM1801电镐结构图是怎样的？223<br/>
+        第6章切割机226<br/>
+        6.1石材切割机226<br/>
+        问1什么是电动石材切割机？226<br/>
+        问2电动石材切割机的结构是怎样的？226<br/>
+        问3石材切割机常用的配件有哪些？226<br/>
+        问4石材切割机常见的型号有哪些？227<br/>
+        问5电动石材切割机的工作原理是怎样的？227<br/>
+        问6电动石材切割机的基本参数有哪些？227<br/>
+        问7电动石材切割机的机型含义是怎样的？227<br/>
+        问8电动石材切割机常见的额定电压、额定频率是多少？227<br/>
+        问9电动石材切割机切割片夹紧板的尺寸要求是怎样的？228<br/>
+        问10一般电动石材切割机开关操作的特点是怎样的？228<br/>
+        问11石材切割机刀片开刃需要注意哪些事项？228<br/>
+        问12使用电动石材切割机需要注意哪些事项？228<br/>
+        问13怎样维修云石切割机常见故障？230<br/>
+        问14金鼎JD3600C云石切割机零配件规格有哪些？231<br/>
+        问15立邦石材切割机96110、93110A零配件规格有哪些？231<br/>
+        问16日立切割机CM4SB2零配件规格有哪些？231<br/>
+        6.2型材切割机231<br/>
+        问17什么是型材切割机？231<br/>
+        问18型材切割机的结构是怎样的？231<br/>
+        问19小型钢材切割机的特点是怎样的？232<br/>
+        问20电动铝合金切割锯的特点是怎样的？233<br/>
+        问21什么是斜切割机？233<br/>
+        问22怎样拆卸型材切割机切割片？233<br/>
+        问23怎样安装型材切割机切割片？234<br/>
+        问24怎样解开型材切割机的锁定？234<br/>
+        问25怎样调整型材切割机的斜角角度？234<br/>
+        问26怎样固定与放松型材切割机所割的工件？234<br/>
+        问27怎样开动与关闭型材切割机？234<br/>
+        问28怎样调整型材切割机的深度尺？235<br/>
+        问29针对有活动防护罩的切割机的安全规章是怎样的？235<br/>
+        问30日立型材切割机CC14SF零配件有哪些？237<br/>
+        问31日立型材切割机CC16SB零配件有哪些？237<br/>
+        问32国强型材切割机J1G-NG-355结构图是怎样的？237<br/>
+        问33牧田型材切割机LC1230结构图是怎样的？239<br/>
+        第7章磨光机、抛光机与砂光机243<br/>
+        7.1角磨机243<br/>
+        问1角磨工艺的特点是怎样的？243<br/>
+        问2磨料有哪些特点？243<br/>
+        问3什么是电动手持角磨机，它的应用是怎样的？243<br/>
+        问4角磨机的工作原理是怎样的？245<br/>
+        问5角磨机有哪些类型？245<br/>
+        问6电动角磨机规格的依据是怎样的？245<br/>
+        问7调速角磨机有什么优点？246<br/>
+        问8怎样选择电动角磨机？246<br/>
+        问9角磨机的内部结构是怎样的？246<br/>
+        问10角磨机一些结构部件的应用是怎样的？248<br/>
+        问11怎样选择角磨机的磨片与切片？251<br/>
+        问12角磨机怎样变成电钻？252<br/>
+        问13怎样实现角磨机的固定操作？252<br/>
+        问14怎样选择角磨机的砂轮？252<br/>
+        问15安装、拆卸砂轮罩有哪些注意点？252<br/>
+        问16怎样安装砂轮？253<br/>
+        问17怎样安装侧手柄与操作开关？253<br/>
+        问18安装角磨有哪些注意事项？253<br/>
+        问19使用角磨机有哪些注意事项？253<br/>
+        问20怎样保养角磨机？255<br/>
+        问21怎样判断角磨机漏电？255<br/>
+        问22怎样解决角磨机强振动导致的手发麻？256<br/>
+        问23角磨机用2min就发热有烧焦味是什么原因?256<br/>
+        问24角磨机插上电源没有反应是什么原因？256<br/>
+        问25立邦角磨机LGC106零配件规格有哪些？256<br/>
+        问26日立角磨机PDA100K零配件规格有哪些？256<br/>
+        问27金鼎角磨机JD3029C结构图是怎样的？257<br/>
+        7.2电磨与磨光机258<br/>
+        问28磨光机常见的零部件、配件有哪些？258<br/>
+        问29电动砂带磨光机的作用是怎样的？258<br/>
+        问30电动砂带磨光机主要结构部件有哪些？258<br/>
+        问31电动砂带磨光机规格的划分是根据什么？258<br/>
+        问32怎样选择电动砂带磨光机的砂带？259<br/>
+        问33怎样选择电动砂带磨光机的速度？259<br/>
+        问34使用电动砂带磨光机有哪些注意事项？259<br/>
+        问35怎样维修电动砂带磨光机接电后电动机不转故障？259<br/>
+        问36怎样维修电动砂带磨光机换向器火花大或有环火？259<br/>
+        问37怎样维修电动砂带磨光机电动机转动砂带不动？260<br/>
+        问38什么是湿式磨光机？260<br/>
+        问39电动湿式磨光机的基本参数有哪些？260<br/>
+        问40电动湿式磨光机的砂轮规格与型式有什么要求？260<br/>
+        问41混凝土磨光机有什么特点？261<br/>
+        问42鹏牌磨光机零配件规格有哪些？261<br/>
+        问43什么是电磨，它的特点是怎样的？261<br/>
+        问44电磨的实物结构是怎样的？262<br/>
+        问45电磨相关配件主要功能是怎样的？262<br/>
+        问46怎样选择电磨？262<br/>
+        问47怎样安装或拆卸电磨头？264<br/>
+        问48使用电磨有哪些注意事项？264<br/>
+        问49砂磨机有什么特点？265<br/>
+        问50什么是模具电磨？266<br/>
+        问51模具电磨参数的要求是怎样的？266<br/>
+        问52直磨机的应用特点与种类是怎样的？266<br/>
+        问53砂带机的应用特点是怎样的？266<br/>
+        问54金刚石磨盘的种类与用途是怎样的？266<br/>
+        问55选择与使用金刚石磨盘有哪些注意点？266<br/>
+        问56电磨与吊磨的比较有什么差异？266<br/>
+        问57牧科GD0601电磨结构图是怎样的？267<br/>
+        问58牧田903电磨结构图是怎样的？268<br/>
+        问59金鼎电磨JD3322C结构图是怎样的？268<br/>
+        7.3砂光机271<br/>
+        问60什么是砂光机，它的外形与内部结构是怎样的？271<br/>
+        问61一些砂光机的概念是怎样的？272<br/>
+        问62平板砂光机的基本参数是怎样的？273<br/>
+        问63电动角向砂光机的分级是怎样的？273<br/>
+        问64使用砂光机有哪些注意事项？273<br/>
+        问65金鼎JD2665C 1-2砂光机结构图是怎样的？274<br/>
+        问66牧田盘式砂光机GV6000结构图是怎样的？274<br/>
+        问67牧田带式砂光机9032结构图是怎样的？274<br/>
+        问68牧田平板式砂光机BO3700结构图是怎样的？278<br/>
+        7.4抛光机280<br/>
+        问69什么是抛光机，它的特点是怎样的？280<br/>
+        问70抛光机有哪些种类？281<br/>
+        问71抛光机的工作原理是怎样的？282<br/>
+        问72操作抛光机时需要注意哪几点？282<br/>
+        问73操作抛光机时为什么要粗抛与精抛？283<br/>
+        问74羊毛轮的性能与优点是怎样的？283<br/>
+        问75使用抛光机有哪些注意事项？283<br/>
+        问76牧田盘式抛光机PV7000C结构图是怎样的？283<br/>
+        第8章电动砂轮机286<br/>
+        问1什么是砂轮机？286<br/>
+        问2砂轮机的种类有哪些？286<br/>
+        问3一些砂轮机的特点是怎样的？287<br/>
+        问4单相串励砂轮机、三相中频直向砂轮机的基本参数有什么要求？287<br/>
+        问5三相工频直向砂轮机的基本参数有什么要求？288<br/>
+        问6一般直向砂轮机电源线长度要求多长？288<br/>
+        问7台式砂轮机主要结构有哪些？288<br/>
+        问8什么是台式砂轮机的正常负载？289<br/>
+        问9砂轮机砂轮防护罩安全防护有哪些要求？289<br/>
+        问10砂轮机工件托架安全有哪些要求？290<br/>
+        问11砂轮机卡盘安全有哪些要求？290<br/>
+        问12砂轮机的主要危险有哪些？292<br/>
+        问13砂轮机导致伤害的主要原因有哪些？293<br/>
+        问14使用砂轮片有哪些安全注意事项？293<br/>
+        问15怎样正确使用砂轮机？294<br/>
+        问16怎样维修砂轮机？295<br/>
+        第9章电锯296<br/>
+        9.1概述296<br/>
+        问1一些电锯的特点是怎样的？296<br/>
+        问2刀锯的基本参数有哪些要求？296<br/>
+        问3使用手提电锯需要注意的事项有哪些？297<br/>
+        9.2电动曲线锯297<br/>
+        问4什么是电动曲线锯？297<br/>
+        问5电动曲线锯应用的特点是怎样的？299<br/>
+        问6曲线锯的基本参数有什么要求？300<br/>
+        问7手持式单相串励曲线锯的基本结构是怎样的？300<br/>
+        问8电动曲线锯的工作原理是怎样的？302<br/>
+        问9怎样选择电动曲线锯？302<br/>
+        问10曲线锯的锯条分为哪几类，它们的应用是怎样的？302<br/>
+        问11怎样操作曲线锯锯直线？303<br/>
+        问12怎样操作电动曲线锯？303<br/>
+        问13使用电动曲线锯有哪些注意事项？303<br/>
+        问14日立曲线锯CJ110M一些零配件规格有哪些？304<br/>
+        问15日立曲线锯CJ110MV一些零配件规格有哪些？304<br/>
+        问16金鼎JD2839C 65曲线锯结构图是怎样的？304<br/>
+        9.3圆锯306<br/>
+        问17什么是电圆锯，它的特点是怎样的？306<br/>
+        问18什么是台式电圆锯？307<br/>
+        问19手提式电圆锯的特点是怎样的？308<br/>
+        问20圆锯机上采取的主要安全措施有哪些？308<br/>
+        问21怎样选择电圆锯？308<br/>
+        问22电圆锯的基本参数有什么要求？309<br/>
+        问23电圆锯有哪些标识？309<br/>
+        问24电圆锯出现意外常见的原因有哪些？309<br/>
+        问25怎样使用电圆锯上的防护罩？309<br/>
+        问26不同锯片有什么特点？310<br/>
+        问27木工用圆锯片的种类与用途是怎样的？310<br/>
+        问28人造板锯片的种类与用途是怎样的？310<br/>
+        问29对电圆锯的切割能力有影响的因素有哪些？310<br/>
+        问30电圆锯对圆锯片有什么要求？311<br/>
+        问31使用电圆锯有哪些注意事项？311<br/>
+        问32怎样根据声音判断电圆锯的故障？313<br/>
+        问33怎样拆卸或安装电圆锯的锯片？313<br/>
+        问34怎样维修电圆锯机壳带电？314<br/>
+        问35怎样维修电圆锯接通电源时电动机不转？314<br/>
+        问36怎样维修接通电源后电圆锯不运转？314<br/>
+        问37怎样维修电圆锯整机发烫？314<br/>
+        问38怎样维修电圆锯电动机时转时不转？314<br/>
+        问39怎样维修开机后电圆锯的圆锯片“摇头摆尾”？315<br/>
+        问40怎样维修电圆锯切割完成后，活动护罩不能复位？315<br/>
+        问41怎样维修开机后圆锯片发出强烈噪声？315<br/>
+        问42日立圆锯C10FCH一些零配件规格有哪些？315<br/>
+        问43日立圆锯C18DMR一些零配件规格有哪些？316<br/>
+        问44日立圆锯C6DD一些零配件规格有哪些？316<br/>
+        问45日立圆锯C7U一些零配件规格有哪些？317<br/>
+        问46日立圆锯C9U一些零配件规格有哪些？317<br/>
+        问47牧田圆锯5900BR结构图是怎样的？317<br/>
+        9.4电链锯320<br/>
+        问48什么是电链锯？320<br/>
+        问49怎样维修一台电链锯不能起动？320<br/>
+        问50怎样维修一台电链锯空载时运转正常，加负荷电链锯就停止转动？320<br/>
+        问51牧田UC3030A电链锯结构图是怎样的？320<br/>
+        9.5往复锯322<br/>
+        问52什么是往复锯？322<br/>
+        问53往复锯有哪些种类？323<br/>
+        问54电动往复锯的结构是怎样的？323<br/>
+        问55往复锯的工作原理是怎样的？324<br/>
+        问56往复锯的锯条夹紧机构有什么特点？325<br/>
+        问57往复锯的冲程长度对机器切割有什么影响？325<br/>
+        问58往复锯对锯条有什么要求？325<br/>
+        问59一些往复锯有哪些特点？326<br/>
+        问60日立往复锯CR18DV一些零配件规格有哪些？326<br/>
+        问61日立往复锯CR24DV一些零配件规格有哪些？326<br/>
+        问62牧田往复锯JR3070CT结构图是怎样的？326<br/>
+        第10章电刨329<br/>
+        问1什么是电刨，它的特点是怎样的？329<br/>
+        问2一些与电刨相关的木工用具的概念是怎样的？330<br/>
+        问3手持木工电刨的结构是怎样的？330<br/>
+        问4电刨零部件的特点是怎样的？331<br/>
+        问5电刨的工作原理是怎样的？332<br/>
+        问6什么是刨削参数？333<br/>
+        问7使用木工电刨有哪些注意事项？333<br/>
+        问8怎样调试电刨的刀片？334<br/>
+        问9怎样维修一款电刨使用2年后有噪音，并且刨木料带波浪？334<br/>
+        问10怎样维修木工电刨开关接通，但是电动机不运转？335<br/>
+        问11怎样维修木工电刨换向火花大？335<br/>
+        问12怎样维修木工电刨电动机温升过高？335<br/>
+        问13怎样维修木工电刨电动机轴承过度发热？335<br/>
+        问14怎样维修木工电刨刨刀运转速度下降？335<br/>
+        问15怎样维修木工电刨刨削质量下降？335<br/>
+        问16怎样维修木工电刨多楔带打滑？336<br/>
+        问17怎样维修木工电刨振动大？336<br/>
+        问18怎样维修木工电刨外壳带电？336<br/>
+        问19怎样维修木工电刨深度调节装置失灵？336<br/>
+        问20怎样维修木工电刨定子、转子摩擦？336<br/>
+        问21怎样维修木工电刨轴承跑内外圈？336<br/>
+        问22立邦木工电刨GR20282等轴承规格有哪些？336<br/>
+        问23牧田1911B电刨结构图是怎样的？337<br/>
+        第11章空气压缩机与气泵338<br/>
+        11.1空气压缩机338<br/>
+        问1什么是空气压缩机？338<br/>
+        问2空气压缩机不同应用时的压力是多少？338<br/>
+        问3空气压缩机的种类有哪些？338<br/>
+        问4无油空气压缩机与有油空气压缩机的比较？339<br/>
+        问5空气压缩机有关名词术语是怎样的？339<br/>
+        问6空气压缩机的结构是怎样的？340<br/>
+        问7空气压缩机一些零部件的特点是怎样的？341<br/>
+        问8小型空气压缩机的工作原理是怎样？342<br/>
+        问9螺杆式单级压缩空气压缩机的工作原理是怎样？343<br/>
+        问10活塞空气压缩机的工作原理是怎样？343<br/>
+        问11怎样使用空气压缩机？343<br/>
+        问12怎样维修空气压缩机电动机轴承温度过热？344<br/>
+        问13怎样维修空气压缩机电动机温度过热？344<br/>
+        问14怎样维修空气压缩机电动机部分异常振动？344<br/>
+        问15怎样维修空气压缩机气缸组件声音异常？344<br/>
+        问16怎样维修空气压缩机大噪声？345<br/>
+        问17怎样维修空气压缩机活塞环故障？345<br/>
+        问18怎样维修空气压缩机曲轴箱内曲轴两端盖温度过高？345<br/>
+        问19怎样维修空气压缩机机身部分异常振动？345<br/>
+        问20怎样维修空气压缩机储气缸漏气？345<br/>
+        问21怎样维修空气压缩机漏气？346<br/>
+        问22怎样维修空气压缩机电动机过热？346<br/>
+        问23怎样维修空气压缩机气缸温度过高？346<br/>
+        问24怎样维修空气压缩机流量低？346<br/>
+        问25怎样维修空气压缩机压力低？347<br/>
+        问26怎样维修空气压缩机不起动或起动后立即停止？347<br/>
+        问27怎样维修空气压缩机压力调节器不能够调节所需要的压力？347<br/>
+        问28怎样维修空气压缩机不能压缩？347<br/>
+        问29怎样维修空气压缩机安全阀故障？347<br/>
+        问30怎样维修空气压缩机其他一些故障？348<br/>
+        问31AP系列微型无油空气压缩机安装结构图是怎样的？348<br/>
+        问32空气压缩机ZW280结构图是怎样的？349<br/>
+        11.2气泵349<br/>
+        问33什么是气泵？什么是电动气泵？349<br/>
+        问34气泵的工作原理是怎样的？349<br/>
+        问35空气压缩机与气泵的比较是怎样的？350<br/>
+        问36使用气泵有哪些注意事项？350<br/>
+        问37气泵自然磨损引起的故障表现有哪些？350<br/>
+        问38怎样维修气泵常见故障？350<br/>
+        问39DAA、DOA气泵结构图是怎样的？351<br/>
+        第12章电动钉枪、电动拉铆枪与电喷枪353<br/>
+        12.1概述353<br/>
+        问1常见钉子的特点是怎样的？353<br/>
+        问2钉枪的种类有哪些？355<br/>
+        问3码钉枪主要应用于哪些领域？355<br/>
+        问4码钉枪有哪些种类？355<br/>
+        问5气动码钉枪的结构是怎样的？355<br/>
+        问6怎样使用气动码钉枪？356<br/>
+        问7怎样排除气动码钉枪常见故障？356<br/>
+        问8电动码钉枪的结构与外形是怎样的？357<br/>
+        问9钢钉枪主要应用于哪些领域，它的种类有哪些？358<br/>
+        问10电动钢钉枪的结构是怎样的？358<br/>
+        问11直钉枪主要应用于哪些领域，它的种类有哪些？358<br/>
+        问12电动钉枪参考电路是怎样的？358<br/>
+        12.2电动射钉枪359<br/>
+        问13什么是射钉枪？359<br/>
+        问14射钉枪的种类有哪些？359<br/>
+        问15气动射钉枪与电动射钉枪的比较是怎样的？360<br/>
+        问16电动射钉枪的结构是怎样的？361<br/>
+        问17电动射钉枪工作需要完成哪两项基本工作？361<br/>
+        问18电动射钉枪的工作原理是怎样的？361<br/>
+        问19电动射钉枪电路的工作原理是怎样的？362<br/>
+        问20电动射钉枪老冒钉的原因是什么？362<br/>
+        问21使用电动射钉枪有哪些注意事项？363<br/>
+        12.3电动拉铆枪363<br/>
+        问22什么是铆钉？什么是铆接？363<br/>
+        问23铆钉有哪些种类？364<br/>
+        问24什么是电动拉铆枪？364<br/>
+        问25电动拉铆枪的工作原理是<br/>
+        怎样的？364<br/>
+        问26使用电动拉铆枪有哪些注意事项？365<br/>
+        12.4电喷枪365<br/>
+        问27什么是喷枪？什么是喷漆枪？365<br/>
+        问28喷枪有哪些种类？365<br/>
+        问29电喷枪的工作原理是怎样的？366<br/>
+        问30使用电喷枪有哪些注意事项？367<br/>
+        问31怎样维修电喷枪接电后不动作？367<br/>
+        问32怎样维修电喷枪有嗡嗡声有时又发热？367<br/>
+        问33怎样维修电喷枪喷雾异常？367<br/>
+        第13章水电开槽机368<br/>
+        问1什么是开槽机，它的应用特点是怎样的？368<br/>
+        问2开槽机的种类有哪些？368<br/>
+        问3什么是墙壁开槽机？368<br/>
+        问4墙壁开槽机的结构特点是怎样的？369<br/>
+        问5水电开槽机刀头的规格是怎样的？369<br/>
+        问6怎样调节水电开槽机开槽的宽度？370<br/>
+        问7使用水电开槽机有哪些注意事项？370<br/>
+        问8怎样维修水电开槽机整机振动大？371<br/>
+        问9怎样维修水电开槽机电动机过热？371<br/>
+        问10怎样维修水电开槽机电动机无力？371<br/>
+        问11怎样维修水电开槽机电动机不转（无声）？371<br/>
+        问12怎样维修水电开槽机电动机不转（有声）？371<br/>
+        问13WKS8000系列威克森墙壁开槽机结构是怎样的？371<br/>
+        第14章振动器373<br/>
+        问1机械密实混凝土的方法有哪些？373<br/>
+        问2混凝土振动密实机械有哪几种？373<br/>
+        问3什么是混凝土振动器？373<br/>
+        问4混凝土振动器的电动机与振动机构的结构有哪几种类型？373<br/>
+        问5混凝土振动器有哪些种类？374<br/>
+        问6混凝土内部振动器有哪些种类？374<br/>
+        问7内部振动器的特点是怎样的？374<br/>
+        问8振动子的类型有哪几种？375<br/>
+        问9一些振动器的构造是怎样的？375<br/>
+        问10什么是附着式混凝土振动器？376<br/>
+        问11外部振动器的特点是怎样的？376<br/>
+        问12使用电动插入式振动器有哪些注意事项？376<br/>
+        问13使用电动附着式、电动平板式振动器有哪些注意事项？377<br/>
+        问14怎样维修插入式振动器棒头不起振或振动无力？377<br/>
+        问15怎样维修插入式振动器<br/>
+        电动机的电气故障？377<br/>
+        第15章电剪刀379<br/>
+        问1什么是电剪刀？379<br/>
+        问2一些与电剪刀相关的工具的特点是怎样的？379<br/>
+        问3电剪刀基本参数有什么要求？379<br/>
+        问4电剪刀的结构是怎样的？380<br/>
+        问5电剪刀的基本工作原理是怎样的？380<br/>
+        问6电动羊毛剪的结构与外形是怎样的？380<br/>
+        问7使用电剪刀有哪些注意事项？380<br/>
+        问8怎样维修电动羊毛剪的故障？382<br/>
+        问9日立电剪刀CE16SA零配件有哪些？382<br/>
+        问10日立电剪刀CN16SA的结构是怎样的？383<br/>
+        第16章电动螺丝刀384<br/>
+        问1什么是螺丝刀？384<br/>
+        问2螺丝刀的规格与种类是怎样的？384<br/>
+        问3什么是电动螺丝刀？384<br/>
+        问4一些与电动螺丝刀相关的工具的特点是怎样的？385<br/>
+        问5电动螺丝刀与气动螺丝刀比较有什么优缺点？386<br/>
+        问6电动螺丝刀与电动冲击扳手有什么区别？386<br/>
+        问7一般电动螺丝刀的基本参数要求是怎样的？386<br/>
+        问8电动螺丝刀的分类是怎样的？386<br/>
+        问9电动螺丝刀的基本结构是怎样的？387<br/>
+        问10电动螺丝刀引导棒的种类与特点是怎样的？387<br/>
+        问11电动螺丝刀游星齿的种类有哪些？387<br/>
+        问12全自动手按压板式电动螺丝刀的工作原理是怎样的？388<br/>
+        问13半自动手按压板式电动螺丝刀的工作原理是怎样的？388<br/>
+        问14怎样用电动螺丝刀拧一些较长的木螺钉？388<br/>
+        问15怎样使用电动螺丝刀？388<br/>
+        问16电动螺丝刀上刻度起什么作用？388<br/>
+        问17电动螺丝刀电源线内股线的颜色是怎样的？389<br/>
+        问18怎样选用气吸式电动螺丝刀？389<br/>
+        问19怎样选购电动螺丝刀？389<br/>
+        问20使用电动螺丝刀有哪些注意事项？390<br/>
+        问21电动螺丝刀常见的耗用零件有哪些？391<br/>
+        问22怎样更换电动螺丝刀的电刷？392<br/>
+        问23怎样检查电动螺丝刀的PCB的好坏？392<br/>
+        问24怎样检查PCB是否有电压输出？392<br/>
+        问25怎样判断与维修磁筒？392<br/>
+        问26怎样检测判断电动机电枢的好坏？392<br/>
+        问27怎样判断新型、旧型扭力推盘？393<br/>
+        问28怎样判断电动螺丝刀其他电子组件的好坏？393<br/>
+        问29组装电动机需要注意哪些事项？394<br/>
+        问30维修电动螺丝刀所需哪些工具？394<br/>
+        问31电动螺丝刀维修的流程是怎样的？394<br/>
+        问32怎样初步判断电动螺丝刀电路是否有故障？395<br/>
+        问33怎样判断电动螺丝刀电动机组成部件的好坏？395<br/>
+        问34影响电动螺丝刀制动有哪些要素？395<br/>
+        问35电动螺丝刀有杂音主要原因有哪些？395<br/>
+        问36怎样维修电动螺丝刀离合器常见的故障？396<br/>
+        问37怎样判断EMC BOX整组局部与整块故障？396<br/>
+        问38怎样检查游星齿、齿盘、上离合器筒内是否有崩牙？396<br/>
+        问39怎样更换游星齿、齿盘、上离合器？396<br/>
+        问40怎样排除电动螺丝刀的一些故障？396<br/>
+        问41奇力速电动螺丝刀所应用的零配件与参数是怎样的？398<br/>
+        问42奇力速电动螺丝刀使用电压与接线方式是怎样的？401<br/>
+        问43奇力速电动螺丝刀三合一开关架(推杆)的应用是怎样的？403<br/>
+        问44奇力速电动螺丝刀电动机磁筒规格的应用是怎样的？403<br/>
+        问45奇力速电动螺丝刀引导棒长度、规格的应用是怎样的？404<br/>
+        问46奇力速电动螺丝刀离合器/钢珠/弹簧的应用是怎样的？405<br/>
+        问47奇力速电动螺丝刀中心齿的应用是怎样的？406<br/>
+        问48奇力速电动螺丝刀齿盘的特点是怎样的？406<br/>
+        问49奇力速电动螺丝刀上离合器筒的特点是怎样的？407<br/>
+        问50奇力速电动螺丝刀离合器怎样搭配游星齿、齿盘等部件？407<br/>
+        问51奇力速电动螺丝刀上离合器头的应用是怎样的？408<br/>
+        问52奇力速电动螺丝刀下离合器筒（或铜套）的应用是怎样的？408<br/>
+        问53奇力速电动螺丝刀扭力推盘的应用是怎样的？409<br/>
+        问54奇力速电动螺丝刀跳脱钢珠等部件的应用是怎样的？409<br/>
+        问55什么是充电螺丝刀？410<br/>
+        问56充电螺丝刀主要零件部件有哪些？410<br/>
+        问57充电螺丝刀的内部结构是怎样的？411<br/>
+        问58充电螺丝刀应用附件有什么作用？411<br/>
+        问59使用充电螺丝刀有哪些注意事项？414<br/>
+        问60 P1L-BSD-1000电动螺丝刀的结构是怎样的？414<br/>
+        问61牧田BTS130RFE充电式冲击螺丝刀的结构是怎样的？415<br/>
+        问62牧田TD020DS充电式冲击螺丝刀的结构是怎样的？416<br/>
+        问63HIMAX CLT-50/ CLT-50S电动螺丝刀电源原理框图是怎样的？417<br/>
+        第17章电动扳手418<br/>
+        问1什么是扳手，它的种类有哪些？418<br/>
+        问2什么是电动扳手，它的特点是怎样的？419<br/>
+        问3电动扳手的种类有哪些，它们的特点是怎样的？419<br/>
+        问4不同电动扳手的应用特点是怎样的？420<br/>
+        问5高强螺栓有哪些？420<br/>
+        问6电动扳手的结构是怎样的？420<br/>
+        问7电动扳手的工作原理是怎样的？421<br/>
+        问8使用电动扳手有哪些注意事项？421<br/>
+        问9怎样维修电动扳手的故障？422<br/>
+        问10牧田电动扳手TW1000结构是怎样的？422<br/>
+        第18章其他电动工具425<br/>
+        问1其他电动工具的特点是怎样的？	425<br/>
+        问2一些电动工具外形结构是怎样的？426<br/>
+        问3日立台钻B13S的一些零配件规格是怎样的？427<br/>
+        问4牧田3901木工结合机结构是怎样的？427<br/>
+        问5牧田3612C电木铣（雕刻机）结构是怎样的？427<br/>
+        问6牧田3703木工修边机结构是怎样的？427<br/>
+        问7金鼎JD2543C交流摆动铲是怎样的？427<br/>
+        问8金鼎JD2517C圆砂的结构是怎样的？431<br/>
+        问9牧田UB1100吹风机的结构是怎样的？431<br/>
+        问10牧科MT400吹风机结构是怎样的？431<br/>
+        问11牧田BCL140充电式吸尘器结构是怎样的？434<br/>
+        问12牧田UT2204电动搅拌机结构是怎样的？434<br/>
+        问13牧田6924N扭剪扳手结构是怎样的？434<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_24875440_full').hide();$('#dir_24875440_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <div id="reviews" class="ugc-mod">
+      
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这本书</span></a>
+
+  </div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+  </div>
+  
+
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{line-height:24px;vertical-align:bottom}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad .ebook-tag{margin-left:8px;padding:0 6px;line-height:20px;font-size:11px;border:1px solid #e6e6e2;background:#f1f1ed;display:inline-block;*display:inline;*zoom:1;vertical-align:top}
+</style>
+
+
+<div class="gray_ad" id="buyinfo">
+
+    <div id="buyinfo-printed">
+      <h2 class="">
+        在哪儿买这本书?
+      </h2>
+      <ul class="bs noline more-after ">
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=joyo&amp;price=5240&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=1&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.amazon.cn%2Fmn%2FdetailApp%2Fref%3Dasc_df_B00E7IJ4M6775503%2F%3Fasin%3DB00E7IJ4M6%26tag%3Ddouban-23%26creative%3D2384%26creativeASIN%3DB00E7IJ4M6%26linkCode%3Dasn&amp;link2key=c6e0097e7f" class="">
+              <span class="">亚马逊</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 52.40</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=jingdong&amp;price=5580&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=2&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Fclick.union.jd.com%2FJdClick%2F%3FunionId%3D15055%26t%3D4%26to%3Dhttp%3A%2F%2Fwww.jd.com%2Fproduct%2F11289390.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">京东商城</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 55.80</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=beifa&amp;price=5030&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=3&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Fbook.beifabook.com%2FProduct%2FBookDetail.aspx%3FPlucode%3D711142299%26extra%3D0_s24875440&amp;link2key=c6e0097e7f" class="">
+              <span class="">北发图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 50.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=dangdang&amp;price=4980&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=4&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s24875440%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23304056&amp;link2key=c6e0097e7f" class="">
+              <span class="">当当网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 49.80</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=bookschina&amp;price=5510&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=5&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6293216.htm&amp;link2key=c6e0097e7f" class="">
+              <span class="">中国图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 55.10</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875440&amp;vendor=chinapub&amp;price=5235&amp;lowest=4980&amp;pre=0&amp;cntvendor=7&amp;pos=6&amp;srcsubj=24875440&amp;srcpage=subject&amp;url=http%3A%2F%2Fu.china-pub.com%2Fcps%2FWelcome.asp%3Fljid%3D175%26cps%3D%26VType%3D1%26URL%3Dhttp%3A%2F%2Fproduct.china-pub.com%2F4008871&amp;link2key=c6e0097e7f" class="">
+              <span class="">China-pub</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 52.35</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+
+        <li>
+            <a href="http://book.douban.com/subject/24875440/buylinks">查看7家网店价格
+                ( RMB 49.80 起 )
+            </a>
+        </li>
+      </ul>
+    </div>
+    
+  <div class="add2cartContainer ft
+    ">
+    
+  <span class="add2cartWidget rr">
+      <a class="j colbutt add2cart a_show_login" href="http://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>加入购书单</span></a>
+  </span>
+  
+
+    <span class="pl add2cartTip">多本比价，批量购买</span>
+  </div>
+
+</div>
+
+<style class="text/css">
+  .presale-indicator{display:inline-block;*display:inline;*zoom:1;width:24px;height:15px;line-height:15px;background:url(http://img3.douban.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;text-indent:-9999px;vertical-align:middle;*vertical-align:0;_vertical-align:2px;margin-left:.5em}
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="http://book.douban.com/subject/24875440/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="http://book.douban.com/doulist/1912888/">电类基础</a>
+                <span class="pl">(机械工业出版社电工电子分社)</span>
+            </li>
+      </ul>
+    </div>
+
+
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+
+
+
+  </div>
+
+
+
+
+
+    
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于电动工具使用与维修960问的评论: <br/><span class="feed">
+    <a href="http://book.douban.com/feed/subject/24875440/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2013 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://book.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="http://www.douban.com/mobile/read">手机读书</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/d948688e7abe87f.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = 'http://erebor.douban.com/',
+            userId = '',
+            browserId = 'YPFCwQ3tMM8',
+            ipAddress = '218.108.223.92',
+            criteria = '3:/subject/24875440/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, ip: ipAddress, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dis9-->
+
+
+<script>var _check_hijack = function () {
+    var _sig = "YPFCwQ3t", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

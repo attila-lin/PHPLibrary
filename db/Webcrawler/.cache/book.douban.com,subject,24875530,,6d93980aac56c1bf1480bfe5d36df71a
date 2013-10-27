@@ -1,0 +1,1682 @@
+status: 200
+content-length: 48479
+content-location: http://book.douban.com/subject/24875530/
+set-cookie: viewed="24875530_25731751_20374758_1468997"; path=/;
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:22:57 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Fri, 25 Oct 2013 07:22:57 GMT
+x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
+ sns.search_suggest
+content-type: text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff24 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>多元城镇化与中国发展 (豆瓣)</title>
+  
+
+
+  
+<script>!function(f){var h=function(o,n,m){var k=new Date(),j,l;n=n||30;m=m||"/";k.setTime(k.getTime()+(n*24*60*60*1000));j="; expires="+k.toGMTString();for(l in o){f.cookie=l+"="+o[l]+j+"; path="+m}},d=function(m){var l=m+"=",o,n,j,k=f.cookie.split(";");for(n=0,j=k.length;n<j;n++){o=k[n].replace(/^\s+|\s+$/g,"");if(o.indexOf(l)==0){return o.substring(l.length,o.length).replace(/\"/g,"")}}return null},e=f.write,b={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},a=function(l,k){var j=new Image();j.onload=function(){};j.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(l)+"&environment="+encodeURIComponent(k)},i=function(k){try{e.call(f,k)}catch(j){e(k)}},c=/<script.*?src\=["']?([^"'\s>]+)/ig,g=/http:\/\/(.+?)\.([^\/]+).+/i;f.writeln=f.write=function(k){var j=c.exec(k),l;if(!j){i(k);return}l=g.exec(j[1]);if(!l){i(k);return}if(b[l[2]]){i(k);return}if(d("hj")==="tqs"){return}a(j[1],location.href);h({hj:"tqs"},1);setTimeout(function(){location.replace(location.href)},50)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/book/subject/24875530/">
+<meta name="keywords" content="多元城镇化与中国发展,李强,社会科学文献出版社,2013-7,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书多元城镇化与中国发展 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
+  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
+  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
+  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+    <link rel="alternate" href="http://book.douban.com/feed/subject/24875530/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+
+  <script>  </script>
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/348428d787d1fc9f.css">
+
+  <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+  
+  
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login?source=book" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register?source=book">注册</a>
+</div>
+
+
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://book.douban.com/">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    
+                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-logo">
+        <a href="http://book.douban.com">豆瓣读书</a>
+      </div>
+      <div class="nav-search">
+        <form action="http://book.douban.com/subject_search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">书名、作者、ISBN</label>
+            <div class="inp">
+              <input id="inp-query" name="search_text" size="22" maxlength="60"
+                value="">
+            </div>
+            <div class="inp-btn">
+              <input type="submit" value="搜索">
+            </div>
+            <input type="hidden" name="cat" value="1001">
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="nav-secondary">
+    <ul class="nav-items">
+      <li
+        class="nav-item-first"
+      ><a href="http://book.douban.com/tag/">分类浏览</a></li>
+      
+      <li class="book-cart"><a href="http://book.douban.com/cart">购书单</a></li>
+      <li>
+        <a href="http://read.douban.com/ebooks/?dcs=book-nav&amp;dcm=douban" target="_blank">电子图书</a>
+        <sup class="icon-new"></sup>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <script type="text/template" id="suggest-item">
+    <li class="item"><a href="#">{{= item}}</a></li>
+  </script>
+  
+  
+
+
+
+    <div id="wrapper">
+        
+<h1>
+    <span property="v:itemreviewed">多元城镇化与中国发展</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg" 
+      href="http://img3.douban.com/lpic/s26863844.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24875530, ), title: 多元城镇化与中国发展, uid: 7509746914, cat_id: 1001&gt;&gt;">
+    <img src="http://img3.douban.com/mpic/s26863844.jpg" title="点击看大图" alt="多元城镇化与中国发展" rel="v:photo">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>: 
+        
+        <a class="" href="/search/%E6%9D%8E%E5%BC%BA">李强</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 社会科学文献出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 战略及推进模式研究<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-7<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 808<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 89.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787509746912<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap" rel="v:rating">
+    <p class="rating_self clearfix" typeof="v:Rating">
+      <span class="ll bigstar00"></span>
+
+
+      <strong class="ll rating_num " property="v:average">
+      
+      </strong>
+
+      <span property="v:best" content="10.0"></span>
+    </p>
+    <p class="rating_self font_normal clearbox">
+    (
+    <span class="">
+      <span class="color_gray">目前无人评价</span>
+    </span>
+    )
+  </p>
+    
+    
+<span class="stars5 starstop" title="力荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars4 starstop" title="推荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars3 starstop" title="还行"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars2 starstop" title="较差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars1 starstop" title="很差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+</div>
+</div>
+
+
+  </div>
+  
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="http://www.douban.com/register?reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875530-wish">
+          <span>想读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectdo&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875530-do">
+          <span>在读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875530-collect">
+          <span>读过</span>
+        </a>
+      <div class="ll j a_stars">
+        
+
+<span class="j a_stars">
+  <span class="rate_stars">
+    评价: 
+    <span id="rating">
+      <span id="stars"><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875530-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875530-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875530-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875530-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875530-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5" /></a>      </span>
+      <span id="rateword" class="pl"></span>
+      <input id="n_rating" type="hidden" value=""
+          />
+    </span>
+  </span>
+</span>
+
+
+
+
+
+
+      </div>
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+      <li>
+        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+      </li>
+
+        <li>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+        </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="http://img3.douban.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="http://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-24875530">
+        <a href= "#" data-url="http://book.douban.com/subject/24875530/" data-desc="" data-title="书籍《多元城镇化与中国发展》 (来自豆瓣) " data-pic="http://img3.douban.com/lpic/s26863844.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var cache_url = cache_url || {};
+    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_24875530"></div>
+<div class="related_info">
+  
+  
+  
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent" id="link-report">
+  
+    <div class="">
+      <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>清华大学李强教授主持的国家社会科学基金重大项目——推进我国多元城镇化战略模式研究的主要成果。从题目来看，本书包括两重含义，第一重是研究我国多元的城镇化战略，第二重是探索我国城镇化的“推进模式”。本书认为，中国城镇化的第一目标或核心任务是如何实现农民、农民工的城镇化。本书提出解决的出路是大力推进以县城为中心的中等城市的建设，大力发展县域经济，实现县域范围内的农民、农民工城市融入，应成为当前城镇化和农村人口转移的重要方式。</p></div>
+
+    </div>
+  
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "http://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("http://book.douban.com/book/subject/24875530/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>李强，清华大学社会科学院院长、教授、博士生导师。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_24875530_short">
+        第一篇　多元城镇化多元城镇化模式的理论研究<br/>
+        第一章　新中国成立以来城镇化发展历程、现状和问题<br/>
+        3<br/>
+        一　引言：走有中国特色的城镇化之路<br/>
+        3<br/>
+        二　中国城镇化发展的历史轨迹<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_24875530_short').hide();$('#dir_24875530_full').show();$.get('/j/subject/j_dir_count',{id:24875530});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_24875530_full" style="display:none">
+        第一篇　多元城镇化多元城镇化模式的理论研究<br/>
+        第一章　新中国成立以来城镇化发展历程、现状和问题<br/>
+        3<br/>
+        一　引言：走有中国特色的城镇化之路<br/>
+        3<br/>
+        二　中国城镇化发展的历史轨迹<br/>
+        4<br/>
+        三　中国城镇化发展的现状<br/>
+        11<br/>
+        四　中国城镇化发展的基本问题<br/>
+        13<br/>
+        第二章　多元城镇化多元城镇化模式的理论探讨<br/>
+        17<br/>
+        一　中国城镇化基础和条件的特殊性<br/>
+        17<br/>
+        二　一元或多元：对中国城镇化模式的思考<br/>
+        18<br/>
+        三　多元城镇化多元城镇化的模式<br/>
+        19<br/>
+        四　三规合一：根据多元城镇化多元城镇化战略<br/>
+        城镇化战略制订总体战略性规划<br/>
+        23<br/>
+        五　多元城镇化多元城镇化发展模式将形成多元城镇社会<br/>
+        25<br/>
+        第三章　中外城市化和城市发展过程中的经验和教训<br/>
+        29<br/>
+        一　发达国家城市化进程中的经验和教训<br/>
+        29<br/>
+        二　发展中国家城市化过程中的经验教训<br/>
+        51<br/>
+        第二篇　多元城镇化多元城镇化的推进模式推进模式<br/>
+        第四章　中国城镇化“推进模式推进模式”的七种类型<br/>
+        71<br/>
+        一　中国城镇化推进过程的特殊性<br/>
+        71<br/>
+        二　中国城镇化推进模式推进模式研究回顾<br/>
+        75<br/>
+        三　中国城镇化推进的多元模式<br/>
+        78<br/>
+        四　中国城镇化推进模式推进模式的利弊分析<br/>
+        86<br/>
+        第五章　建立开发区建立开发区模式<br/>
+        88<br/>
+        一　开发区的概念由来和历史沿革<br/>
+        88<br/>
+        二　开发区的发展类型与空间布局<br/>
+        92<br/>
+        三　开发区模式的治理模式<br/>
+        98<br/>
+        四　开发区模式的战略功能<br/>
+        102<br/>
+        五　开发区模式的城镇化推进逻辑<br/>
+        109<br/>
+        六　开发区模式的经济局限和社会约束<br/>
+        115<br/>
+        第六章　建设新城模式<br/>
+        121<br/>
+        一　新城建设新城建设和城市化<br/>
+        121<br/>
+        二　新城建设新城建设案例——PG区的新城建设新城建设项目<br/>
+        125<br/>
+        三　新城建设新城建设的问题和对策<br/>
+        137<br/>
+        第七章　城市扩展城市扩展模式<br/>
+        141<br/>
+        一　政府主导政府主导的城市扩展城市扩展模式<br/>
+        142<br/>
+        二　理解城市扩展城市扩展：增长、分化与蔓延<br/>
+        147<br/>
+        三　城市扩展城市扩展的政治经济机制<br/>
+        153<br/>
+        四　结论<br/>
+        155<br/>
+        第八章　旧城更新旧城更新模式<br/>
+        157<br/>
+        一　概念和发展现状<br/>
+        157<br/>
+        二　旧城更新旧城更新过程中的问题<br/>
+        160<br/>
+        三　旧城更新旧城更新模式对策和建议<br/>
+        163<br/>
+        第九章　建设中央商务区建设中央商务区模式<br/>
+        166<br/>
+        一　中央商务区中央商务区模式介绍：一般规律与国际比较<br/>
+        167<br/>
+        二　我国CBD的建设状况与发展特色<br/>
+        169<br/>
+        三　我国中央商务区中央商务区（CBD）的适建性及<br/>
+        案例分析：政府管理的视角<br/>
+        173<br/>
+        四　我国CBD发展的问题与对策<br/>
+        181<br/>
+        第十章　乡镇产业化模式<br/>
+        185<br/>
+        一　农村就地城镇化的发展历程与现有模式<br/>
+        185<br/>
+        二　案例一：河北乡村工业发展下的农村就地城镇化<br/>
+        188<br/>
+        三　案例二：广东云浮市的“主体功能”与“完整社区”行动<br/>
+        194<br/>
+        四　乡镇产业化与就地城镇化发展建议<br/>
+        196<br/>
+        第十一章　村庄产业化模式<br/>
+        200<br/>
+        一　产业带动下的农村城镇化模式<br/>
+        200<br/>
+        二　村庄产业化的动力机制<br/>
+        202<br/>
+        三　村庄产业化模式的典型——韩村河<br/>
+        205<br/>
+        四　韩村河的致富路<br/>
+        207<br/>
+        五　建设韩村河新村<br/>
+        211<br/>
+        六　韩村河的经验及未来<br/>
+        216<br/>
+        七　产业城镇化模式的发展<br/>
+        220<br/>
+        第三篇　人口迁移与城镇化的区域研究<br/>
+        第十二章　城镇化过程中的人口流动的实证分析<br/>
+        225<br/>
+        一　中国城镇化的进程与趋势<br/>
+        225<br/>
+        二　城镇化进程中人口向城镇迁移情况<br/>
+        229<br/>
+        三　城镇化进程中的人口流动情况<br/>
+        237<br/>
+        四　发挥中小规模城市的集聚效应，推动城镇化健康发展<br/>
+        247<br/>
+        第十三章　基于县域经济的发展推进人口城镇化<br/>
+        253<br/>
+        一　城镇化过程中流动人口迁移的现状分析<br/>
+        254<br/>
+        二　不宜以小城镇作为城镇化的“政策主导”<br/>
+        260<br/>
+        三　以发展县域经济为政策重点推动城镇化发展<br/>
+        270<br/>
+        第十四章　基于县域经济的人口城镇化影响因素分析<br/>
+        276<br/>
+        一　区域非均衡发展的理论与实践分析<br/>
+        276<br/>
+        二　县域人口城镇化的区域划分<br/>
+        278<br/>
+        三　内生影响因素的因子分析与自变量的确定<br/>
+        284<br/>
+        第十五章　基于县域经济的城镇化理论模型与对策探讨<br/>
+        290<br/>
+        一　县域人口城镇化的理论模型构建<br/>
+        290<br/>
+        二　模型的结果分析<br/>
+        296<br/>
+        三　推进县域人口城镇化的对策性思考<br/>
+        300<br/>
+        第四篇　城市融入与农民工市民化研究<br/>
+        第十六章　城镇化中的社会融入问题<br/>
+        307<br/>
+        一　中国城镇化中“社会融入”的难题<br/>
+        307<br/>
+        二　今日“农转非”的“半融入”问题<br/>
+        309<br/>
+        三　外来农民工的“不融入”问题<br/>
+        315<br/>
+        四　“半融入”与“不融入”的比较研究<br/>
+        322<br/>
+        五　解决社会融入问题的对策<br/>
+        326<br/>
+        第十七章　流动人口城市定居意愿初步研究——以广州的调查为例<br/>
+        331<br/>
+        一　人口迁移的相关理论<br/>
+        331<br/>
+        二　研究框架和资料概况<br/>
+        334<br/>
+        三　数据与研究变量初步分析<br/>
+        336<br/>
+        四　回归模型分析与讨论<br/>
+        341<br/>
+        五　影响定居意愿的主要因素<br/>
+        351<br/>
+        第十八章　农民工子女的文化适应与城市融入<br/>
+        353<br/>
+        一　理论回顾：移民文化适应研究<br/>
+        354<br/>
+        二　农民工子女的文化适应<br/>
+        360<br/>
+        三　促进农民工子女文化适应的政策建议<br/>
+        382<br/>
+        第十九章　新生代农民工新生代农民工 的城镇化问题<br/>
+        385<br/>
+        一　新生代农民工新生代农民工的基本特征<br/>
+        386<br/>
+        二　新生代农民工新生代农民工城镇化中的主要问题<br/>
+        390<br/>
+        三　影响新生代农民工新生代农民工城镇化的主要因素<br/>
+        403<br/>
+        四　新生代农民工新生代农民工城镇化的方式及对策<br/>
+        406<br/>
+        第二十章　城市群城市群中农民工与市民的社会距离社会距离<br/>
+        ——以北京、广州、石家庄三大城市的调查为例<br/>
+        410<br/>
+        一　问题的提出、研究综述与数据来源<br/>
+        410<br/>
+        二　农民工与市民社会距离社会距离的统计描述<br/>
+        419<br/>
+        三　假设检验与政策建议<br/>
+        430<br/>
+        第二十一章　农民工技术地位农民工技术地位上升地位上升<br/>
+        转向中间阶层中间阶层的重要战略<br/>
+        437<br/>
+        一　中国社会结构社会结构变迁中的难题<br/>
+        437<br/>
+        二　社会地位是怎样获得的：劳动技术与地位变迁地位变迁的关系<br/>
+        441<br/>
+        三　对于中国城市农民工技术与社会地位关系的实证分析<br/>
+        447<br/>
+        四　国际比较与结论<br/>
+        452<br/>
+        第五篇　中国城镇化的难点与解决方案<br/>
+        第二十二章　城市群城市群背景下“社会风险社会风险综合分析框架”初探<br/>
+        459<br/>
+        一　城市群城市群是中国未来城市发展的主导模式<br/>
+        459<br/>
+        二　城市群城市群带来高风险社会高风险社会<br/>
+        462<br/>
+        三　城市群城市群地区社会风险社会风险PIETINCPIET<br/>
+        INC<br/>
+        （人口-产业-环境-技术-制度-规范-观念）分析框架<br/>
+        465<br/>
+        四　城市群城市群社会风险社会风险实证分析<br/>
+        467<br/>
+        五　应对城市群城市群社会风险社会风险的对策建议<br/>
+        472<br/>
+        第二十三章　中国城市群城市群中的犯罪问题与对策研究<br/>
+        ——以珠三角珠三角地区为例<br/>
+        474<br/>
+        一　城市群城市群中的犯罪问题<br/>
+        474<br/>
+        二　珠三角珠三角地区城市群城市群中犯罪问题分析<br/>
+        480<br/>
+        三　城市群城市群中的犯罪与社会对策<br/>
+        490<br/>
+        第二十四章　中国城市群城市群中的城市流浪乞讨问题研究<br/>
+        498<br/>
+        一　研究状况与数据来源<br/>
+        498<br/>
+        二　流浪乞讨人员的统计描述<br/>
+        504<br/>
+        三　流浪乞讨原因分析<br/>
+        510<br/>
+        四　治理流浪乞讨现象的对策建议<br/>
+        515<br/>
+        第二十五章　城市群城市群中的社区邻里关系研究——以H市为例<br/>
+        522<br/>
+        一　邻里与邻里关系<br/>
+        522<br/>
+        二　国外社区邻里研究的主要理论<br/>
+        525<br/>
+        三　H市社区邻里关系的整体现状分析<br/>
+        527<br/>
+        四　典型传统社区与典型新兴社区邻里关系比较分析<br/>
+        543<br/>
+        五　结论与讨论<br/>
+        550<br/>
+        第二十六章　城市群城市群中的农村土地制度土地制度<br/>
+        554<br/>
+        一　中国农地制度整体回顾<br/>
+        555<br/>
+        二　现行土地制度土地制度面临的问题<br/>
+        561<br/>
+        三　基于农村产权制度改革的城乡统筹城乡统筹实践——成都经验<br/>
+        563<br/>
+        四　总结<br/>
+        567<br/>
+        参考文献<br/>
+        569<br/>
+        索　引<br/>
+        590<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_24875530_full').hide();$('#dir_24875530_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共6个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E7%A4%BE%E4%BC%9A%E5%AD%A6">社会学</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%B8%85%E5%8D%8E">清华</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%9D%8E%E5%BC%BA">李强</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%9F%8E%E9%95%87%E5%8C%96">城镇化</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%9F%8E%E5%B8%82">城市</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6">中国研究</a>(<span class="">1</span>) &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <div id="reviews" class="ugc-mod">
+      
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这本书</span></a>
+
+  </div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+  </div>
+  
+
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{line-height:24px;vertical-align:bottom}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad .ebook-tag{margin-left:8px;padding:0 6px;line-height:20px;font-size:11px;border:1px solid #e6e6e2;background:#f1f1ed;display:inline-block;*display:inline;*zoom:1;vertical-align:top}
+</style>
+
+
+<div class="gray_ad" id="buyinfo">
+
+    <div id="buyinfo-printed">
+      <h2 class="">
+        在哪儿买这本书?
+      </h2>
+      <ul class="bs noline more-after ">
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=joyo&amp;price=7059&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=1&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.amazon.cn%2Fmn%2FdetailApp%2Fref%3Dasc_df_B00E5X4NTW775518%2F%3Fasin%3DB00E5X4NTW%26tag%3Ddouban-23%26creative%3D2384%26creativeASIN%3DB00E5X4NTW%26linkCode%3Dasn&amp;link2key=c6e0097e7f" class="">
+              <span class="">亚马逊</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 70.60</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=jingdong&amp;price=7430&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=2&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Fclick.union.jd.com%2FJdClick%2F%3FunionId%3D15055%26t%3D4%26to%3Dhttp%3A%2F%2Fwww.jd.com%2Fproduct%2F11297949.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">京东商城</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 74.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=beifa&amp;price=6830&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=3&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Fbook.beifabook.com%2FProduct%2FBookDetail.aspx%3FPlucode%3D750974691%26extra%3D0_s24875530&amp;link2key=c6e0097e7f" class="">
+              <span class="">北发图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 68.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=dangdang&amp;price=7430&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=4&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s24875530%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23315193&amp;link2key=c6e0097e7f" class="">
+              <span class="">当当网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 74.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=bookschina&amp;price=7820&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=5&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6296537.htm&amp;link2key=c6e0097e7f" class="">
+              <span class="">中国图书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 78.20</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+          
+          <li class="">
+          <a target="_blank" href="http://www.douban.com/link2?type=bkbuy&amp;subject=24875530&amp;vendor=taoshu&amp;price=7030&amp;lowest=6830&amp;pre=0&amp;cntvendor=6&amp;pos=6&amp;srcsubj=24875530&amp;srcpage=subject&amp;url=http%3A%2F%2Fwww.taoshu.com%2Funion%2Ftransfer.aspx%3Ffrom%3D2112%26url%3Dhttp%3A%2F%2Fwww.taoshu.com%2F1972624.html&amp;link2key=c6e0097e7f" class="">
+              <span class="">淘书网</span>
+            <span class="buylink-price">
+              ( <span class="">RMB 70.30</span> )
+            </span>
+            </a>
+
+
+          
+
+          </li>
+
+        <li>
+            <a href="http://book.douban.com/subject/24875530/buylinks">查看6家网店价格
+                ( RMB 68.30 起 )
+            </a>
+        </li>
+      </ul>
+    </div>
+    
+  <div class="add2cartContainer ft
+    ">
+    
+  <span class="add2cartWidget rr">
+      <a class="j colbutt add2cart a_show_login" href="http://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>加入购书单</span></a>
+  </span>
+  
+
+    <span class="pl add2cartTip">多本比价，批量购买</span>
+  </div>
+
+</div>
+
+<style class="text/css">
+  .presale-indicator{display:inline-block;*display:inline;*zoom:1;width:24px;height:15px;line-height:15px;background:url(http://img3.douban.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;text-indent:-9999px;vertical-align:middle;*vertical-align:0;_vertical-align:2px;margin-left:.5em}
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="http://book.douban.com/subject/24875530/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="http://book.douban.com/doulist/1297510/">城市书籍推荐</a>
+                <span class="pl">(到里斯本看海)</span>
+            </li>
+      </ul>
+    </div>
+
+
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/11289096/"><img src="http://img3.douban.com/icon/u11289096-3.jpg" class="pil" alt="biabia" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/11289096/">biabia</a><br/>
+      <div class="pl ll">          10月1日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/3162737/"><img src="http://img3.douban.com/icon/u3162737-7.jpg" class="pil" alt="王飞" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/3162737/">王飞</a><br/>
+      <div class="pl ll">          8月8日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:社会学 中国研究 城镇化 清华</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/elastica/"><img src="http://img3.douban.com/icon/u1245755-1.jpg" class="pil" alt="elastica" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/elastica/">elastica</a><br/>
+      <div class="pl ll">          8月2日          读过      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/tongxin17/"><img src="http://img3.douban.com/icon/u1060617-89.jpg" class="pil" alt="到里斯本看海" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/tongxin17/">到里斯本看海</a><br/>
+      <div class="pl ll">          7月29日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:李强 城市</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875530/collections">1人读过</a></p>
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875530/wishes">3人想读</a></p>
+
+  </div>
+
+
+
+
+
+    
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+    <p class="pl"> &gt; <a class="" href="http://book.douban.com/subject/24875530/group_collectors">收藏这本书的1个小组</a> </p>
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有3人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于多元城镇化与中国发展的评论: <br/><span class="feed">
+    <a href="http://book.douban.com/feed/subject/24875530/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2013 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://book.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="http://www.douban.com/mobile/read">手机读书</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/d948688e7abe87f.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = 'http://erebor.douban.com/',
+            userId = '',
+            browserId = 'YPFCwQ3tMM8',
+            ipAddress = '218.108.223.92',
+            criteria = '3:/subject/24875530/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, ip: ipAddress, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dis10-->
+
+
+<script>var _check_hijack = function () {
+    var _sig = "YPFCwQ3t", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

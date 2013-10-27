@@ -1,0 +1,1322 @@
+status: 200
+content-length: 41529
+content-location: http://book.douban.com/subject/24875645/
+set-cookie: viewed="24875645_25731751_20374758_1468997"; path=/;
+ domain=.douban.com; expires=Sat, 25-Oct-2014 07:23:38 GMT
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+keep-alive: timeout=10
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+pragma: no-cache
+cache-control: must-revalidate, no-cache, private
+date: Fri, 25 Oct 2013 07:23:38 GMT
+x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
+ sns.search_suggest
+content-type: text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff24 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>淑女與僧侶 (豆瓣)</title>
+  
+
+
+  
+<script>!function(f){var h=function(o,n,m){var k=new Date(),j,l;n=n||30;m=m||"/";k.setTime(k.getTime()+(n*24*60*60*1000));j="; expires="+k.toGMTString();for(l in o){f.cookie=l+"="+o[l]+j+"; path="+m}},d=function(m){var l=m+"=",o,n,j,k=f.cookie.split(";");for(n=0,j=k.length;n<j;n++){o=k[n].replace(/^\s+|\s+$/g,"");if(o.indexOf(l)==0){return o.substring(l.length,o.length).replace(/\"/g,"")}}return null},e=f.write,b={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},a=function(l,k){var j=new Image();j.onload=function(){};j.src="http://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(l)+"&environment="+encodeURIComponent(k)},i=function(k){try{e.call(f,k)}catch(j){e(k)}},c=/<script.*?src\=["']?([^"'\s>]+)/ig,g=/http:\/\/(.+?)\.([^\/]+).+/i;f.writeln=f.write=function(k){var j=c.exec(k),l;if(!j){i(k);return}l=g.exec(j[1]);if(!l){i(k);return}if(b[l[2]]){i(k);return}if(d("hj")==="tqs"){return}a(j[1],location.href);h({hj:"tqs"},1);setTimeout(function(){location.replace(location.href)},50)}}(document);</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/book/subject/24875645/">
+<meta name="keywords" content="淑女與僧侶,皮科.艾爾(Pico Iyer),馬可孛羅文化,2013-8-14,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书淑女與僧侶 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
+  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
+  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
+  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+    <link rel="alternate" href="http://book.douban.com/feed/subject/24875645/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+
+  <script>  </script>
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/348428d787d1fc9f.css">
+
+  <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+  
+  
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+    <a href="http://www.douban.com/accounts/login?source=book" rel="nofollow">登录</a>
+    <a href="http://www.douban.com/accounts/register?source=book">注册</a>
+</div>
+
+
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://book.douban.com/">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    
+                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+
+
+
+
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-logo">
+        <a href="http://book.douban.com">豆瓣读书</a>
+      </div>
+      <div class="nav-search">
+        <form action="http://book.douban.com/subject_search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">书名、作者、ISBN</label>
+            <div class="inp">
+              <input id="inp-query" name="search_text" size="22" maxlength="60"
+                value="">
+            </div>
+            <div class="inp-btn">
+              <input type="submit" value="搜索">
+            </div>
+            <input type="hidden" name="cat" value="1001">
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="nav-secondary">
+    <ul class="nav-items">
+      <li
+        class="nav-item-first"
+      ><a href="http://book.douban.com/tag/">分类浏览</a></li>
+      
+      <li class="book-cart"><a href="http://book.douban.com/cart">购书单</a></li>
+      <li>
+        <a href="http://read.douban.com/ebooks/?dcs=book-nav&amp;dcm=douban" target="_blank">电子图书</a>
+        <sup class="icon-new"></sup>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <script type="text/template" id="suggest-item">
+    <li class="item"><a href="#">{{= item}}</a></li>
+  </script>
+  
+  
+
+
+
+    <div id="wrapper">
+        
+<h1>
+    <span property="v:itemreviewed">淑女與僧侶</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg" 
+      href="http://img3.douban.com/lpic/s27025933.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24875645, ), title: 淑女與僧侶, uid: 9866319849, cat_id: 1001&gt;&gt;">
+    <img src="http://img3.douban.com/mpic/s27025933.jpg" title="点击看大图" alt="淑女與僧侶" rel="v:photo">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>: 
+        
+        <a class="" href="/search/%E7%9A%AE%E7%A7%91.%E8%89%BE%E7%88%BE%28Pico%20Iyer%29">皮科.艾爾(Pico Iyer)</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 馬可孛羅文化<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 我在京都的一年<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>: 
+        
+        <a class="" href="/search/%E8%83%A1%E6%B4%B2%E8%B3%A2">胡洲賢</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-8-14<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 384<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9789866319846<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap" rel="v:rating">
+    <p class="rating_self clearfix" typeof="v:Rating">
+      <span class="ll bigstar00"></span>
+
+
+      <strong class="ll rating_num " property="v:average">
+      
+      </strong>
+
+      <span property="v:best" content="10.0"></span>
+    </p>
+    <p class="rating_self font_normal clearbox">
+    (
+    <span class="">
+      <span class="color_gray">目前无人评价</span>
+    </span>
+    )
+  </p>
+    
+    
+<span class="stars5 starstop" title="力荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars4 starstop" title="推荐"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars3 starstop" title="还行"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars2 starstop" title="较差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+    
+    
+<span class="stars1 starstop" title="很差"></span>
+
+    
+<div class="power" style="width:0px"></div>
+
+    0.0%<br>
+</div>
+</div>
+
+
+  </div>
+  
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="http://www.douban.com/register?reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875645-wish">
+          <span>想读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectdo&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875645-do">
+          <span>在读</span>
+        </a>
+        <a href="http://www.douban.com/register?reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24875645-collect">
+          <span>读过</span>
+        </a>
+      <div class="ll j a_stars">
+        
+
+<span class="j a_stars">
+  <span class="rate_stars">
+    评价: 
+    <span id="rating">
+      <span id="stars"><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875645-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875645-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875645-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875645-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4" /></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-24875645-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5" /></a>      </span>
+      <span id="rateword" class="pl"></span>
+      <input id="n_rating" type="hidden" value=""
+          />
+    </span>
+  </span>
+</span>
+
+
+
+
+
+
+      </div>
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+      <li>
+        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+      </li>
+
+        <li>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+        </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="http://img3.douban.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="http://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-24875645">
+        <a href= "#" data-url="http://book.douban.com/subject/24875645/" data-desc="" data-title="书籍《淑女與僧侶》 (来自豆瓣) " data-pic="http://img3.douban.com/lpic/s27025933.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var cache_url = cache_url || {};
+    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_24875645"></div>
+<div class="related_info">
+  
+  
+  
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent" id="link-report">
+  
+    <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>城市，不會只有一種表情</p>    <p>女性的京都、禪風的京都、生活的京都，勾勒出古都最不一樣的風華！</p>    <p>皮科‧艾爾與日本的第一次接觸，是在一次飛往東南亞的途中夜宿成田機場附近。十月清澈微寒的清晨預告著冬天即將來臨，而天空中散溢出的那股透澈潔淨讓作者驚訝於它與阿爾卑斯山的天空竟是如此地相似。走在狹窄的巷弄裡，宛如走進一處藝廊：沉靜、平和、萬事萬物無不適得其位。</p>    <p>在皮科‧艾爾看來，日本有許多的特質和英國很接近：坐落在濃蔭山丘中的小村子，有著舒適樸實的格局；自我封閉、自我聚集，像是寒冷的灰色閣樓地；一種客氣的超然離群感，還有，一種禮貌導致的冷漠……。一種集體性自制性的華麗包裹底下是狂野、激烈與冒險，就像入夜後的髒亂、遊民、性的挑逗等，是在白天絕對見不到的面貌。</p>    <p>對日本的初次淺嚐，喚醒了一直以來存留在作者心中那似遠還近的親近感，似乎有個奇妙的關係將他拉向這些未曾相識的人與地...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+     </span>
+    <span class="all hidden">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>城市，不會只有一種表情</p>    <p>女性的京都、禪風的京都、生活的京都，勾勒出古都最不一樣的風華！</p>    <p>皮科‧艾爾與日本的第一次接觸，是在一次飛往東南亞的途中夜宿成田機場附近。十月清澈微寒的清晨預告著冬天即將來臨，而天空中散溢出的那股透澈潔淨讓作者驚訝於它與阿爾卑斯山的天空竟是如此地相似。走在狹窄的巷弄裡，宛如走進一處藝廊：沉靜、平和、萬事萬物無不適得其位。</p>    <p>在皮科‧艾爾看來，日本有許多的特質和英國很接近：坐落在濃蔭山丘中的小村子，有著舒適樸實的格局；自我封閉、自我聚集，像是寒冷的灰色閣樓地；一種客氣的超然離群感，還有，一種禮貌導致的冷漠……。一種集體性自制性的華麗包裹底下是狂野、激烈與冒險，就像入夜後的髒亂、遊民、性的挑逗等，是在白天絕對見不到的面貌。</p>    <p>對日本的初次淺嚐，喚醒了一直以來存留在作者心中那似遠還近的親近感，似乎有個奇妙的關係將他拉向這些未曾相識的人與地。幼年記憶裡，只要看到葛飾北齋的農民圖，或者川端康成小說中冷冽、淒美的世界，就感受到一種滲透性的認同；他深深地受到日本的吸引!</p>    <p>於是，他決定給自己一次機會”測試”那個久藏的、想像中的日本，是否僅僅是私人的情感的日本?再者，將自己丟在一個陌生地方，簡單、獨自生活，也是他的生活信仰，日本似乎是個理想地點。一九八七年，不讓自己有任何找退路的藉口，他索性買了一張單程機票，沒有計畫、沒有認識的人、沒有住宿的地方；同樣是清澈冷淨的秋天，他，淋著雨，站在京都的一間小寺廟外頭，迎面招呼他的是個患白化症的光頭和尚……</p>    <p>寺廟的生活以一種日本才有的精準和體貼，悠緩而平靜地進行著：早上六點鐘，鐘聲伴著吟誦佛經的低啞聲被鈴鐺的銀鈴給打斷、接著是啪搭啪搭的腳步聲、第一道晨光裡的早餐、中午老和尚帶著狗去散步。夜晚，當城市沉睡，走入夜色中的街道，電話亭裡貼滿性煽動的上空女郎廣告、頂著亂髮衣冠不整的遊民紛紛現身湧進人行道騎樓，依舊有秩序且自制。對照之下，白天，寺廟可是最荒蕪的地方了：兩個僧侶、一隻狗，還有作者。</p>    <p>作者從寺廟生活找到了自己的節奏，同時，他也儘量融入京都的常民生活中，從禪宗的接觸、與在地家庭的互動，甚至是參加在京都的外國團體的聚會。他尤其試圖從日本女性文學的角度爬梳京都在日本文學的位置和影響力。他發現，京都的主題和情緒都是極端女性化的，是一種細緻的抒情，此種女性陰柔的描寫，遠的如清少納言、三島由紀夫、安部公房、大江建三郎的身上可見；直到近代的谷崎潤一郎和川端康成，也都是奉獻給個人的世界。</p>    <p>長久以來，羅曼史和宗教構成一種加倍的東方吸引力。在京都，這裡是建築在宏觀棋盤上的城市，而如今卻也是代表著這國家所有女性藝術的城市，如和服、花道和藝妓的中心。「每個城市都有它的性別，京都完全是女性。」</p>    <p>【名家推薦】</p>    <p>「深情款款，令人折服……氣質獨特且充滿詩意……洞察卓見，精確無比。」</p>    <p>──《紐約時報書評》</p>    <p>「一本某人在一個陌生的現代所在，尋找古老夢想的書。文字優美。」</p>    <p>──《洛杉磯時報書評》</p>    <p>「（艾爾）是個眼光犀利、細心周到的觀察家，成功地召喚出林蔭大道、寺廟、巷弄、夜晚的水面月光，還有西化夜總會與娛樂區的粗俗所構成的京都生活。」</p>    <p>──《紐約客》</p>    <p>「皮科˙艾爾引人注目的才華，使得他無論前往世上哪個迷戀之處，都足以讓我們</p>    <p>信服。」</p>    <p>──《華盛頓郵報書的世界》</p>    <p>「璀燦詩意……章節編年記事和日本四季顏色，喚起了寺廟鐘鑼聲、流暢的竹笛音符，和雨落屋頂的禱文聲，形成強力衝擊。」</p>    <p>──《波士頓環球報》</p>    <p>「他從日本文化和宗教思想擷取片段，拿來與我們自身傳承的光輝和缺點做輕鬆及知性的比較。這是旅遊書寫中，一則獨特的愛情故事……有艾爾當嚮導，日本變成一 個月光和迷霧之地，將美麗的臉龐藏在敞開的扇子後頭，召喚著我們往前接近。」</p>    <p>──《康德納斯旅行者》（Condé Nast Traveler）</p>    <p>「就像保羅‧索魯，艾爾結合了尖酸的諷刺和敏銳的實地感。真情流露的細節是他的特色……堪稱九○年代的《蝴蝶夫人》。」</p>    <p>──《時代雜誌》</p></div>
+
+    </span>
+  
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "http://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("http://book.douban.com/book/subject/24875645/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>皮科‧艾爾 Pico Iye</p>    <p>一九五七年出生於英國牛津，印度裔英國人，在伊頓公學（Eton）、牛津大學和哈佛大學接受教育。自小即跟著都是知識份子的父母親遊歷歐陸與美洲各地，因此，旅行在皮科‧艾爾的生活中是再自然不過的節奏。</p>    <p>是知名的旅行作家、小說家，自一九八二年起為《時 代》雜誌撰寫專欄。不時也有全球化議題、評論性文章披露於《紐約時報》、《哈潑》等雜誌媒體。</p>    <p>一九八七年，一張單程機票將他帶到了日本京都，一年的駐居生活，他試圖探索禪宗文化與家庭之間的關係。本書敘述的即為親身貼近京都一年的所見所感。就在完成《淑女與僧侶》之前，居家戲劇化地發生火災，夷為平地，只留給他當時身穿的衣服，和這本書的手稿。</p>    <p>皮科‧艾爾敏銳的觀察和犀利有時又兼具嘲諷的文字，每每讓他筆下旅遊地的最深層的面貌顯露、無所遁形。同時，他也嘗試透過文字提供一些思考的面向。</p>    <p>其作品有：《加德滿...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;}
+</style>
+<div class="intro">
+    <p>皮科‧艾爾 Pico Iye</p>    <p>一九五七年出生於英國牛津，印度裔英國人，在伊頓公學（Eton）、牛津大學和哈佛大學接受教育。自小即跟著都是知識份子的父母親遊歷歐陸與美洲各地，因此，旅行在皮科‧艾爾的生活中是再自然不過的節奏。</p>    <p>是知名的旅行作家、小說家，自一九八二年起為《時 代》雜誌撰寫專欄。不時也有全球化議題、評論性文章披露於《紐約時報》、《哈潑》等雜誌媒體。</p>    <p>一九八七年，一張單程機票將他帶到了日本京都，一年的駐居生活，他試圖探索禪宗文化與家庭之間的關係。本書敘述的即為親身貼近京都一年的所見所感。就在完成《淑女與僧侶》之前，居家戲劇化地發生火災，夷為平地，只留給他當時身穿的衣服，和這本書的手稿。</p>    <p>皮科‧艾爾敏銳的觀察和犀利有時又兼具嘲諷的文字，每每讓他筆下旅遊地的最深層的面貌顯露、無所遁形。同時，他也嘗試透過文字提供一些思考的面向。</p>    <p>其作品有：《加德滿都錄影夜》(Video Night in Kathmandu)、《入夜後的太陽》(Sun after Dark: Flights into the Foreign)、《從地圖掉落》(Falling off the Map：Some Lonely Places of the World)、《我腦中的男人》(The Man Within My Head)等。</p>    <p>現定居京都近郊，在京都生活已超過二十年之久。</p>    <p>胡洲賢</p>    <p>國立成功大學外國語文學系畢業，曾赴美國加州蒙特利半島Language Studies Division of The Monterey Institute of International Studies進修翻譯。現專職翻譯與寫作。</p>    <p>著作有：《一樣的月光》（麥田出版）、《言歡記》（聯經出版）。譯作有：《到英國的理由》、《老巴塔哥尼亞快車》、《金色船隊》、《撒哈拉》（以上均由馬可孛羅文化出版）、《造雨人》、《麥克．喬丹自傳》、《蝴蝶君》、《流浪者之歌》、《誰搬走了我的乳酪：青少年及兒童版》等書。</p></div>
+
+            </span>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+  
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共5个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%97%A5%E6%9C%AC">日本</a>(<span class="">3</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E6%B8%AF%E5%8F%B0%E7%89%88">港台版</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E5%8F%B0%E7%89%88">台版</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%E3%80%90%E5%8F%AF%E4%BF%A1%E2%88%95%E4%B8%8D%E5%8F%AF%E4%BF%A1%E3%80%91">【可信/不可信】</a>(<span class="">1</span>) &nbsp;    </span>
+    <span class="">
+        <a class=" " href="http://book.douban.com/tag/%2A%2A%E5%8F%B0%C2%B7M%E9%A6%AC%E5%8F%AF%E5%AD%9B%E7%BE%85%2A">**台·M馬可孛羅*</a>(<span class="">1</span>) &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <div id="reviews" class="ugc-mod">
+      
+      <a class="redbutt rr j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这本书</span></a>
+
+  </div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+  </div>
+  
+
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="http://book.douban.com/subject/24875645/discussion/54706314/" title="【現貨】《淑女與僧侶：我在京都的一年》皮科．艾爾" class="">【現貨】《淑女與僧侶：我在京都的一年》皮科．艾爾</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="http://book.douban.com/people/hwss/">惠文書社</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2013-08-26</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{line-height:24px;vertical-align:bottom}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad .ebook-tag{margin-left:8px;padding:0 6px;line-height:20px;font-size:11px;border:1px solid #e6e6e2;background:#f1f1ed;display:inline-block;*display:inline;*zoom:1;vertical-align:top}
+</style>
+
+
+<div class="gray_ad" id="buyinfo">
+
+    
+  <div class="add2cartContainer ft
+      no-border
+    ">
+    
+  <span class="add2cartWidget rr">
+      <a class="j colbutt add2cart a_show_login" href="http://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>加入购书单</span></a>
+  </span>
+  
+
+    <span class="pl add2cartTip">多本比价，批量购买</span>
+  </div>
+
+</div>
+
+<style class="text/css">
+  .presale-indicator{display:inline-block;*display:inline;*zoom:1;width:24px;height:15px;line-height:15px;background:url(http://img3.douban.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;text-indent:-9999px;vertical-align:middle;*vertical-align:0;_vertical-align:2px;margin-left:.5em}
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="http://book.douban.com/subject/24875645/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="http://book.douban.com/doulist/1898956/">design by 井十二</a>
+                <span class="pl">(芙颂)</span>
+            </li>
+          <li class=""><a class="" href="http://book.douban.com/doulist/2976135/">2013.8</a>
+                <span class="pl">(不加蛋)</span>
+            </li>
+      </ul>
+    </div>
+
+
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/39825619/"><img src="http://img3.douban.com/icon/u39825619-4.jpg" class="pil" alt="语。" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/39825619/">语。</a><br/>
+      <div class="pl ll">          10月23日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/disanfang/"><img src="http://img3.douban.com/icon/u3484846-6.jpg" class="pil" alt="不加蛋" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/disanfang/">不加蛋</a><br/>
+      <div class="pl ll">          9月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/sabine/"><img src="http://img3.douban.com/icon/u1404505-46.jpg" class="pil" alt="瞬间收藏家" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/sabine/">瞬间收藏家</a><br/>
+      <div class="pl ll">          9月20日          在读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="http://book.douban.com/people/2026689/"><img src="http://img3.douban.com/icon/u2026689-4.jpg" class="pil" alt="蓬蓬头" /></a></div>
+    <div style="padding-left:60px"><a class="" href="http://book.douban.com/people/2026689/">蓬蓬头</a><br/>
+      <div class="pl ll">          9月10日          在读      </div>
+
+      <br/>
+
+      <span class="pl">tags:日本</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875645/doings">2人在读</a></p>
+        <p class="pl">&gt; <a href="http://book.douban.com/subject/24875645/wishes">13人想读</a></p>
+
+  </div>
+
+
+
+
+
+    
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="http://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有13人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于淑女與僧侶的评论: <br/><span class="feed">
+    <a href="http://book.douban.com/feed/subject/24875645/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2013 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://book.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="http://www.douban.com/mobile/read">手机读书</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/d948688e7abe87f.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = 'http://erebor.douban.com/',
+            userId = '',
+            browserId = 'YPFCwQ3tMM8',
+            ipAddress = '218.108.223.92',
+            criteria = '3:/subject/24875645/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_right', 'dale_book_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, ip: ipAddress, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- dis9-->
+
+
+<script>var _check_hijack = function () {
+    var _sig = "YPFCwQ3t", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
