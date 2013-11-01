@@ -13,7 +13,10 @@ $page->assign('tpl_img', 'tplimgs/');
 
 // do substitute of template javascript directory
 $page->assign('tpl_js', 'tpljs/');
-   
+  
+// do substitute of template javascript directory
+$page->assign('tpl_css', 'style/'); 
+
 // $page->debug();
 $page->output();
 error_reporting(0);
