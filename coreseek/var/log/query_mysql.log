@@ -26,3 +26,15 @@
 [Mon Oct 28 01:14:48.128 2013] 0.002 sec [any/0/rel 0 (0,20)] [mysql] ""/1
 [Mon Oct 28 01:16:58.690 2013] 0.003 sec [any/0/rel 0 (0,20)] [mysql] ""/1
 [Mon Oct 28 01:17:03.134 2013] 0.003 sec [any/0/rel 0 (0,20)] [mysql] q
+[Sat Nov  2 03:18:32.830 2013] 0.063 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:18:44.401 2013] 0.003 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:19:42.221 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:19:51.721 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:20:00.772 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:23:20.654 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:25:20.779 2013] 0.003 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:26:32.846 2013] 0.003 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:27:07.673 2013] 0.003 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:27:08.334 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:27:09.183 2013] 0.003 sec [any/0/rel 3 (0,20)] [mysql] 老王
+[Sat Nov  2 03:27:12.458 2013] 0.002 sec [any/0/rel 3 (0,20)] [mysql] 老王
