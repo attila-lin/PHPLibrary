@@ -2,7 +2,10 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome To GeekBooK</title>
+<title><?php
+echo $_obj['title'];
+?>
+</title>
 <!-- Fav icon -->
 <link href='img/favicon.ico' rel='shortcut icon' type='img/x-icon'>
 <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
