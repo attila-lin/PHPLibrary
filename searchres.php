@@ -1,4 +1,9 @@
 <?
+
+//********************************
+//以下部分是CoreSeek搜索
+//********************************
+
 require_once( "init.php" );
 require ( "sphinxapi.php" );
 
@@ -11,11 +16,10 @@ $cl->SetMatchMode ( SPH_MATCH_ANY );
 $res = $cl->Query ( '老王', "mysql" );
 // $res = $cl->Query ( $_POST["name"], "mysql" );
 
-// print_r($cl);
-// print_r($res);
-// print_r($res["matches"]);
 
-
+//********************************
+//以下部分将搜索结果在db中重新拿出
+//********************************
 
 require_once( "conn.php" );
 

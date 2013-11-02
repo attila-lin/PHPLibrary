@@ -1,6 +1,7 @@
 <?php
 require_once( "init.php" );
 
+
 $page = new QuickSkin( "default/home.htm" );
 $page->assign( 'title',  'Welcome To GeekBooK' );
 
@@ -20,4 +21,5 @@ $page->assign('tpl_css', 'style/');
 // $page->debug();
 $page->output();
 error_reporting(0);
+
 ?>
