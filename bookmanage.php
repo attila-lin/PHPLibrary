@@ -112,14 +112,13 @@ if( $_POST['cno'] && $_POST['bno']){
 elseif ($_POST['cno'] && !$_POST['bno']) {
     $cno = $_POST['cno'];
     $query = mysql_query("select * from borrow where cno='$cno' limit 1");
-    $row = mysql_fetch_array($query);
-    foreach ($row as $value) {
+    while($row = mysql_fetch_array($result))
         // `bno`, `cno`, `borrowdate`, `returndata`, `mid`
-        echo $value['bno'];
-        echo $value['cno'];
-        echo $value['borrowdate'];
-        echo $value['returndata'];
-        echo $value['mid'];
+        echo $row['bno'];
+        echo $row['cno'];
+        echo $row['borrowdate'];
+        echo $row['returndata'];
+        echo $row['mid'];
         echo '<br />';
     }
 }

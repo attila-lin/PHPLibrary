@@ -8,4 +8,6 @@ if (!$con)
 
 mysql_select_db("PHPLibrary", $con);
 
+// 用UTF8编码查询
+mysql_query("SET NAMES utf8");
 ?>

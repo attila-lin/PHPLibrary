@@ -56,14 +56,16 @@ login.png width="120px" /></a>
 echo $_obj['tpl_img'];
 ?>
 banner1.png);height:435px;width:1200px">
-		<form>
-			<input type="text" name="firstname" style="margin-top:13.8%;margin-left:23.5%;width:185px;height:40px;"/>
+		<form action="searchres.php" method="get">
+			<input type="text" name="q" style="margin-top:13.8%;margin-left:23.5%;width:185px;height:40px;"/>
+
 			<a href="javascript:form1.submit();">
 				<img src=<?php
 echo $_obj['tpl_img'];
 ?>
 submit.png border="0" style="margin-top:12.8%;margin-left:0.4%;width55px;height:45px;" >
 			</a>
+			<input type ="submit" value="ok" />
 		</form>
 	</div>
 	<div class="span12 row-fluid" style="margin-top:2%;margin-left:14%;white-space:nowrap">
