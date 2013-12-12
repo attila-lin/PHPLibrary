@@ -5,7 +5,6 @@ if (!$con)
   die('Could not connect: ' . mysql_error());
 }
 
-
 mysql_select_db("PHPLibrary", $con);
 
 // 用UTF8编码查询

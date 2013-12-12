@@ -1,6 +1,5 @@
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
-
 --
 -- 数据库: `PHPLibrary`
 --
@@ -12,13 +11,13 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 
 DROP TABLE IF EXISTS `manager`;
-CREATE TABLE IF NOT EXISTS `manager` (
+CREATE TABLE `manager` (
     `mno` int(8) NOT NULL AUTO_INCREMENT,
     `mid` char(15) NOT NULL,
     `mpassword` varchar(20) NOT NULL,
     `mname`  char(20) NOT NULL,
     `mphone`  char(11) NOT NULL,
-    PRIMARY KEY (`mid`)
+    PRIMARY KEY (`mno`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8  AUTO_INCREMENT=4 ;
 
 --

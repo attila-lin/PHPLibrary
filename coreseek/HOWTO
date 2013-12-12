@@ -1,0 +1,2 @@
+cd /var/www/PHPLibrary/coreseek
+/usr/local/coreseek/bin/searchd -c etc/csft_mysql.conf 

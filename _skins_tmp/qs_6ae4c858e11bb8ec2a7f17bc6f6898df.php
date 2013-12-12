@@ -1,7 +1,10 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>{title}</title>
+	<title><?php
+echo $_obj['title'];
+?>
+</title>
 </head>
 <body>
 

@@ -2,3 +2,6 @@
 [Tue Oct 29 22:49:24.347 2013] [17382] caught SIGTERM, shutting down
 [Tue Oct 29 22:49:27.511 2013] [17382] shutdown complete
 [Sat Nov  2 03:09:43.916 2013] [25025] accepting connections
+[Sun Nov  3 14:58:21.312 2013] [25025] caught SIGTERM, shutting down
+[Sun Nov  3 14:58:27.106 2013] [25025] shutdown complete
+[Sun Nov  3 15:29:14.724 2013] [ 5357] accepting connections

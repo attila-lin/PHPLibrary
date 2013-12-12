@@ -32,7 +32,7 @@ $cl->SetConnectTimeout ( 3 );
 $cl->SetArrayResult ( true );
 $cl->SetMatchMode ( SPH_MATCH_ANY );
 
-$res = $cl->Query ( '老王', "mysql" );
+$res = $cl->Query ( '', "mysql" );
 
 // $res = $cl->Query ( $_POST["q"], "mysql" );
 
