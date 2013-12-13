@@ -29,5 +29,13 @@ ISBN<input type="text" name="ISBN" /><br />
 <input type="submit" name="action" value="insert"/>
 </form>
 
+<form action="bookmanage.php" method="post">
+批量入库<br />
+<input type="file" name="file" value="" />
+<p></p>
+<input type="submit" name="action" value="提交"  />
+
+</form>
+
 </body>
 </html>

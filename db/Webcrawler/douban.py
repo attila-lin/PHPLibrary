@@ -30,9 +30,10 @@ headers = {
 
 baseurl = 'http://book.douban.com/subject/'
 # 遍历
-# First time   20000000 20001000 deleted
-# Secode       24875416 24875917
-for i in range(24875416,24875417):
+# 1: 20000000 20001000 deleted
+# 2: 24875416 24875917
+# 3: 25000000 25000010
+for i in range(20000000,20000001):
     try:
         url = baseurl + str(i) +'/'
         # print url

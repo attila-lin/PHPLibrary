@@ -1,8 +1,8 @@
 status: 200
-content-length: 24592
+content-length: 25679
 content-location: http://book.douban.com/subject/20000001/
 set-cookie: viewed="20000001_25731751_20374758_1468997"; path=/;
- domain=.douban.com; expires=Fri, 24-Oct-2014 15:24:37 GMT
+ domain=.douban.com; expires=Sat, 13-Dec-2014 03:22:07 GMT
 expires: Sun, 1 Jan 2006 01:00:00 GMT
 keep-alive: timeout=10
 server: nginx
@@ -10,9 +10,9 @@ connection: keep-alive
 -content-encoding: gzip
 pragma: no-cache
 cache-control: must-revalidate, no-cache, private
-date: Thu, 24 Oct 2013 15:24:37 GMT
+date: Fri, 13 Dec 2013 03:22:07 GMT
 x-douban-splittest: sns.is_recommended_user, movie.new-cinema-section,
- checknow.COMM_CG, sns.search_suggest
+ ilmen.story_sims_scrollload
 content-type: text/html; charset=utf-8
 
 
@@ -38,22 +38,22 @@ content-type: text/html; charset=utf-8
 
   <script>var _head_start = new Date();</script>
   
-  <link href="http://img3.douban.com/f/book/eb0f69038df4202dfa3f9872ebeb9ffc612b37cd/css/book/master.css" rel="stylesheet" type="text/css">
+  <link href="http://img3.douban.com/f/book/8f71968c6b80d2b89d046a006dd094f183ec635d/css/book/master.css" rel="stylesheet" type="text/css">
 
   <style type="text/css"></style>
   <script src="http://img3.douban.com/f/book/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/book/lib/jquery/jquery.js"></script>
-  <script src="http://img3.douban.com/f/book/c49f5eedd8ded8653bdf189ccd651fddc9a4997e/js/book/master.js"></script>
+  <script src="http://img3.douban.com/f/book/0cb0bb38a06e7e73b425267f7ac11c5a84ceef73/js/book/master.js"></script>
   
 
   
-  <link rel="stylesheet" href="http://img3.douban.com/f/book/d3d0ee3397754392446f43045836641319f9ac40/css/book/subject.css">
-  <script src="http://img3.douban.com/js/lib/packed_jquery.snippet3033262609.js"></script>
-  <script src="http://img3.douban.com/js/ui/packed_dialog2496676458.js"></script>
+  <link rel="stylesheet" href="http://img3.douban.com/f/book/fee016bbdbcf615bb189a8b6f22c4707549e5b40/css/book/subject.css">
+  <script src="http://img3.douban.com/f/shire/04406dde23ce1d5c473fd8e4e7743da072e9c268/js/lib/jquery.snippet.js"></script>
+  <script src="http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js"></script>
     <link rel="alternate" href="http://book.douban.com/feed/subject/20000001/reviews" type="application/rss+xml" title="RSS">
   <style type="text/css"> h2 {color: #007722;} </style>
 
   <script>  </script>
-  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/348428d787d1fc9f.css">
+  <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/6e6d8faee82388c5.css">
 
   <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
 </head>
@@ -91,47 +91,47 @@ content-type: text/html; charset=utf-8
           
             
             <li>
-            <a href="http://www.douban.com/" target="_blank">豆瓣</a>
+            <a href="http://www.douban.com/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-main', uid: '0'})" >豆瓣</a>
             </li>
           
             
             <li class="on">
-            <a href="http://book.douban.com/">读书</a>
+            <a href="http://book.douban.com/"  onclick="moreurl(this, {from: 'top-nav-click-book', uid: '0'})" >读书</a>
             </li>
           
             
             <li>
-            <a href="http://movie.douban.com/" target="_blank">电影</a>
+            <a href="http://movie.douban.com/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-movie', uid: '0'})" >电影</a>
             </li>
           
             
             <li>
-            <a href="http://music.douban.com/" target="_blank">音乐</a>
+            <a href="http://music.douban.com/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-music', uid: '0'})" >音乐</a>
             </li>
           
             
             <li>
-            <a href="http://www.douban.com/location/" target="_blank">同城</a>
+            <a href="http://www.douban.com/location/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-location', uid: '0'})" >同城</a>
             </li>
           
             
             <li>
-            <a href="http://www.douban.com/group/" target="_blank">小组</a>
+            <a href="http://www.douban.com/group/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-group', uid: '0'})" >小组</a>
             </li>
           
             
             <li>
-            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-read', uid: '0'})" >阅读</a>
             </li>
           
             
             <li>
-            <a href="http://douban.fm/" target="_blank">豆瓣FM</a>
+            <a href="http://douban.fm/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-fm', uid: '0'})" >豆瓣FM</a>
             </li>
           
             
             <li>
-            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">东西</a>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-commodity', uid: '0'})" >东西</a>
             </li>
           
             <li>
@@ -139,11 +139,11 @@ content-type: text/html; charset=utf-8
               <div class="more-items">
                 <table cellpadding="0" cellspacing="0">
                     
-                    <tr><td><a href="http://9.douban.com" target="_blank">九点</a></td></tr>
+                    <tr><td><a href="http://9.douban.com" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-9', uid: '0'})" >九点</a></td></tr>
                     
-                    <tr><td><a href="http://alphatown.com" target="_blank">阿尔法城</a></td></tr>
+                    <tr><td><a href="http://alphatown.com" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-town', uid: '0'})" >阿尔法城</a></td></tr>
                     
-                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank">移动应用</a></td></tr>
+                    <tr><td><a href="http://www.douban.com/mobile/" target="_blank"  onclick="moreurl(this, {from: 'top-nav-click-mobile', uid: '0'})" >移动应用</a></td></tr>
                 </table>
               </div>
             </li>
@@ -263,6 +263,7 @@ content-type: text/html; charset=utf-8
   
     <span>
       <span class="pl"> 作者</span>: 
+        
         
         <a class="" href="/search/Myers%2C%20Beverle%20Graves%3B%20Blaisdell%2C%20Geoffrey%3B">Myers, Beverle Graves; Blaisdell, Geoffrey;</a>
     </span><br/>
@@ -404,7 +405,6 @@ content-type: text/html; charset=utf-8
 </div>
 </div>
 
-
   </div>
   
 
@@ -450,13 +450,13 @@ content-type: text/html; charset=utf-8
   
   <div class="gtleft">
     <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
-      <li>
-        <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
-      </li>
-
         <li>
-          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a href="http://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
         </li>
+
+          <li>
+            <img src="http://img3.douban.com/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
 
       <li>
 
@@ -477,8 +477,18 @@ content-type: text/html; charset=utf-8
         <a href= "#" data-url="http://book.douban.com/subject/20000001/" data-desc="" data-title="书籍《Her Deadly Mischief》 (来自豆瓣) " data-pic="http://img3.douban.com/pics/book-default-large.gif" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
     </li>
     <script>
-    var cache_url = cache_url || {};
-    (function(u){ if(cache_url[u]){ return; } cache_url[u] = true; Do(function(){$.getScript(u);}); })('http://img3.douban.com/js/lib/packed_sharebutton2606691841.js');
+      var cache_url = cache_url || {}
+      ;(function(u) {
+        if (cache_url[u]) { return }
+        cache_url[u] = true
+        Do(function() {
+          $.ajax({
+            url: u
+          , dataType: 'script'
+          , cache: true
+          })
+        })
+      }("http://img3.douban.com/f/shire/f8ceabfc5099972f4a2deb12ef07acf3005abb1e/js/lib/sharebutton.js"))
     </script>
 
     </ul>
@@ -929,7 +939,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
 </div>
 
     </div>
-    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/d948688e7abe87f.js"></script>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/5ec102715d698ad3.js"></script>
     <!-- mako -->
     
   
@@ -945,7 +955,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
             adSource = 'http://erebor.douban.com/',
             userId = '',
             browserId = 'YPFCwQ3tMM8',
-            ipAddress = '219.82.62.91',
+            ipAddress = '58.101.232.181',
             criteria = '3:/subject/20000001/',
             preview = '',
             debug = false,
@@ -955,7 +965,7 @@ $(function(){if($.browser.msie && $.browser.version == 6.0){
         global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
 
         newNode.setAttribute('type', 'text/javascript');
-        newNode.setAttribute('src', 'http://img3.douban.com/js/packed_ad932876981.js');
+        newNode.setAttribute('src', 'http://img3.douban.com/f/shire/55c9fe0e9ecb5725037e9839fc515504008dae74/js/ad.js');
         newNode.setAttribute('async', true);
         existingNode.parentNode.insertBefore(newNode, existingNode);
     })(this);
@@ -1047,7 +1057,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-    <!-- dis9-->
+    <!-- dis7-->
 
 
 <script>var _check_hijack = function () {
