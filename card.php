@@ -2,7 +2,7 @@
 require_once( "init.php" );
 
 $page = new QuickSkin( "default/card.htm" );
-$page->assign( 'title',  'TemplateDemo' );
+$page->assign( 'title',  'card' );
 
 $page->set('template_dir', '_skins/');
 $page->set('temp_dir', '_skins_tmp/');

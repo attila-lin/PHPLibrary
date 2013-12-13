@@ -53,13 +53,14 @@ if( $_POST['action'] == 'insert'){
     echo "insert";
 
     print_r($_POST);
-    
 
-    //$query = mysql_query("SELECT `mno`,`mid` from `manager` where `mid`='$username' and `mpassword`='$password' limit 1");
-    $query = mysql_query("INSERT INTO  "
+
+    $query = mysql_query("SELECT `mno`,`mid` from `manager` where `mid`='$username' and `mpassword`='$password' limit 1");
+    $query = mysql_query(" INSERT INTO book (`category`, `title`, `press`, `year`, `author`, `price`, `briefcontent`, `total`, `stock`, `labels`, `cover`, `page`, `format`, `doubanID`, `ISBN`)\
+             VALUES ( '$_POST[category]', '$_POST[title]','$_POST[press]','$_POST[year]','$_POST[author]','$_POST[price]','$_POST[total]','$_POST[briefcontent]','$_POST[labels]','$_POST[cover]','$_POST[page]','$_POST[format]','$_POST[doubanID]','$_POST[ISBN]')" ); 
 
     //判断用户是否存在，密码是否正确 
-    if($row = mysql_fetch_array($query)) 
+    // if($row = mysql_fetch_array($query)) 
 
 }
 // 如果信息完整

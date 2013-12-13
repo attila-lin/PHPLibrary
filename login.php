@@ -33,11 +33,15 @@ if($_POST['action'] == "login"){
 	    $_SESSION['mno'] = $row['mno']; 
 	    $_SESSION['mid'] = $row['mid']; 
 
-	    echo "<a href='main.php' >欢迎登录，点击此处进入欢迎界面</a>"; 
-	    echo "<a href='insert.php' >图书入库</a>"; 
-	    echo "<a href='borrow.php' >借书</a>";
-	    echo "<a href='return.php' >还书</a>";
-	    echo "<a href='card.php' >借书证管理</a>";
+	    echo "<a href='main.php' >欢迎登录，点击此处进入欢迎界面</a> <br />"; 
+	    echo "<a href='insert.php' >图书入库</a> <br />"; 
+	    echo "<a href='borrow.php' >借书</a> <br />";
+	    echo "<a href='return.php' >还书</a> <br />";
+	    echo "<a href='card.php' >借书证管理</a> <br />";
+
+	    echo "<form action='login.php' method='post'>";
+	    echo "<input type='submit' name='action' value='logout'/>";
+		echo "</form>";
 	} 
 	else //如果用户名和密码不正确，则输出错误 
 	{ 
@@ -53,13 +57,11 @@ if($_POST['action'] == "login"){
 //以下部分用来 注销登录
 //********************************
 
-if($_GET['action'] == "logout"){
+if($_POST['action'] == "logout"){
     unset($_SESSION['mno']);
     unset($_SESSION['mid']);
-    echo '注销登录成功！点击此处 <a href="login.html">登录</a>';
+    echo '注销登录成功！点击此处 <a href="loginin.php">登录</a>';
     exit;
 }
-
-
 
 ?>

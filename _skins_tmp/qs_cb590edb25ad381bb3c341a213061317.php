@@ -1,6 +1,9 @@
 <html>
 <head>
-	<title>{title}</title>
+	<title><?php
+echo $_obj['title'];
+?>
+</title>
 </head>
 <body>
 
